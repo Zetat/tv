@@ -18,3 +18,4 @@ url="http://zetatec27.blogspot.com/p/player.html?canal=yeeah"&img="https://4.bp.
 url="http://zetatec27.blogspot.com/p/player.html?canal=hittv"&img="https://2.bp.blogspot.com/-HxS8CZZPkAE/WJsZiEzU0EI/AAAAAAAABxo/cpePY4rwJuIPMmSgLniS2KqLA3OCi2bOACLcB/s1600/zWYv20t3.jpg"&canal="HIT TV"
 url="http://zetatec27.blogspot.com/p/player.html?canal=bbb"&img="https://3.bp.blogspot.com/-QV-ig0X1B6Q/WKX3IXG6LSI/AAAAAAAABzE/wvXeY7dOIgYEeaQod_W-yuaX6jBkX6I5gCK4B/s400/bbb.png"&canal="BBB AO VIVO"
 url="http://zetatec27.blogspot.com/p/player.html?canal="&img=""&canal=""
+
