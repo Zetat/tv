@@ -313,7 +313,7 @@ http://158.69.127.12:25461/live/0101/0101/55.m3u8
 #EXTINF:Rede TV (BR)
 http://158.69.127.12:25461/live/0101/0101/53.m3u8
 #EXTINF:SBT (BR)
-http://158.69.127.12:25461/live/0101/0101/52.m3u8
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 #EXTINF:SBT HD (BR)
 http://158.69.127.12:25461/live/0101/0101/1910.m3u8
 #EXTINF:Space (BR)
