@@ -1,30 +1,424 @@
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=band"img="https://3.bp.blogspot.com/-ONp9HJjMB74/WJr_VWlkcjI/AAAAAAAABvs/u1ptZtuh7Sk_Y8qfrl8r-OIpmJsotmaYgCEw/s320/band.png"canal="BAND"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=sbt"img="https://3.bp.blogspot.com/-rgir5seYrvc/WJsLRM6nMfI/AAAAAAAABwM/SpLzaxCjwgQfLQwxuItnsMBhW7gxH3KuQCLcB/s320/sbt.png"canal="SBT"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=retrom"img="https://2.bp.blogspot.com/-NR9w8RSwbW8/WJsZXU-5WfI/AAAAAAAABws/t2SiG84F4FcOTV0S7OwDkpzHDeVHkt4FACLcB/s1600/99bf315400be046eda525c154645f49a.png"canal="RETRO MUSIC"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=tvcult"img="https://2.bp.blogspot.com/-gQDW5zBlI3c/WJsZYMy2EmI/AAAAAAAABww/-vfiKH_lb7EGbXubaPuaJu-aZR2KE9chgCLcB/s1600/Cultura_logo_2013.svg.png"canal="TV CULTURA"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=fish"img="https://1.bp.blogspot.com/-KjSwPi4oBCs/WJsZf-_YWJI/AAAAAAAABxM/33W4yVqDOnYCD3navTeGrG88yMNh8ga9QCLcB/s320/fishtv.png"canal="FISHTV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=futura"img="https://1.bp.blogspot.com/-MhTuAPY4jPs/WJsZgU32ggI/AAAAAAAABxU/ny3ttZThIY8KOePUR40I6Q401rHZKTbNgCLcB/s320/futura.png"canal="TVFUTURA"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=htv"img="https://4.bp.blogspot.com/-Sb8tuju-ghc/WJsZYpLrc6I/AAAAAAAABxA/4R8GUprcqrIBzHqcCj0kNpGLvW4-TnF_ACLcB/s320/Heart-TV-02-600x338.jpg"canal="HEART TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=hotm"img="https://3.bp.blogspot.com/-K9mPspfYB50/WJsZgpPNxPI/AAAAAAAABxc/vaRTvob9mcY03UdAZzv_xYFZEbvRsXhNQCLcB/s320/image.jpg"canal="HOT MUSIC"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=gazeta"img="https://2.bp.blogspot.com/-SMCO5PzDDT0/WJsZYysId_I/AAAAAAAABw0/Nnbeufe0Xf8WeHKFhwenHf65UcSz-x11QCLcB/s320/LOGO-GAZETA-COR.png"canal="TV GAZETA"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=redetv"img="https://2.bp.blogspot.com/-XwoIdhmQiQs/WJsZcfRcnWI/AAAAAAAABxQ/rpsez6Sj9RoKOqaI5eC90eLpu5Rj9VqUQCLcB/s320/LOGO_REDETV%2521.png"canal="REDE TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=rn"img="https://2.bp.blogspot.com/-fCRFh3lQfbg/WJsZa2uv43I/AAAAAAAABw4/shVoDHTg9BwGrviLrfQTNS6ygyXlAdfnACLcB/s320/Logotipo_da_Record_News_%25282016%2529.png"canal="RECORD NEWS"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=multitv"img="https://2.bp.blogspot.com/-k-bJHEDaEf4/WJsZdE2cX9I/AAAAAAAABw8/V-Z6Go_GP9sE2eS7HIBfsakVR43s3-ELACLcB/s1600/Multi_TV.png"canal="MULTI TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=musicb"img="https://4.bp.blogspot.com/-hGPrd8eOdNc/WJsZg9wMP6I/AAAAAAAABxY/laSbmJ3AujcfbR1Lt49yiYgh_265xkPhQCLcB/s320/music-box-tv.jpg"canal="MUSICBOX TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=nasa"img="https://1.bp.blogspot.com/-Em3anLMyQV8/WJsZhHw8TTI/AAAAAAAABxg/r6hY5sLcsKEJH_Nk3sSXOvG-6XttBhDxACLcB/s320/photo.jpg"canal="NASA TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=tvescola"img="https://1.bp.blogspot.com/-5cSji4zyV6c/WJsZe6D58qI/AAAAAAAABxE/CbrJ1aMMjZIe7qi9X3MTLccqgxxjf-MAACLcB/s320/TV-escola.png"canal="TV ESCOLA"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=tvbr"img="https://4.bp.blogspot.com/-afeB30PSH_c/WJsZiJXLkyI/AAAAAAAABxk/Z6xzrtmJ20ot73sxg0IL9wnE9zA-uE-IwCLcB/s320/tv_brasil_logo.png"canal="TV BRASIL"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=yeeah"img="https://4.bp.blogspot.com/-Lhml57YvuQ8/WJsZfV8Ft3I/AAAAAAAABxI/h7A6v5MdHKopvdoFT2hVj8xjz-v6SPtCwCLcB/s1600/Yeeah_TV.jpg"canal="YEEAH TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=hittv"img="https://2.bp.blogspot.com/-HxS8CZZPkAE/WJsZiEzU0EI/AAAAAAAABxo/cpePY4rwJuIPMmSgLniS2KqLA3OCi2bOACLcB/s1600/zWYv20t3.jpg"canal="HIT TV"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=bbb"img="https://3.bp.blogspot.com/-QV-ig0X1B6Q/WKX3IXG6LSI/AAAAAAAABzE/wvXeY7dOIgYEeaQod_W-yuaX6jBkX6I5gCK4B/s400/bbb.png"canal="BBB AO VIVO"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=bandnw"img="http://1.bp.blogspot.com/-GI02JuA0nZQ/WKgOoL7Oq6I/AAAAAAAAB0Q/tyFJo1SUcTECYxSMGidqb_dVZfVZLZljACK4B/s1600/bandnews.png"canal="BAND NEWS"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=animal"img="http://3.bp.blogspot.com/-JEQL7jgVZg0/WKgQg7JdojI/AAAAAAAAB0c/_ewJmjm0C4gvzjligLKf1eIF4YkUuOy8wCK4B/s1600/animal.png"canal="ANIMAL PLANET"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal=arte"img="http://4.bp.blogspot.com/-O8Hl7LZZHXI/WKgS37eyB6I/AAAAAAAAB0o/G43C3UYbdPMHfMRbAQXdlEFqtJ4VvSKugCK4B/s1600/arte.jpg"canal="ARTE1"
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
-zeta#url="http://zetatec27.blogspot.com/p/player.html?canal="img=""canal=""
+#EXTINF:Animal Planet HD (BR)
+http://158.69.127.12:25461/live/0101/0101/175.m3u8
+#EXTINF:Arte 1 (BR)
+http://158.69.127.12:25461/live/0101/0101/174.m3u8
+#EXTINF:AXN (BR)
+http://158.69.127.12:25461/live/0101/0101/173.m3u8
+#EXTINF:AXN HD (BR)
+http://158.69.127.12:25461/live/0101/0101/172.m3u8
+#EXTINF:Band (BR)
+http://158.69.127.12:25461/live/0101/0101/171.m3u8
+#EXTINF:Band HD (BR)
+http://158.69.127.12:25461/live/0101/0101/1908.m3u8
+#EXTINF:Band Alternativo (BR)
+http://158.69.127.12:25461/live/0101/0101/982.m3u8
+#EXTINF:Band News (BR)
+http://158.69.127.12:25461/live/0101/0101/170.m3u8
+#EXTINF:Band Spo.m3u8 (BR)
+http://158.69.127.12:25461/live/0101/0101/169.m3u8
+#EXTINF:Band Spo.m3u8 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/168.m3u8
+#EXTINF:BBB 17 (BR)
+http://158.69.127.12:25461/live/0101/0101/1906.m3u8
+#EXTINF:Fox News (US)
+http://158.69.127.12:25461/live/0101/0101/1939.m3u8
+#EXTINF:CNN (US)
+http://158.69.127.12:25461/live/0101/0101/1937.m3u8
+#EXTINF:Fuel TV HD (PT)
+http://158.69.127.12:25461/live/0101/0101/1932.m3u8
+#EXTINF:BIS (BR)
+http://158.69.127.12:25461/live/0101/0101/167.m3u8
+#EXTINF:BIS HD (BR)
+http://158.69.127.12:25461/live/0101/0101/166.m3u8
+#EXTINF:Boomerang (BR)
+http://158.69.127.12:25461/live/0101/0101/165.m3u8
+#EXTINF:Canal Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/164.m3u8
+#EXTINF:Canal Brasil HD (BR)
+http://158.69.127.12:25461/live/0101/0101/163.m3u8
+#EXTINF:Canal Sony (BR)
+http://158.69.127.12:25461/live/0101/0101/162.m3u8
+#EXTINF:Canal Sony HD (BR)
+http://158.69.127.12:25461/live/0101/0101/7.m3u8
+#EXTINF:Cartoon Network (BR)
+http://158.69.127.12:25461/live/0101/0101/5.m3u8
+#EXTINF:Cartoon HD (BR)
+http://158.69.127.12:25461/live/0101/0101/6.m3u8
+#EXTINF:Cinemax (BR)
+http://158.69.127.12:25461/live/0101/0101/4.m3u8
+#EXTINF:Cinemax HD (BR)
+http://158.69.127.12:25461/live/0101/0101/3.m3u8
+#EXTINF:Comedy Central (BR)
+http://158.69.127.12:25461/live/0101/0101/161.m3u8
+#EXTINF:Combate (BR)
+http://158.69.127.12:25461/live/0101/0101/2.m3u8
+#EXTINF:Combate HD (BR)
+http://158.69.127.12:25461/live/0101/0101/1.m3u8
+#EXTINF:Curta! (BR)
+http://158.69.127.12:25461/live/0101/0101/984.m3u8
+#EXTINF:Discovery Channel (BR)
+http://158.69.127.12:25461/live/0101/0101/159.m3u8
+#EXTINF:Discovery Channel HD (BR)
+http://158.69.127.12:25461/live/0101/0101/158.m3u8
+#EXTINF:Discovery Civilization (BR)
+http://158.69.127.12:25461/live/0101/0101/157.m3u8
+#EXTINF:Discovery H&H (BR)
+http://158.69.127.12:25461/live/0101/0101/156.m3u8
+#EXTINF:Discovery Home & Health HD (BR)
+http://158.69.127.12:25461/live/0101/0101/160.m3u8
+#EXTINF:Discovery Kids (BR)
+http://158.69.127.12:25461/live/0101/0101/155.m3u8
+#EXTINF:Discovery Kids HD (BR)
+http://158.69.127.12:25461/live/0101/0101/154.m3u8
+#EXTINF:Discovery Science (BR)
+http://158.69.127.12:25461/live/0101/0101/153.m3u8
+#EXTINF:Discovery Turbo (BR)
+http://158.69.127.12:25461/live/0101/0101/152.m3u8
+#EXTINF:Discovery Turbo HD (BR)
+http://158.69.127.12:25461/live/0101/0101/151.m3u8
+#EXTINF:Discovery World HD (BR)
+http://158.69.127.12:25461/live/0101/0101/150.m3u8
+#EXTINF:Disney (BR)
+http://158.69.127.12:25461/live/0101/0101/149.m3u8
+#EXTINF:Disney XD (BR)
+http://158.69.127.12:25461/live/0101/0101/146.m3u8
+#EXTINF:Disney Channel HD (BR)
+http://158.69.127.12:25461/live/0101/0101/148.m3u8
+#EXTINF:Disney Jr (BR)
+http://158.69.127.12:25461/live/0101/0101/147.m3u8
+#EXTINF:E! (BR)
+http://158.69.127.12:25461/live/0101/0101/145.m3u8
+#EXTINF:E! HD (BR)
+http://158.69.127.12:25461/live/0101/0101/144.m3u8
+#EXTINF:EI Max 1 (BR)
+http://158.69.127.12:25461/live/0101/0101/141.m3u8
+#EXTINF:EI Max 2 (BR)
+http://158.69.127.12:25461/live/0101/0101/140.m3u8
+#EXTINF:EI Maxx HD (BR)
+http://158.69.127.12:25461/live/0101/0101/142.m3u8
+#EXTINF:EI Maxx 2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/143.m3u8
+#EXTINF:ESPN (BR)
+http://158.69.127.12:25461/live/0101/0101/139.m3u8
+#EXTINF:ESPN HD (BR)
+http://158.69.127.12:25461/live/0101/0101/136.m3u8
+#EXTINF:ESPN Plus (BR)
+http://158.69.127.12:25461/live/0101/0101/135.m3u8
+#EXTINF:ESPN Plus HD (BR)
+http://158.69.127.12:25461/live/0101/0101/134.m3u8
+#EXTINF:ESPN Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/138.m3u8
+#EXTINF:ESPN Brasil HD (BR)
+http://158.69.127.12:25461/live/0101/0101/137.m3u8
+#EXTINF:Esporte Interativo (BR)
+http://158.69.127.12:25461/live/0101/0101/133.m3u8
+#EXTINF:Fish TV (BR)
+http://158.69.127.12:25461/live/0101/0101/132.m3u8
+#EXTINF:Food Network (BR)
+http://158.69.127.12:25461/live/0101/0101/985.m3u8
+#EXTINF:Fox (BR)
+http://158.69.127.12:25461/live/0101/0101/131.m3u8
+#EXTINF:Fox HD (BR)
+http://158.69.127.12:25461/live/0101/0101/129.m3u8
+#EXTINF:Fox 1 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/130.m3u8
+#EXTINF:Fox Action HD (BR)
+http://158.69.127.12:25461/live/0101/0101/1909.m3u8
+#EXTINF:Fox Life (BR)
+http://158.69.127.12:25461/live/0101/0101/128.m3u8
+#EXTINF:Fox Spo.m3u8 (BR)
+http://158.69.127.12:25461/live/0101/0101/127.m3u8
+#EXTINF:Fox Spo.m3u8 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/124.m3u8
+#EXTINF:Fox Spo.m3u8 2 (BR)
+http://158.69.127.12:25461/live/0101/0101/126.m3u8
+#EXTINF:Fox Spo.m3u8 2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/125.m3u8
+#EXTINF:FX (BR)
+http://158.69.127.12:25461/live/0101/0101/122.m3u8
+#EXTINF:FX HD (BR)
+http://158.69.127.12:25461/live/0101/0101/121.m3u8
+#EXTINF:Futura (BR)
+http://158.69.127.12:25461/live/0101/0101/123.m3u8
+#EXTINF:Gloob (BR)
+http://158.69.127.12:25461/live/0101/0101/117.m3u8
+#EXTINF:Gloob HD (BR)
+http://158.69.127.12:25461/live/0101/0101/116.m3u8
+#EXTINF:Globo Bahia (BR)
+http://158.69.127.12:25461/live/0101/0101/1006.m3u8
+#EXTINF:Globo Brasilia (BR)
+http://158.69.127.12:25461/live/0101/0101/986.m3u8
+#EXTINF:Globo Fortaleza (BR)
+http://158.69.127.12:25461/live/0101/0101/1008.m3u8
+#EXTINF:Globo Goiania (BR)
+http://158.69.127.12:25461/live/0101/0101/1005.m3u8
+#EXTINF:Globo Minas (BR)
+http://158.69.127.12:25461/live/0101/0101/987.m3u8
+#EXTINF:Globo Nordeste (BR)
+http://158.69.127.12:25461/live/0101/0101/988.m3u8
+#EXTINF:Globo RJ (BR)
+http://158.69.127.12:25461/live/0101/0101/989.m3u8
+#EXTINF:Globo RS (BR)
+http://158.69.127.12:25461/live/0101/0101/998.m3u8
+#EXTINF:Globo HD (BR)
+http://158.69.127.12:25461/live/0101/0101/120.m3u8
+#EXTINF:Globo Premium
+http://158.69.127.12:25461/live/0101/0101/1880.m3u8
+#EXTINF:GloboNews (BR)
+http://158.69.127.12:25461/live/0101/0101/119.m3u8
+#EXTINF:GloboNews HD (BR)
+http://158.69.127.12:25461/live/0101/0101/118.m3u8
+#EXTINF:GNT (BR)
+http://158.69.127.12:25461/live/0101/0101/115.m3u8
+#EXTINF:GNT HD (BR)
+http://158.69.127.12:25461/live/0101/0101/114.m3u8
+#EXTINF:H2 (BR)
+http://158.69.127.12:25461/live/0101/0101/113.m3u8
+#EXTINF:H2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/112.m3u8
+#EXTINF:HBO (BR)
+http://158.69.127.12:25461/live/0101/0101/111.m3u8
+#EXTINF:HBO HD (BR)
+http://158.69.127.12:25461/live/0101/0101/108.m3u8
+#EXTINF:HBO2 (BR)
+http://158.69.127.12:25461/live/0101/0101/103.m3u8
+#EXTINF:HBO2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/102.m3u8
+#EXTINF:HBO Family (BR)
+http://158.69.127.12:25461/live/0101/0101/110.m3u8
+#EXTINF:HBO Family HD (BR)
+http://158.69.127.12:25461/live/0101/0101/109.m3u8
+#EXTINF:HBO Signature (BR)
+http://158.69.127.12:25461/live/0101/0101/105.m3u8
+#EXTINF:HBO Signature HD (BR)
+http://158.69.127.12:25461/live/0101/0101/104.m3u8
+#EXTINF:HBO Plus (BR)
+http://158.69.127.12:25461/live/0101/0101/107.m3u8
+#EXTINF:HBO Plus*e (BR)
+http://158.69.127.12:25461/live/0101/0101/990.m3u8
+#EXTINF:HBO Plus HD (BR)
+http://158.69.127.12:25461/live/0101/0101/106.m3u8
+#EXTINF:History Channel HD (BR)
+http://158.69.127.12:25461/live/0101/0101/27.m3u8
+#EXTINF:History Channel (BR)
+http://158.69.127.12:25461/live/0101/0101/28.m3u8
+#EXTINF:Ideal TV (BR)
+http://158.69.127.12:25461/live/0101/0101/991.m3u8
+#EXTINF:ID – Investigação Discovery (BR)
+http://158.69.127.12:25461/live/0101/0101/100.m3u8
+#EXTINF:ID – Investigação Discovery HD (BR)
+http://158.69.127.12:25461/live/0101/0101/99.m3u8
+#EXTINF:I Sat (BR)
+http://158.69.127.12:25461/live/0101/0101/101.m3u8
+#EXTINF:Lifetime (BR)
+http://158.69.127.12:25461/live/0101/0101/992.m3u8
+#EXTINF:Lifetime HD (BR)
+http://158.69.127.12:25461/live/0101/0101/98.m3u8
+#EXTINF:Mais Globo Sat (BR)
+http://158.69.127.12:25461/live/0101/0101/97.m3u8
+#EXTINF:Mais Globosat HD (BR)
+http://158.69.127.12:25461/live/0101/0101/96.m3u8
+#EXTINF:MAX (BR)
+http://158.69.127.12:25461/live/0101/0101/95.m3u8
+#EXTINF:MAX HD (BR)
+http://158.69.127.12:25461/live/0101/0101/94.m3u8
+#EXTINF:MAX Prime (BR)
+http://158.69.127.12:25461/live/0101/0101/93.m3u8
+#EXTINF:MAX Prime*e (BR)
+http://158.69.127.12:25461/live/0101/0101/993.m3u8
+#EXTINF:MAX Prime Plus (BR)
+http://158.69.127.12:25461/live/0101/0101/92.m3u8
+#EXTINF:MAX UP (BR)
+http://158.69.127.12:25461/live/0101/0101/91.m3u8
+#EXTINF:MAX UP HD (BR)
+http://158.69.127.12:25461/live/0101/0101/90.m3u8
+#EXTINF:Megapix (BR)
+http://158.69.127.12:25461/live/0101/0101/89.m3u8
+#EXTINF:Megapix HD (BR)
+http://158.69.127.12:25461/live/0101/0101/88.m3u8
+#EXTINF:Music Box Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/83.m3u8
+#EXTINF:Multishow (BR)
+http://158.69.127.12:25461/live/0101/0101/85.m3u8
+#EXTINF:Multishow HD (BR)
+http://158.69.127.12:25461/live/0101/0101/84.m3u8
+#EXTINF:MTV (BR)
+http://158.69.127.12:25461/live/0101/0101/87.m3u8
+#EXTINF:MTV HD (BR)
+http://158.69.127.12:25461/live/0101/0101/86.m3u8
+#EXTINF:National Geographic (BR)
+http://158.69.127.12:25461/live/0101/0101/80.m3u8
+#EXTINF:NatGeo HD (BR)
+http://158.69.127.12:25461/live/0101/0101/82.m3u8
+#EXTINF:NatGeo Wild HD (BR)
+http://158.69.127.12:25461/live/0101/0101/81.m3u8
+#EXTINF:NBR (BR)
+http://158.69.127.12:25461/live/0101/0101/994.m3u8
+#EXTINF:Nickelodeon HD (BR)
+http://158.69.127.12:25461/live/0101/0101/77.m3u8
+#EXTINF:Nickelodeon (BR)
+http://158.69.127.12:25461/live/0101/0101/78.m3u8
+#EXTINF:Nick Jr (BR)
+http://158.69.127.12:25461/live/0101/0101/79.m3u8
+#EXTINF:Novo Tempo (BR)
+http://158.69.127.12:25461/live/0101/0101/76.m3u8
+#EXTINF:OFF (BR)
+http://158.69.127.12:25461/live/0101/0101/75.m3u8
+#EXTINF:OFF HD (BR)
+http://158.69.127.12:25461/live/0101/0101/74.m3u8
+#EXTINF:Paramount (BR)
+http://158.69.127.12:25461/live/0101/0101/73.m3u8
+#EXTINF:Paramount HD (BR)
+http://158.69.127.12:25461/live/0101/0101/72.m3u8
+#EXTINF:Play TV (BR)
+http://158.69.127.12:25461/live/0101/0101/995.m3u8
+#EXTINF:Premiere Clubes (BR)
+http://158.69.127.12:25461/live/0101/0101/57.m3u8
+#EXTINF:Premiere Clube HD (BR)
+http://158.69.127.12:25461/live/0101/0101/58.m3u8
+#EXTINF:Premiere 2 (BR)
+http://158.69.127.12:25461/live/0101/0101/70.m3u8
+#EXTINF:Premiere 2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/69.m3u8
+#EXTINF:Premiere 3 (BR)
+http://158.69.127.12:25461/live/0101/0101/68.m3u8
+#EXTINF:Premiere 3 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/67.m3u8
+#EXTINF:Premiere 4 (BR)
+http://158.69.127.12:25461/live/0101/0101/66.m3u8
+#EXTINF:Premiere 4 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/65.m3u8
+#EXTINF:Premiere 5 (BR)
+http://158.69.127.12:25461/live/0101/0101/64.m3u8
+#EXTINF:Premiere 5 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/63.m3u8
+#EXTINF:Premiere 6 (BR)
+http://158.69.127.12:25461/live/0101/0101/62.m3u8
+#EXTINF:Premiere 7 (BR)
+http://158.69.127.12:25461/live/0101/0101/61.m3u8
+#EXTINF:Premiere 8 (BR)
+http://158.69.127.12:25461/live/0101/0101/60.m3u8
+#EXTINF:Premiere 9 (BR)
+http://158.69.127.12:25461/live/0101/0101/59.m3u8
+#EXTINF:Prime Box Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/56.m3u8
+#EXTINF:Rede Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/999.m3u8
+#EXTINF:Rede Record (BR)
+http://158.69.127.12:25461/live/0101/0101/54.m3u8
+#EXTINF:Rede Record HD (BR)
+http://158.69.127.12:25461/live/0101/0101/1907.m3u8
+#EXTINF:Record News (BR)
+http://158.69.127.12:25461/live/0101/0101/55.m3u8
+#EXTINF:Rede TV (BR)
+http://158.69.127.12:25461/live/0101/0101/53.m3u8
+#EXTINF:SBT (BR)
+http://158.69.127.12:25461/live/0101/0101/52.m3u8
+#EXTINF:SBT HD (BR)
+http://158.69.127.12:25461/live/0101/0101/1910.m3u8
+#EXTINF:Space (BR)
+http://158.69.127.12:25461/live/0101/0101/48.m3u8
+#EXTINF:Space HD (BR)
+http://158.69.127.12:25461/live/0101/0101/47.m3u8
+#EXTINF:SporTV (BR)
+http://158.69.127.12:25461/live/0101/0101/46.m3u8
+#EXTINF:SporTV HD (BR)
+http://158.69.127.12:25461/live/0101/0101/179.m3u8
+#EXTINF:SporTV 2 (BR)
+http://158.69.127.12:25461/live/0101/0101/45.m3u8
+#EXTINF:SporTV 2 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/180.m3u8
+#EXTINF:SporTV 3 (BR)
+http://158.69.127.12:25461/live/0101/0101/44.m3u8
+#EXTINF:SporTV 3 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/181.m3u8
+#EXTINF:SporTV Alternativo (BR)
+http://158.69.127.12:25461/live/0101/0101/1003.m3u8
+#EXTINF:SporTV 2 Alternativo (BR)
+http://158.69.127.12:25461/live/0101/0101/1002.m3u8
+#EXTINF:Studio Universal (BR)
+http://158.69.127.12:25461/live/0101/0101/43.m3u8
+#EXTINF:Sic Internacional (BR)
+http://158.69.127.12:25461/live/0101/0101/49.m3u8
+#EXTINF:Syfy (BR)
+http://158.69.127.12:25461/live/0101/0101/42.m3u8
+#EXTINF:TBS (BR)
+http://158.69.127.12:25461/live/0101/0101/41.m3u8
+#EXTINF:TLC (BR)
+http://158.69.127.12:25461/live/0101/0101/26.m3u8
+#EXTINF:TLC HD (BR)
+http://158.69.127.12:25461/live/0101/0101/25.m3u8
+#EXTINF:TNT (BR)
+http://158.69.127.12:25461/live/0101/0101/24.m3u8
+#EXTINF:TNT HD (BR)
+http://158.69.127.12:25461/live/0101/0101/23.m3u8
+#EXTINF:TNT Series (BR)
+http://158.69.127.12:25461/live/0101/0101/21.m3u8
+#EXTINF:TCM (BR)
+http://158.69.127.12:25461/live/0101/0101/40.m3u8
+#EXTINF:Telecine Action (BR)
+http://158.69.127.12:25461/live/0101/0101/39.m3u8
+#EXTINF:Telecine Action HD (BR)
+http://158.69.127.12:25461/live/0101/0101/38.m3u8
+#EXTINF:Telecine Cult (BR)
+http://158.69.127.12:25461/live/0101/0101/37.m3u8
+#EXTINF:Telecine Fun (BR)
+http://158.69.127.12:25461/live/0101/0101/36.m3u8
+#EXTINF:Telecine Fun HD (BR)
+http://158.69.127.12:25461/live/0101/0101/35.m3u8
+#EXTINF:Telecine Pipoca (BR)
+http://158.69.127.12:25461/live/0101/0101/34.m3u8
+#EXTINF:Telecine Pipoca HD (BR)
+http://158.69.127.12:25461/live/0101/0101/33.m3u8
+#EXTINF:Telecine Premium (BR)
+http://158.69.127.12:25461/live/0101/0101/32.m3u8
+#EXTINF:Telecine Premium HD (BR)
+http://158.69.127.12:25461/live/0101/0101/31.m3u8
+#EXTINF:Telecine Touch (BR)
+http://158.69.127.12:25461/live/0101/0101/30.m3u8
+#EXTINF:Telecine Touch HD (BR)
+http://158.69.127.12:25461/live/0101/0101/29.m3u8
+#EXTINF:Terra Viva (BR)
+http://158.69.127.12:25461/live/0101/0101/1004.m3u8
+#EXTINF:Tooncast (BR)
+http://158.69.127.12:25461/live/0101/0101/20.m3u8
+#EXTINF:TV Aparecida (BR)
+http://158.69.127.12:25461/live/0101/0101/981.m3u8
+#EXTINF:TV Brasil (BR)
+http://158.69.127.12:25461/live/0101/0101/18.m3u8
+#EXTINF:TV Cancao Nova (BR)
+http://158.69.127.12:25461/live/0101/0101/983.m3u8
+#EXTINF:TV Cultura (BR)
+http://158.69.127.12:25461/live/0101/0101/17.m3u8
+#EXTINF:TV Prime Box Brazil (BR)
+http://158.69.127.12:25461/live/0101/0101/996.m3u8
+#EXTINF:TV Ra-Tim-Bum (BR)
+http://158.69.127.12:25461/live/0101/0101/1007.m3u8
+#EXTINF:TV RBI (BR)
+http://158.69.127.12:25461/live/0101/0101/997.m3u8
+#EXTINF:TV RIT (BR)
+http://158.69.127.12:25461/live/0101/0101/1001.m3u8
+#EXTINF:TV Rede Vida (BR)
+http://158.69.127.12:25461/live/0101/0101/1000.m3u8
+#EXTINF:TruTV (BR)
+http://158.69.127.12:25461/live/0101/0101/19.m3u8
+#EXTINF:Universal Channel (BR)
+http://158.69.127.12:25461/live/0101/0101/16.m3u8
+#EXTINF:Universal Channel HD (BR)
+http://158.69.127.12:25461/live/0101/0101/15.m3u8
+#EXTINF:Viva (BR)
+http://158.69.127.12:25461/live/0101/0101/12.m3u8
+#EXTINF:Shoptime (BR)
+http://158.69.127.12:25461/live/0101/0101/11.m3u8
+#EXTINF:VH1 HD (BR)
+http://158.69.127.12:25461/live/0101/0101/13.m3u8
+#EXTINF:VH1 Mega H.m3u8 (BR)
+http://158.69.127.12:25461/live/0101/0101/14.m3u8
+#EXTINF:Warner Channel (BR)
+http://158.69.127.12:25461/live/0101/0101/10.m3u8
+#EXTINF:Warner Channel HD (BR)
+http://158.69.127.12:25461/live/0101/0101/9.m3u8
+#EXTINF:NatGeo Wild HD (PT)
+http://158.69.127.12:25461/live/0101/0101/1948.m3u8
+#EXTINF:Woohoo (BR)
+http://158.69.127.12:25461/live/0101/0101/8.m3u8
