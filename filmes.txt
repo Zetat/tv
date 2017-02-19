@@ -1,610 +1,896 @@
-#EXTINF:https://1.bp.blogspot.com/-dwsc48fNias/VzywMFIXBUI/AAAAAAAAAnE/dkP0TRUsi8c8IfPutDYyhZmGBbaFhp-HgCLcB/s1600/093718.jpg,ACOLINAESCARLATE
+#EXTINF:https://1.bp.blogspot.com/-dwsc48fNias/VzywMFIXBUI/AAAAAAAAAnE/dkP0TRUsi8c8IfPutDYyhZmGBbaFhp-HgCLcB/s1600/093718.jpg", A COLINA ESCARLATE
 https://lh3.googleusercontent.com/mOcPoxUU4IiiMi-H9GX5LSvynvNU_hEFx4kyuK-uo3EUBGi7PnkKoh72PLnirxyL5fI6Ccy1A3ON=m22
-#EXTINF:https://1.bp.blogspot.com/-LSBEfuyysjI/VzywRsgdo0I/AAAAAAAAAoI/6zYQNmDoty4flxoWCxKqZzh6RPUnPqM2gCLcB/s1600/323813.jpg,NOCORACAODOMAR
+
+#EXTINF:https://1.bp.blogspot.com/-LSBEfuyysjI/VzywRsgdo0I/AAAAAAAAAoI/6zYQNmDoty4flxoWCxKqZzh6RPUnPqM2gCLcB/s1600/323813.jpg", NO CORACAO DO MAR
 https://lh3.googleusercontent.com/W_46p0KuMBJxnkO2Dq3dMSvs6lBEOnZTNFPs_Ccw3ZV8tcVQhVE7fOe8i6EXGNNBCusxffLMBKRIgA=m18
-#EXTINF:https://4.bp.blogspot.com/-caVvcTW9N9E/VzywX6U-D7I/AAAAAAAAApE/V79K7gznGlAS-zkZw0dxI1kIgVBXCGGqQCLcB/s1600/CREED-NASCIDO-PARA-LUTAR.jpg,CREED:NASCIDOPARALUTAR
+
+#EXTINF:https://4.bp.blogspot.com/-caVvcTW9N9E/VzywX6U-D7I/AAAAAAAAApE/V79K7gznGlAS-zkZw0dxI1kIgVBXCGGqQCLcB/s1600/CREED-NASCIDO-PARA-LUTAR.jpg", CREED: NASCIDO PARA LUTAR
 https://lh3.googleusercontent.com/fkEHIhtI_bAw54U9lRExdiGYyM9PxPfFva74dkPVGYiGM9WKQkrDdH7GUiOGTnsZHugi-DnXZQGD=m18
-#EXTINF:https://1.bp.blogspot.com/-FS9S3lOzsOc/VzywNx64ffI/AAAAAAAAAnQ/2b2KzMRGiHYloloWq6AagCik7f8GLec-gCLcB/s1600/13012_d_iphone.jpg,OREINOGELADO2
+
+#EXTINF:https://1.bp.blogspot.com/-FS9S3lOzsOc/VzywNx64ffI/AAAAAAAAAnQ/2b2KzMRGiHYloloWq6AagCik7f8GLec-gCLcB/s1600/13012_d_iphone.jpg", O REINO GELADO 2
 https://lh3.googleusercontent.com/2bF4OurJ0rgaZ4H-14XhCDtKdLfm-lTCmaVgSV7LDANG7A_GsfD1vK-CpDySSYTqFLWcpuZp3QhE=m22
-#EXTINF:https://2.bp.blogspot.com/-4HmLEozbPDc/VzywbhrqQUI/AAAAAAAAApo/OQrDoGdTg5A_MFRLrVK64E_A9i0BUoNdQCLcB/s1600/O-Sequestro-do-%25C3%2594nibus-657-DUBLADO-720p-e-1080p.jpg,OSEQUESTRODOONIBUS657
+
+#EXTINF:https://2.bp.blogspot.com/-4HmLEozbPDc/VzywbhrqQUI/AAAAAAAAApo/OQrDoGdTg5A_MFRLrVK64E_A9i0BUoNdQCLcB/s1600/O-Sequestro-do-%25C3%2594nibus-657-DUBLADO-720p-e-1080p.jpg", O SEQUESTRO DO ONIBUS 657
 https://lh3.googleusercontent.com/qmVxvYEVkdSNKmhlPKaHDPq7ubHAuBGplaOP3rrZUjkcUbwWgIsQa_TLoooDuvw4nNmETlVqtadY=m22
-#EXTINF:https://2.bp.blogspot.com/-23j6TgFQPGk/VzywcBCk0RI/AAAAAAAAAp0/WR7z4ytkaoYXT1deXATyBJJTZwysnKFDACLcB/s1600/Persegui%25C3%25A7%25C3%25A3o.jpg,PERSEGUICAO
+
+#EXTINF:https://2.bp.blogspot.com/-23j6TgFQPGk/VzywcBCk0RI/AAAAAAAAAp0/WR7z4ytkaoYXT1deXATyBJJTZwysnKFDACLcB/s1600/Persegui%25C3%25A7%25C3%25A3o.jpg", PERSEGUICAO
 https://lh3.googleusercontent.com/hg2KBn6S6Q_r1LV8OPg5tg7Xg7HAXvG_mqa_tM_46C-AIwiT8Jsdy0UzgItGIf5M1jWpSF60z32O=m18
-#EXTINF:https://3.bp.blogspot.com/-Tx3E6jOj9Oo/VzywWXNRI0I/AAAAAAAAAo8/SOARv9bTUi4cQXpOd9JHsS0WApgnbj9KwCLcB/s1600/Atraves%2Bda%2BMascara.jpg,ALEMDAMASCARA
+
+#EXTINF:https://3.bp.blogspot.com/-Tx3E6jOj9Oo/VzywWXNRI0I/AAAAAAAAAo8/SOARv9bTUi4cQXpOd9JHsS0WApgnbj9KwCLcB/s1600/Atraves%2Bda%2BMascara.jpg", ALEM DA MASCARA
 https://lh3.googleusercontent.com/NGILhr3gRNN1DRUTlyFfau-jturBxPC6FZPTAg4rjLDmRoDk1MEzQNU4j-Z8eXnBY-6daKLekGHV=M22
-#EXTINF:https://1.bp.blogspot.com/-3BGFy2LPL_k/VzywizxIFbI/AAAAAAAAAqs/gv8YnruaMl0mIX9T0XRE9XlpNmq4ugLbgCLcB/s1600/goosebumps-142928-e1436293138250.jpg,GOOSEBUMPS:MONSTROSEARREPIOS
+
+#EXTINF:https://1.bp.blogspot.com/-3BGFy2LPL_k/VzywizxIFbI/AAAAAAAAAqs/gv8YnruaMl0mIX9T0XRE9XlpNmq4ugLbgCLcB/s1600/goosebumps-142928-e1436293138250.jpg", GOOSEBUMPS: MONSTROS E ARREPIOS
 https://lh3.googleusercontent.com/-IO4-OPDu9h6UriShsn16606oVMNlV4jucowfMDemtty8w1IQVmM2zz6ccCBEWSTZVZSyN8cDCzK=m18
-#EXTINF:https://3.bp.blogspot.com/-l99ObRjImck/VzywnVFX3GI/AAAAAAAAArA/gheXSP1rV3AVeRhZ8A-F4F2kDwODA1PoACLcB/s1600/jbbr_SPECTRE_Teaser_Poster_BR_HighRes.jpg,007CONTRASPECTRE
+
+#EXTINF:https://3.bp.blogspot.com/-l99ObRjImck/VzywnVFX3GI/AAAAAAAAArA/gheXSP1rV3AVeRhZ8A-F4F2kDwODA1PoACLcB/s1600/jbbr_SPECTRE_Teaser_Poster_BR_HighRes.jpg", 007 CONTRA SPECTRE
 https://lh3.googleusercontent.com/zsdD9r3HUNci8Qths8qiD8g7W_m6fbzv8CIg9I_X5tk1vKby30LRXtiIA9IOO6FtlgmqBcf_ZTNv=m22
-#EXTINF:https://3.bp.blogspot.com/-SPVwdIPOMUk/VzywngswXHI/AAAAAAAAArQ/wq8K1WvoXEAJ0_Pfxke1keffjmrPDCNaQCLcB/s1600/onesheet.jpg,HOTELTRANSYLVANIA2
+
+#EXTINF:https://3.bp.blogspot.com/-SPVwdIPOMUk/VzywngswXHI/AAAAAAAAArQ/wq8K1WvoXEAJ0_Pfxke1keffjmrPDCNaQCLcB/s1600/onesheet.jpg", HOTEL TRANSYLVANIA 2
 https://lh3.googleusercontent.com/PTcAL3S36anDDM3UUJzt3KVPyuY6-O8W0ijnZjvuZN-8yqg4P7_hbDSM5_lSeu_37mq8jvaJuMsr=m22
-#EXTINF:https://3.bp.blogspot.com/-dR2srTpNZdg/Vzywh6Y7RkI/AAAAAAAAAqc/P4n6Zq5wmJwvImhwB2FyvcT6ARfGJ5LywCLcB/s1600/Vai-Que-Cola-O-Filme.jpg,VAIQUECOLAOFILME
+
+#EXTINF:https://3.bp.blogspot.com/-dR2srTpNZdg/Vzywh6Y7RkI/AAAAAAAAAqc/P4n6Zq5wmJwvImhwB2FyvcT6ARfGJ5LywCLcB/s1600/Vai-Que-Cola-O-Filme.jpg", VAI QUE COLA O FILME
 https://lh3.googleusercontent.com/pskjWTYB3crOkeH4cRH7k_hpguGlFUcXtJ4rZRTI4Apfajg5Uv4fP7GfB1uVQEsz7M7cENOzi22F=m22
-#EXTINF:https://4.bp.blogspot.com/-6YxNEA9L52Q/VzywU3r08vI/AAAAAAAAAos/1I2AlPMR55MyDFYmIDqMWRyXgNKBnqvsACLcB/s1600/A9lBzMw1tOtMb8QZ2kob1edS8tf.jpg,JOESUJO2
+
+#EXTINF:https://4.bp.blogspot.com/-6YxNEA9L52Q/VzywU3r08vI/AAAAAAAAAos/1I2AlPMR55MyDFYmIDqMWRyXgNKBnqvsACLcB/s1600/A9lBzMw1tOtMb8QZ2kob1edS8tf.jpg", JOE SUJO 2
 https://lh3.googleusercontent.com/LA0S6iUl31bhugmYVvXZW9sjwYSVisyMFh2BO1wDeyoHhzGGKfNtwMqLlyZO-Bhp7xyUtpIG1Aye=22
-#EXTINF:https://2.bp.blogspot.com/-kfT4Fc9nxE4/VzywpLtmeWI/AAAAAAAAArY/t6pGmOEmANAlYvQlaCFJSzscJgkYshRpgCLcB/s1600/victor-frankenstein-poster.jpg,VICTORFRANKENSTEIN
+
+#EXTINF:https://2.bp.blogspot.com/-kfT4Fc9nxE4/VzywpLtmeWI/AAAAAAAAArY/t6pGmOEmANAlYvQlaCFJSzscJgkYshRpgCLcB/s1600/victor-frankenstein-poster.jpg", VICTOR FRANKENSTEIN
 https://lh3.googleusercontent.com/tRhkV4cO4lNolxpeI9RIIPVuohbkTzYNt3O3MtNfkQrVKw6SsPnYfAP92y5CqPrfM1oLXvsRGL_e=m22
-#EXTINF:https://2.bp.blogspot.com/-4jCXpK_X5Aw/VzywcIYjVOI/AAAAAAAAAps/dMDg3Aoom5IsTLXHnOv26a_yatkySSZtgCLcB/s1600/O-Tigre-e-o-Dragao-A-Espada-do-Destino-2016.jpg,OTIGREEODRAGAO:AESPADADODESTINO
+
+#EXTINF:https://2.bp.blogspot.com/-4jCXpK_X5Aw/VzywcIYjVOI/AAAAAAAAAps/dMDg3Aoom5IsTLXHnOv26a_yatkySSZtgCLcB/s1600/O-Tigre-e-o-Dragao-A-Espada-do-Destino-2016.jpg", O TIGRE E O DRAGAO: A ESPADA DO DESTINO
 https://lh3.googleusercontent.com/C6YbVPuY-vySR5hjXPRR30h1mlu08_wMhrfgsFgpqv747RSBCBIRZNjpOsglAHiDw1X9NxmrP_i-hQ=m18
-#EXTINF:https://4.bp.blogspot.com/-zgRVC0gLoLE/VzywOUeka3I/AAAAAAAAAnk/V-S35W4T9XQqgMzYMwb4vOlgp0UQxrGHACLcB/s1600/20151120_102035_MOCKINGJAY-1120-01.jpg,JOGOSVORAZES:AESPERANCAOFINALLEGENDADO
-https://onedrive.live.com/download?resid=6093D5492A97AE77!180&authkey=!AANIeWlNAWKRf8s&ithint=file%2cphp
 
-#EXTINF:https://2.bp.blogspot.com/-Z2e3fQlEKyw/VzywnccEe_I/AAAAAAAAArE/AE9Z0c1X9xolWZceQ9WGOxFZVr4YWRoGgCLcB/s1600/o_ultimo_cacador_de_bruxas.jpg,OULTIMOCACADORDEBRUXAS
-https://dl.dropboxusercontent.com/s/j2jlw67m4zzgtuz/O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29-O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4?dl=0
+#EXTINF:https://4.bp.blogspot.com/-zgRVC0gLoLE/VzywOUeka3I/AAAAAAAAAnk/V-S35W4T9XQqgMzYMwb4vOlgp0UQxrGHACLcB/s1600/20151120_102035_MOCKINGJAY-1120-01.jpg", JOGOS VORAZES: A ESPERANCA O FINAL LEGENDADO
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!180&authkey=!AANIeWlNAWKRf8s&ithint=file%2cphp
 
-#EXTINF:https://4.bp.blogspot.com/-1lm5IYrDlp0/VzywZuOKJRI/AAAAAAAAApY/mvxnOEGKNLA_BI1ISZQTiZNquTXy25ERgCLcB/s1600/Jarhead-3-The-Siege-2016.jpg,SOLDADOANONIMO3OCERCO
-https://onedrive.live.com/download?resid=6093D5492A97AE77!174&authkey=!AN9PUQ_QJwPSBxU&ithint=video%2cavi
+#EXTINF:https://2.bp.blogspot.com/-Z2e3fQlEKyw/VzywnccEe_I/AAAAAAAAArE/AE9Z0c1X9xolWZceQ9WGOxFZVr4YWRoGgCLcB/s1600/o_ultimo_cacador_de_bruxas.jpg", O ULTIMO CACADOR DE BRUXAS
+https://dl.dropboxusercontent.com/s/j2jlw67m4zzgtuz/O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29-O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4dl=0
 
-#EXTINF:https://3.bp.blogspot.com/-_lX-prLWwRE/VzywYe7brzI/AAAAAAAAApQ/wSKkxKkYhY8aPxXxeOc5m8HqjcseYeQ6gCLcB/s1600/FJDJFcd.jpg,PAIEMDOSEDUPLA
-https://onedrive.live.com/download?resid=6093D5492A97AE77!184&authkey=!ALlOYXVjUKFbY5M&ithint=file%2cmkv
+#EXTINF:https://4.bp.blogspot.com/-1lm5IYrDlp0/VzywZuOKJRI/AAAAAAAAApY/mvxnOEGKNLA_BI1ISZQTiZNquTXy25ERgCLcB/s1600/Jarhead-3-The-Siege-2016.jpg", SOLDADO ANONIMO 3 O CERCO
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!174&authkey=!AN9PUQ_QJwPSBxU&ithint=video%2cavi
 
-#EXTINF:https://1.bp.blogspot.com/-vTpcN7b6TGY/Vzywi40TQLI/AAAAAAAAAqo/mKYJsuMGSnM7kWzxDIYMwGJlDaPcHQ3sQCLcB/s1600/hbrxgsM.jpg,OBOMDINOSSAURO
-https://onedrive.live.com/download?resid=6093D5492A97AE77!186&authkey=!AJy9Cu-PYcnlD3c&ithint=video%2cmp4
+#EXTINF:https://3.bp.blogspot.com/-_lX-prLWwRE/VzywYe7brzI/AAAAAAAAApQ/wSKkxKkYhY8aPxXxeOc5m8HqjcseYeQ6gCLcB/s1600/FJDJFcd.jpg", PAI EM DOSE DUPLA
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!184&authkey=!ALlOYXVjUKFbY5M&ithint=file%2cmkv
 
-#EXTINF:https://1.bp.blogspot.com/-gPvNfu-n6ig/VzywSqTw3TI/AAAAAAAAAoY/eFfcrFvH_5wqKzMhu-0xtUB9_8oZG1-twCLcB/s1600/3fg6W4l.jpg,AGRANDEAPOSTA
-https://onedrive.live.com/download?resid=6093D5492A97AE77!187&authkey=!ALZth0oOkfIAhdg&ithint=video%2cmp4
+#EXTINF:https://1.bp.blogspot.com/-vTpcN7b6TGY/Vzywi40TQLI/AAAAAAAAAqo/mKYJsuMGSnM7kWzxDIYMwGJlDaPcHQ3sQCLcB/s1600/hbrxgsM.jpg", O BOM DINOSSAURO
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!186&authkey=!AJy9Cu-PYcnlD3c&ithint=video%2cmp4
 
-#EXTINF:https://2.bp.blogspot.com/-MkLnS6nRPAE/Vzywh7vkHSI/AAAAAAAAAqg/XIWvTrenJhs4q2pNa2HJFcYrvoNxV_FMACLcB/s1600/ceRgWCX.jpg,OBICHOVAIPEGAR4
-https://onedrive.live.com/download?resid=6093D5492A97AE77!188&authkey=!AGdqzD2twvbgMco&ithint=file%2cmkv
+#EXTINF:https://1.bp.blogspot.com/-gPvNfu-n6ig/VzywSqTw3TI/AAAAAAAAAoY/eFfcrFvH_5wqKzMhu-0xtUB9_8oZG1-twCLcB/s1600/3fg6W4l.jpg", A GRANDE APOSTA
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!187&authkey=!ALZth0oOkfIAhdg&ithint=video%2cmp4
+
+#EXTINF:https://2.bp.blogspot.com/-MkLnS6nRPAE/Vzywh7vkHSI/AAAAAAAAAqg/XIWvTrenJhs4q2pNa2HJFcYrvoNxV_FMACLcB/s1600/ceRgWCX.jpg", O BICHO VAI PEGAR 4
+https://onedrive.live.com/downloadresid=6093D5492A97AE77!188&authkey=!AGdqzD2twvbgMco&ithint=file%2cmkv
 
 
-#EXTINF:https://2.bp.blogspot.com/-QGH75iyMJ3c/VzywMIbE2nI/AAAAAAAAAnA/3soEG8nVkZUUN21JqOl3EbZpiqXT8q1eACLcB/s1600/090910.jpg,OREGRESSO
+#EXTINF:https://2.bp.blogspot.com/-QGH75iyMJ3c/VzywMIbE2nI/AAAAAAAAAnA/3soEG8nVkZUUN21JqOl3EbZpiqXT8q1eACLcB/s1600/090910.jpg", O REGRESSO
 https://lh3.googleusercontent.com/TeOKk7H5xIXmyzC__ud8Jty_cnn4uCLcp86G_g8wyB4GshYfzl7N2juu9hRYaS5LBUxT7W7YLLscaw=m18
+ 
 
-#EXTINF:https://3.bp.blogspot.com/-QeLCu2Sf2-U/VzywP3nSPFI/AAAAAAAAAn0/J7cbavKVLxE970FEGiLfTp_DnbMbdMEzgCLcB/s1600/212849.jpg,TUDOPORUMFURO
+#EXTINF:https://3.bp.blogspot.com/-QeLCu2Sf2-U/VzywP3nSPFI/AAAAAAAAAn0/J7cbavKVLxE970FEGiLfTp_DnbMbdMEzgCLcB/s1600/212849.jpg", TUDO POR UM FURO
 https://lh3.googleusercontent.com/xXAFnCDL_wM0GB1gP311jkT7q4QDQkiB0wi-7itXXGoJXyJl2ytk6gyOuu8qjZjlCe5NAxypR8QVGQ=m18
-#EXTINF:https://1.bp.blogspot.com/-pRkwY8t4kvI/VzywLtbF_BI/AAAAAAAAAm8/CvZvz3leRWAEASx2qYHotvIdt-Ey42P4gCLcB/s1600/001181.jpg,NAOACEITAMOSDEVOLUCOES
+
+#EXTINF:https://1.bp.blogspot.com/-pRkwY8t4kvI/VzywLtbF_BI/AAAAAAAAAm8/CvZvz3leRWAEASx2qYHotvIdt-Ey42P4gCLcB/s1600/001181.jpg", NAO ACEITAMOS DEVOLUCOES
 https://lh3.googleusercontent.com/6nVodrAWgGgDPX3MG6HOlbwd5tW3b91CeKtRACb52yjMjEXgj3-hjmCxn-63pv5hJ6D6NLEufdRHZw=m18
-#EXTINF:https://4.bp.blogspot.com/-8YdeVFdQdZs/Vzywak2FYgI/AAAAAAAAApg/-djLY8ZyJ-oZCEwCpWiXBSmnfacNLD8IwCLcB/s1600/JUNTOS-E-MISTURADOS.jpg,JUNTOSEMISTURADOS
+
+#EXTINF:https://4.bp.blogspot.com/-8YdeVFdQdZs/Vzywak2FYgI/AAAAAAAAApg/-djLY8ZyJ-oZCEwCpWiXBSmnfacNLD8IwCLcB/s1600/JUNTOS-E-MISTURADOS.jpg", JUNTOS E MISTURADOS 
 https://lh3.googleusercontent.com/krlNAskMM2Gw-5CAiNiY8f1xyJg5AFmjeXkdxpLmPR17_eH_yqLcMXUqAskyfv30TM3t=m18
-#EXTINF:https://2.bp.blogspot.com/-YTR-_keSdbs/VzywuhoLlwI/AAAAAAAAArc/-l-Utf03dkYoHhjS86de_3kYGb93BKO-ACLcB/s1600/vizinhos.jpg,VIZINHOS
+
+#EXTINF:https://2.bp.blogspot.com/-YTR-_keSdbs/VzywuhoLlwI/AAAAAAAAArc/-l-Utf03dkYoHhjS86de_3kYGb93BKO-ACLcB/s1600/vizinhos.jpg", VIZINHOS
 https://lh3.googleusercontent.com/peKYooHW-1uWqtGLUrxGpfkZSZ5LeqqML5ep17dv62k53DEkLW7OdwQCsL-lQl77-E4jVZ73ybpq4A=m18
-#EXTINF:https://4.bp.blogspot.com/-UkUbKwvuPjs/VzywYbWXDOI/AAAAAAAAApM/4cHyaYsRdbYaa90y_CbIQeO6q4c0v7m_gCLcB/s1600/Fury-17set2014-poster.jpg,CORACOESDEFERRO
+
+#EXTINF:https://4.bp.blogspot.com/-UkUbKwvuPjs/VzywYbWXDOI/AAAAAAAAApM/4cHyaYsRdbYaa90y_CbIQeO6q4c0v7m_gCLcB/s1600/Fury-17set2014-poster.jpg", CORACOES DE FERRO
 https://lh3.googleusercontent.com/50SxndBuQH6ecKZOQ-GOZeWLN0zZBDAfl1iAmuEfE68Xuk8NgqK12s1ov-DGeU1N1U14=m22
-#EXTINF:https://3.bp.blogspot.com/-PAYQ2gaE8vM/VzywnwJ5sXI/AAAAAAAAArM/u4zCuAfydoYggosfym_T5VK_StZNMVvygCLcB/s1600/palavras_cartaz_220x283.jpg,ASMILPALAVRAS
+
+#EXTINF:https://3.bp.blogspot.com/-PAYQ2gaE8vM/VzywnwJ5sXI/AAAAAAAAArM/u4zCuAfydoYggosfym_T5VK_StZNMVvygCLcB/s1600/palavras_cartaz_220x283.jpg", AS MIL PALAVRAS
 https://lh3.googleusercontent.com/Hp2GpoHD6rLdSr6m7o-fU1XDk9ZRj3YNfhdslw7TitLpuHZrGUyarrVtZEr_oOKhtqQ=m22
-#EXTINF:https://4.bp.blogspot.com/-oSq24DMr6eo/VzywhAY--oI/AAAAAAAAAqY/ns5yPxRoK0EO7fikL5h5YQrSHUgbP9GtwCLcB/s1600/cartaz_sagamolusco_cartaz_220x283.jpg,ASAGAMOLUSCO
+
+#EXTINF:https://4.bp.blogspot.com/-oSq24DMr6eo/VzywhAY--oI/AAAAAAAAAqY/ns5yPxRoK0EO7fikL5h5YQrSHUgbP9GtwCLcB/s1600/cartaz_sagamolusco_cartaz_220x283.jpg", A SAGA MOLUSCO
 https://lh3.googleusercontent.com/BSzvVnWSiRM5Y0VfT2LzjteuOlZlC7PxR-8D0PPefDCRWqjl_06Nl49iFZhGLGP6etEK=m18
-#EXTINF:https://1.bp.blogspot.com/-75kyK-Ny5S8/VzywUIz8LfI/AAAAAAAAAoc/m_8rXhgq-igHiTxYXv2yuAz7VQUla7RiACLcB/s1600/500-DIAS-COM-ELA.jpg,500DIASCOMELA
+
+#EXTINF:https://1.bp.blogspot.com/-75kyK-Ny5S8/VzywUIz8LfI/AAAAAAAAAoc/m_8rXhgq-igHiTxYXv2yuAz7VQUla7RiACLcB/s1600/500-DIAS-COM-ELA.jpg", 500 DIAS COM ELA 
 https://lh3.googleusercontent.com/rv4dhQYbT85WIUL-E4GsmeVFYn6waEw8fz9UHV4HyDLyqtxcBWY5gJ_bsLonLGkdfCWK=m18
-#EXTINF:https://3.bp.blogspot.com/-LfWrH-0FhFo/VzywOBWybjI/AAAAAAAAAng/Pun6_Xd-0uszE-9nc6mIEhF4XlnKBVsoACLcB/s1600/200px-The_Iron_Lady_2011.jpg,ADAMADEFERRO
+
+#EXTINF:https://3.bp.blogspot.com/-LfWrH-0FhFo/VzywOBWybjI/AAAAAAAAAng/Pun6_Xd-0uszE-9nc6mIEhF4XlnKBVsoACLcB/s1600/200px-The_Iron_Lady_2011.jpg",A DAMA DE FERRO 
 https://lh3.googleusercontent.com/Hin-3wqmuF73WoSVSqay7SZMPQQVjmSkJuCrJKwvliUm9tjaVfXUQuxyro19ws737lpT=m18
-#EXTINF:https://1.bp.blogspot.com/-PrJdqaPCcYk/VzyweazrWPI/AAAAAAAAAqI/gD3CYVOeQ68DEjm36YJNtzrptbH2_RnAwCLcB/s1600/a-fonte-das-mulheres.jpg,AFONTEDASMULHERES
+
+#EXTINF:https://1.bp.blogspot.com/-PrJdqaPCcYk/VzyweazrWPI/AAAAAAAAAqI/gD3CYVOeQ68DEjm36YJNtzrptbH2_RnAwCLcB/s1600/a-fonte-das-mulheres.jpg",A FONTE DAS MULHERES
 https://lh3.googleusercontent.com/BWDEdMBTMN2THm-0b5iOfyqNCjiAmwCgo-FqFdi3Yp24G-WXOMa60VTqSbGmbqVqeM8Z=m18
-#EXTINF:https://2.bp.blogspot.com/-WSWOzMyfUYs/VzywhEqC_fI/AAAAAAAAAqU/qQK03X7GrT07-Ys1CY9kaZVVTHizyHl1ACLcB/s1600/cartaz-a-rede-social.jpg,AREDESOCIAL
+
+#EXTINF:https://2.bp.blogspot.com/-WSWOzMyfUYs/VzywhEqC_fI/AAAAAAAAAqU/qQK03X7GrT07-Ys1CY9kaZVVTHizyHl1ACLcB/s1600/cartaz-a-rede-social.jpg",A REDE SOCIAL
 https://lh3.googleusercontent.com/AhLI3Rz50AtAbv7vforHBK5YcEKq-gYllIoJJRD0eSDVjt-PBrfAD8LVlB3C1TbXrHFh=m18
-#EXTINF:https://2.bp.blogspot.com/-0lf9LqyjffI/VzywOcr8FQI/AAAAAAAAAnc/tX_HEzU90mA_NjhjqTSz04liKmP9pKTzQCLcB/s1600/20102333.jpg,ASUPREMACIABOURNE
+
+#EXTINF:https://2.bp.blogspot.com/-0lf9LqyjffI/VzywOcr8FQI/AAAAAAAAAnc/tX_HEzU90mA_NjhjqTSz04liKmP9pKTzQCLcB/s1600/20102333.jpg",A SUPREMACIA BOURNE
 https://lh3.googleusercontent.com/QJCkaDFbVxJximLvWs5drAV4TYNScEy3RDn6UmwfHBpS6G5CYeUyc6tL1dGUB9uZlh2R=m18
-#EXTINF:https://1.bp.blogspot.com/-NnMUddaANKk/VzywWPe6fNI/AAAAAAAAAo4/bon6n4S7TwsSRNBCpxWIIbo9TW-YRVlugCLcB/s1600/Alice-No-Pais-Das-Maravilhas.jpg,ALICENOPAISDASMARAVILHAS
+
+#EXTINF:https://1.bp.blogspot.com/-NnMUddaANKk/VzywWPe6fNI/AAAAAAAAAo4/bon6n4S7TwsSRNBCpxWIIbo9TW-YRVlugCLcB/s1600/Alice-No-Pais-Das-Maravilhas.jpg",ALICE NO PAIS DAS MARAVILHAS  
 https://lh3.googleusercontent.com/kdXoc_QZYaYW2fZn1I2ffP2Le0DEhuNFnCfS-bGe7Lj3P35kQeoDT2EW0zKIFiH87dYp=m18
-#EXTINF:https://4.bp.blogspot.com/-jErApvazpHI/VzywN1EyOOI/AAAAAAAAAnU/_IJg4PJwf2gwiGzRzxK8QTKsGFDBPtElwCLcB/s1600/20080395.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,AMEACATERRORISTA
+
+#EXTINF:https://4.bp.blogspot.com/-jErApvazpHI/VzywN1EyOOI/AAAAAAAAAnU/_IJg4PJwf2gwiGzRzxK8QTKsGFDBPtElwCLcB/s1600/20080395.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",AMEACA TERRORISTA
 https://lh3.googleusercontent.com/ApZsrJfBajmXePOdeGehtCorqppNEfn4PWGumfA0P7vB-jRH8tJZFWFCd8OLkc0dUWc=m18
-#EXTINF:https://2.bp.blogspot.com/-1omrs7sPJeg/Vzywfv8QJhI/AAAAAAAAAqM/to5XRZ1BHJ0vK9ZBPikeBU9SOAjLK-LIwCLcB/s1600/capa.jpg,AMIZADECOLORIDA
+
+#EXTINF:https://2.bp.blogspot.com/-1omrs7sPJeg/Vzywfv8QJhI/AAAAAAAAAqM/to5XRZ1BHJ0vK9ZBPikeBU9SOAjLK-LIwCLcB/s1600/capa.jpg",AMIZADE COLORIDA
 https://lh3.googleusercontent.com/iFXyJ-PydNdl2OMPEpbu3yWvWXhrB3pzGq5VX47_Cg6bNv-FtvoqjyE2My-qwc93DlI=m18
-#EXTINF:https://2.bp.blogspot.com/-bFK_8Eh5wGc/VzywVzICSQI/AAAAAAAAAo0/coMWKQa2f4ouiYVzCjaIFP1wmDleHBQRQCLcB/s1600/Amor%2Ba%2BToda%2BProva.jpg,AMORATODAPROVA
+
+#EXTINF:https://2.bp.blogspot.com/-bFK_8Eh5wGc/VzywVzICSQI/AAAAAAAAAo0/coMWKQa2f4ouiYVzCjaIFP1wmDleHBQRQCLcB/s1600/Amor%2Ba%2BToda%2BProva.jpg",AMOR A TODA PROVA
 https://lh3.googleusercontent.com/KGJqeRgVni1-jmCn8gQuJIrTl5dXLcYax9x-bGr5k1f7AJgXKz_QWRMS__5HKax5nyIu=m18
-#EXTINF:https://4.bp.blogspot.com/-V4KtoD3QtIk/VzywXiF2ODI/AAAAAAAAApA/EnOUEv4L970lhrizgPsyLgzL3qgm99zcgCLcB/s1600/Cover.jpg,AMORDEALUGUEL
+ 
+#EXTINF:https://4.bp.blogspot.com/-V4KtoD3QtIk/VzywXiF2ODI/AAAAAAAAApA/EnOUEv4L970lhrizgPsyLgzL3qgm99zcgCLcB/s1600/Cover.jpg",AMOR DE ALUGUEL 
 https://lh3.googleusercontent.com/bjJ44vclVdCIsMuoABTKsqy4pkZPDaG8OeBac9SbC1M27pfNXDouVh1Fx_PqLztM3iog=m18
-#EXTINF:https://4.bp.blogspot.com/-GFep2peIqko/VzywQk9q53I/AAAAAAAAAn4/_SKx-H98MXAlTTgKdEc8g3cORKSWUJMkQCLcB/s1600/260x365_1387380193.jpg,ESQUENTANDOARELACAO
+
+#EXTINF:https://4.bp.blogspot.com/-GFep2peIqko/VzywQk9q53I/AAAAAAAAAn4/_SKx-H98MXAlTTgKdEc8g3cORKSWUJMkQCLcB/s1600/260x365_1387380193.jpg",ESQUENTANDO A RELACAO 
 https://lh3.googleusercontent.com/3kswb0PbGiT_rWD4_gMXTa3tbKen4R1fS1nxQlnlHfH6376jZUsyZM_KfEBW1aC8Fa-x=m18
-#EXTINF:https://4.bp.blogspot.com/-z-iehHM4UbM/VzywNyXJJNI/AAAAAAAAAnY/SbFEf28Xgt0U7ysdUERYhIVRThCGpOujwCLcB/s1600/19874211.jpg,GUERRAAOTERROR
+
+#EXTINF:https://4.bp.blogspot.com/-z-iehHM4UbM/VzywNyXJJNI/AAAAAAAAAnY/SbFEf28Xgt0U7ysdUERYhIVRThCGpOujwCLcB/s1600/19874211.jpg",GUERRA AO TERROR  
 https://lh3.googleusercontent.com/dQUPn1dm4XQntcYcby5UWALI762wxjcP6CwOaQ5ZSIpbYe29ylVInSaOfgzrYmWoq6AX=m18
-#EXTINF:https://4.bp.blogspot.com/-Zd96ngQYNqs/VzywPXNIbYI/AAAAAAAAAns/colqd0gF6sAR1EJftKmksbyVWxjpvsdyACLcB/s1600/21021105_20130718205428458.jpg,KUNG-FUSAO
+ 
+#EXTINF:https://4.bp.blogspot.com/-Zd96ngQYNqs/VzywPXNIbYI/AAAAAAAAAns/colqd0gF6sAR1EJftKmksbyVWxjpvsdyACLcB/s1600/21021105_20130718205428458.jpg",KUNG-FUSAO
 https://lh3.googleusercontent.com/SmmqnRFEHdGMKqwpUDOeEa6GIUoqXE7Zx5Wj-SV-h7nND0U12ga_XSyYxCXqla7GdMPZ=m18
-#EXTINF:https://4.bp.blogspot.com/-VAJiH_Hr1ww/VzywRBLY4CI/AAAAAAAAAn8/a7lVBzmPWpYt4lFRpOp10yone2ADR90jgCLcB/s1600/2vtprv8.jpg,KUNGFUFUTEBOLCLUBE
+
+#EXTINF:https://4.bp.blogspot.com/-VAJiH_Hr1ww/VzywRBLY4CI/AAAAAAAAAn8/a7lVBzmPWpYt4lFRpOp10yone2ADR90jgCLcB/s1600/2vtprv8.jpg",KUNG FU FUTEBOL CLUBE
 https://lh3.googleusercontent.com/UwY0niZ1pq87IKilPYIedE-yMISY6Ub5kjxcKBdPxrVN_yH4OmKHSTOLVfZ4Ihl5Pkoh=m18
-#EXTINF:https://4.bp.blogspot.com/-JeEmAjV95tw/VzywcQjcIyI/AAAAAAAAAp4/PiSvIG5wm3YByZ7lZeHBCGR46IP-LrPkwCLcB/s1600/Piranha_3d_poster.jpg,PIRANHA3D
+ 
+#EXTINF:https://4.bp.blogspot.com/-JeEmAjV95tw/VzywcQjcIyI/AAAAAAAAAp4/PiSvIG5wm3YByZ7lZeHBCGR46IP-LrPkwCLcB/s1600/Piranha_3d_poster.jpg",PIRANHA 3D 
 https://lh3.googleusercontent.com/rGIFHBoLEREyxA_TnabUYSMwY9WT8OG90_ai8_8p9cY2MydhDBMcE0pF0NUOxjZf9RL0=m22
-#EXTINF:https://4.bp.blogspot.com/-_JZNsbRmb6Q/Vzywdr8a5_I/AAAAAAAAAqE/eKX_j-_W3xg5TQ418WqsMOAOhRtUsW-aQCLcB/s1600/Ted-2.jpg,TED2
+
+#EXTINF:https://4.bp.blogspot.com/-_JZNsbRmb6Q/Vzywdr8a5_I/AAAAAAAAAqE/eKX_j-_W3xg5TQ418WqsMOAOhRtUsW-aQCLcB/s1600/Ted-2.jpg",TED2
 https://lh3.googleusercontent.com/3GICSm-MST5D28MHbZqCsVNM99Wb5xveKDWrEVFpMDfO52p3tRL7LO8PO2kpU8pZx6Qx=m18
-#EXTINF:https://4.bp.blogspot.com/-YJgFu8cDHXE/VzywR0rdSkI/AAAAAAAAAoM/dwFRAhapGGIw_zM73UaIbhU5pvxwaGvXgCLcB/s1600/354910.jpg,ANOITEDAVIRADA
+
+#EXTINF:https://4.bp.blogspot.com/-YJgFu8cDHXE/VzywR0rdSkI/AAAAAAAAAoM/dwFRAhapGGIw_zM73UaIbhU5pvxwaGvXgCLcB/s1600/354910.jpg",A NOITE DA VIRADA
 https://lh3.googleusercontent.com/-mVRXhYlU-5maVdPiIUyBA9q0-FndD-6pOPcfanJuB-oAHfaUQBmAwyIUxEtRBSLt0aI=m18
-#EXTINF:https://3.bp.blogspot.com/-Ulz1mJTXn2Q/VzywcCual7I/AAAAAAAAApw/Els-9mMGshQyyM_HtX7OoenFmGWaet7QACLcB/s1600/NoflpQ3.png,BADASS3
+ 
+#EXTINF:https://3.bp.blogspot.com/-Ulz1mJTXn2Q/VzywcCual7I/AAAAAAAAApw/Els-9mMGshQyyM_HtX7OoenFmGWaet7QACLcB/s1600/NoflpQ3.png",BAD ASS 3 
 https://lh3.googleusercontent.com/v2nFMDjcNJbU7m2U-iwJ8LrzByVmN-_96MtKOIrAcfHrFj-_vNyEvIPqonYbaijjyRN2=m18
-#EXTINF:https://4.bp.blogspot.com/-5k43BbQqp7I/VzywYPulYgI/AAAAAAAAApI/mUqwWXke3ukW70wEdAnlFsdxlepuAds7QCLcB/s1600/Capa%2BBad%2BHair%2BDay.png,BADHAIRDAY
+
+#EXTINF:https://4.bp.blogspot.com/-5k43BbQqp7I/VzywYPulYgI/AAAAAAAAApI/mUqwWXke3ukW70wEdAnlFsdxlepuAds7QCLcB/s1600/Capa%2BBad%2BHair%2BDay.png",BAD HAIR DAY
 https://lh3.googleusercontent.com/GiA4IhUNJvKcnNPiT6DJwWZulV0fJiDy_gabYgq0M16zLXeXB4Iy5_T7mrkMTMmJg3d0=m18
-#EXTINF:https://2.bp.blogspot.com/-JMWpLo86scQ/VzywU_9NVxI/AAAAAAAAAoo/ZVgeVpDZRr0C3tEeX5OHd2NQgyNo6xzwgCLcB/s1600/567499.jpg-c_520_690_x-f_jpg-q_x-xxyxx.jpg,BOBESPONJAUMHEROIFORAD'AGUA
+
+#EXTINF:https://2.bp.blogspot.com/-JMWpLo86scQ/VzywU_9NVxI/AAAAAAAAAoo/ZVgeVpDZRr0C3tEeX5OHd2NQgyNo6xzwgCLcB/s1600/567499.jpg-c_520_690_x-f_jpg-q_x-xxyxx.jpg",BOB ESPONJA UM HEROI FORA D'AGUA
 https://lh3.googleusercontent.com/PzP5J3KMqUvUyzLg3JoSSu3CocvimZ_0E-pgbFLtNPmmA83W_C8FezWKqG_2f6uISWNl=m18
-#EXTINF:https://3.bp.blogspot.com/-eammsbF2Lcw/VzywTwks9WI/AAAAAAAAAog/swkiZYIR9AMK8q1LDnpEerA_InwUHoK0gCLcB/s1600/467751.jpg,EXMACHINA
+ 
+#EXTINF:https://3.bp.blogspot.com/-eammsbF2Lcw/VzywTwks9WI/AAAAAAAAAog/swkiZYIR9AMK8q1LDnpEerA_InwUHoK0gCLcB/s1600/467751.jpg",EX MACHINA 
 https://lh3.googleusercontent.com/Ewa0nfI4PFFCdpsm5-o1sriHeujAKXsq6giJyd9qtCr10QnX2LNNDH-gbEjJd-UJWm1R=m18
-#EXTINF:https://1.bp.blogspot.com/-tK9lfvnHQ_w/VzywOmC91BI/AAAAAAAAAno/km8npbzJP-0KTBvFNvqsU3Z5_5bi_PriQCLcB/s1600/205902.jpg,MAPASPARAASESTRELAS
+
+#EXTINF:https://1.bp.blogspot.com/-tK9lfvnHQ_w/VzywOmC91BI/AAAAAAAAAno/km8npbzJP-0KTBvFNvqsU3Z5_5bi_PriQCLcB/s1600/205902.jpg",MAPAS PARA AS ESTRELAS 
 https://lh3.googleusercontent.com/skDS53AYHBq6sPv8zbPccyDIB5keU2jGcmlTfXBct2MlEZEfsYiBRdjfdMTXqUBx2rru=m18
-#EXTINF:https://1.bp.blogspot.com/-4U3XBGFvSEI/VzywmYnA3LI/AAAAAAAAAq4/BALHTgXzr2MqKLUA23GxMLjEp_Y2BEhOQCLcB/s1600/o-homem-com-punhos-de-ferro-2-filmesonline10-204x300.jpg,OHOMEMCOMPUNHOSDEFERRO2
+
+#EXTINF:https://1.bp.blogspot.com/-4U3XBGFvSEI/VzywmYnA3LI/AAAAAAAAAq4/BALHTgXzr2MqKLUA23GxMLjEp_Y2BEhOQCLcB/s1600/o-homem-com-punhos-de-ferro-2-filmesonline10-204x300.jpg",O HOMEM COM PUNHOS DE FERRO 2
 https://lh3.googleusercontent.com/kDCqvgwM36oYYSHGi3xOA0H8jwhrV-M3K58i83iBHooEhcfhC0qXRiXH0gtnQ9X_UhLQ=m18
-#EXTINF:https://2.bp.blogspot.com/-ekn6d_i5l-4/VzywRA0vNTI/AAAAAAAAAoE/XxSM9RDzSKkn1-tHOCZ2nNQNth-CeVAEQCLcB/s1600/225839.jpg,OCASAMENTODEGORETE
+ 
+#EXTINF:https://2.bp.blogspot.com/-ekn6d_i5l-4/VzywRA0vNTI/AAAAAAAAAoE/XxSM9RDzSKkn1-tHOCZ2nNQNth-CeVAEQCLcB/s1600/225839.jpg",O CASAMENTO DE GORETE 
 https://lh3.googleusercontent.com/XuNPOC6VS9hYC3fgNyhGN-Es-FmdrnD8Lej2f_sQKt0J8gfun93NRlk6U-Ta6W9r6nCT=m18
-#EXTINF:https://4.bp.blogspot.com/-pzGruP1HRto/VzywVYs3DNI/AAAAAAAAAow/FE_s2AwrIIgeOai4Z3nm2Jufnp8T-JdHQCLcB/s1600/570508.jpg,OSCARASDEPAUEMOMISTERIOSOROUBODOANEL
+
+#EXTINF:https://4.bp.blogspot.com/-pzGruP1HRto/VzywVYs3DNI/AAAAAAAAAow/FE_s2AwrIIgeOai4Z3nm2Jufnp8T-JdHQCLcB/s1600/570508.jpg",OS CARAS DE PAU EM O MISTERIOSO ROUBO DO ANEL
 https://lh3.googleusercontent.com/QdsL6dFrQXc-nb72a5ULq21GeD36e6mD0mL4Ybk1lr9exeDmCtWX5v3nTClkVst6Sby7=m18
-#EXTINF:https://2.bp.blogspot.com/-TK9jI5cOSFk/VzywdIajuzI/AAAAAAAAAqA/9TjQOgM0wEsB2utQp8jSjH-jqD78wBJGACLcB/s1600/QUERO-MATAR-MEU-CHEFE-2.jpg,QUEROMATARMEUCHEFE2
+
+#EXTINF:https://2.bp.blogspot.com/-TK9jI5cOSFk/VzywdIajuzI/AAAAAAAAAqA/9TjQOgM0wEsB2utQp8jSjH-jqD78wBJGACLcB/s1600/QUERO-MATAR-MEU-CHEFE-2.jpg",QUERO MATAR MEU CHEFE 2 
 https://lh3.googleusercontent.com/JjtmE2xu2YcOsxkqRSN9vM9wDbRrk6dBIKbYwMXQJVFNtJqSmFePgNnxRNVW09xaXsg=m18
-#EXTINF:https://1.bp.blogspot.com/-D9Tg8eETlFs/VzywdCcYaOI/AAAAAAAAAp8/r07hDewahRgGaRCqJRQ_JnFYGmjb0Sg8ACLcB/s1600/Russel-O-c%25C3%25A3ope%25C3%25A3o-%25E2%2580%2593-Dublado.png,RUSSELOCAOPEAO
-https://lh3.googleusercontent.com/9ELll_OOoXaFNI735-qdsitp342MDiT6MJ74w0pWmLk1LD9ocgwDKfyB26drVs5OEDSt=m18#EXTINF:https://1.bp.blogspot.com/-nbTXge4JD5Q/VzywasaSPOI/AAAAAAAAApc/22T-T0PGHLAEDgO3FxCkHSex1EuXCwxmgCLcB/s1600/KumTBbu.jpg,SEMRUMO
+ 
+#EXTINF:https://1.bp.blogspot.com/-D9Tg8eETlFs/VzywdCcYaOI/AAAAAAAAAp8/r07hDewahRgGaRCqJRQ_JnFYGmjb0Sg8ACLcB/s1600/Russel-O-c%25C3%25A3ope%25C3%25A3o-%25E2%2580%2593-Dublado.png",RUSSEL O CAOPEAO 
+https://lh3.googleusercontent.com/9ELll_OOoXaFNI735-qdsitp342MDiT6MJ74w0pWmLk1LD9ocgwDKfyB26drVs5OEDSt=m18
+#EXTINF:https://1.bp.blogspot.com/-nbTXge4JD5Q/VzywasaSPOI/AAAAAAAAApc/22T-T0PGHLAEDgO3FxCkHSex1EuXCwxmgCLcB/s1600/KumTBbu.jpg",SEM RUMO
 https://lh3.googleusercontent.com/InOlYBw3TO81n6ppRa3IC_RkCF2FL8DAnSFlrjgCSVXDmWCnfonFRPcZLTTe3DH4QszJ=m18
-#EXTINF:https://1.bp.blogspot.com/-FrDXHKdlGLo/Vzywm6NJDoI/AAAAAAAAAq8/xty0Pp5Hce4quAqTr9mrG944n1EndbWEACLcB/s1600/maleficent-533fa922b3277.jpg,MALEVOLA
+
+#EXTINF:https://1.bp.blogspot.com/-FrDXHKdlGLo/Vzywm6NJDoI/AAAAAAAAAq8/xty0Pp5Hce4quAqTr9mrG944n1EndbWEACLcB/s1600/maleficent-533fa922b3277.jpg",MALEVOLA
 https://lh3.googleusercontent.com/FjCNRzjo-MjyNZPGun9gOhoZdiKy4D_0VR_6Zuje7Bz-Yi99sb9ivPKOi9AbTA2h80r4EA8A=m18
-#EXTINF:https://4.bp.blogspot.com/-rRYiextBiNg/VzywRCmf21I/AAAAAAAAAoA/F2g7WL0V7asT93W9i2C2ssKELhZSfpmAwCLcB/s1600/319755.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,HACKER
+ 
+#EXTINF:https://4.bp.blogspot.com/-rRYiextBiNg/VzywRCmf21I/AAAAAAAAAoA/F2g7WL0V7asT93W9i2C2ssKELhZSfpmAwCLcB/s1600/319755.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",HACKER
 https://lh3.googleusercontent.com/OjNjf9hx1WNgwzqjCFZnTSMwWRGtkPvd6xK3tGZsUzvowk8yTC7WS49Bar8HNb-DVMB9QgPu=m18
-#EXTINF:https://1.bp.blogspot.com/-WGSkIQPO4yc/Vzywjh1eSdI/AAAAAAAAAqw/od_jQhiEEW4qRjshM1C_dWzuE37cqXtOwCLcB/s1600/header-640.jpg,GOLPEDUPLO
+
+#EXTINF:https://1.bp.blogspot.com/-WGSkIQPO4yc/Vzywjh1eSdI/AAAAAAAAAqw/od_jQhiEEW4qRjshM1C_dWzuE37cqXtOwCLcB/s1600/header-640.jpg",GOLPE DUPLO
 https://lh3.googleusercontent.com/oQYCjGOvpRT2g01qUQgS0oOBilkBGZOklX3mx1ImkL1f2scZ4x-PzQefMMKw5aWf8VvAtnza=m18
-#EXTINF:https://2.bp.blogspot.com/-_I6hAjtUcsA/VzywSeI4euI/AAAAAAAAAoU/kLDkeQhX5qc7ptXWQKEwZI2NcCIqGKEZQCLcB/s1600/382156.jpg,OJOGODAIMITACAO
+
+#EXTINF:https://2.bp.blogspot.com/-_I6hAjtUcsA/VzywSeI4euI/AAAAAAAAAoU/kLDkeQhX5qc7ptXWQKEwZI2NcCIqGKEZQCLcB/s1600/382156.jpg",O JOGO DA IMITACAO
 https://lh3.googleusercontent.com/DqEcyPxg_qUDKTSuLbJbArf4vHC1XBEcHf_BsclxkDvvUZdrNOLWssOLlnvk9b9XEq0OGOlN=m18
-#EXTINF:https://3.bp.blogspot.com/-Iyj_uF1AhKI/VzywoLCxgZI/AAAAAAAAArU/-ymZglbf5CEr7ceJay-0fU1gAlttfNY5gCLcB/s1600/thumb.jpg,ROUBAMOSSEGREDOS
+
+#EXTINF:https://3.bp.blogspot.com/-Iyj_uF1AhKI/VzywoLCxgZI/AAAAAAAAArU/-ymZglbf5CEr7ceJay-0fU1gAlttfNY5gCLcB/s1600/thumb.jpg",ROUBAMOS SEGREDOS
 https://lh3.googleusercontent.com/vBqdJ9W_vtskuIO_gBsLueablEYlCv9yRR41-lX2AxRDTGvRuHwUf0Qj1IcJtwRWJX7n8OjD=m18
-#EXTINF:https://1.bp.blogspot.com/-5ih0ItzDu3M/VzywnxFhiYI/AAAAAAAAArI/KD0sGVzXx6MYXB4tynQ3xKrgvYP1Ue7twCLcB/s1600/thumb%2B%25281%2529.jpg,ASAPARENCIASENGANAM
+
+#EXTINF:https://1.bp.blogspot.com/-5ih0ItzDu3M/VzywnxFhiYI/AAAAAAAAArI/KD0sGVzXx6MYXB4tynQ3xKrgvYP1Ue7twCLcB/s1600/thumb%2B%25281%2529.jpg",AS APARENCIAS ENGANAM
 https://lh3.googleusercontent.com/Q0GFpgawqnc-rsVRaV4dTVix3N8889xmVV9VL-Na_e3C_6aQNC3RYeEb9TSLgdCEDp5sPYYi=m18
-#EXTINF:https://1.bp.blogspot.com/-9K8cf0VxCMA/VzywbDNdUvI/AAAAAAAAApk/NSiK7aKYKfEsF802BgM4SJpzDzhhPupgACLcB/s1600/NOSBASTIDORES.jpg,NOSBASTIDORESDAFAMA
+
+#EXTINF:https://1.bp.blogspot.com/-9K8cf0VxCMA/VzywbDNdUvI/AAAAAAAAApk/NSiK7aKYKfEsF802BgM4SJpzDzhhPupgACLcB/s1600/NOSBASTIDORES.jpg",NOS BASTIDORES DA FAMA
 https://lh3.googleusercontent.com/7RhlHfv_UbNxNBwbnMkZjWMRC8F7smtUdcgiUMrXj6s7WKQC3djuAwkM2P5MBOoB475FBuIl=m18
-#EXTINF:https://2.bp.blogspot.com/-KQKEmNy9jBY/Vzywf2Buc0I/AAAAAAAAAqQ/fZK2UA7xg8cQQxJiiYfhdqBB_F-rqI_pgCLcB/s1600/assistir-online-eles-existem-hd-720p-dublado.fw_.png,ELESEXISTEM
+
+#EXTINF:https://2.bp.blogspot.com/-KQKEmNy9jBY/Vzywf2Buc0I/AAAAAAAAAqQ/fZK2UA7xg8cQQxJiiYfhdqBB_F-rqI_pgCLcB/s1600/assistir-online-eles-existem-hd-720p-dublado.fw_.png",ELES EXISTEM
 https://lh3.googleusercontent.com/NoesMQgbN6c35YUtjyfr3OiK0kqEyoHwdUYtcGhExPIVJFXUboWmfvG8mHo6LSps-OhlZbdw=m18
-#EXTINF:https://2.bp.blogspot.com/-KBBQLP3ommE/VzywYQtXa0I/AAAAAAAAApU/ro-BwDsS-SUzcOuLu9QlUDKqRuN4DAYiQCLcB/s1600/Hercules-2014-legendado-cinefilmesonline.net_.jpg,HERCULES
+
+#EXTINF:https://2.bp.blogspot.com/-KBBQLP3ommE/VzywYQtXa0I/AAAAAAAAApU/ro-BwDsS-SUzcOuLu9QlUDKqRuN4DAYiQCLcB/s1600/Hercules-2014-legendado-cinefilmesonline.net_.jpg",HERCULES
 https://lh3.googleusercontent.com/xbpW9EobuCA2DBfqezM-TXiJFvxX5v58UPDH_3Cn8xTH9vQrP_W--4Kz7Gbw--RU1aAuX7CQ=m18
-#EXTINF:https://3.bp.blogspot.com/-CqeC05nsfxo/VzywMsK5CHI/AAAAAAAAAnI/qkrpStzQqxoV6EcdAITGKPn75DZuv9iOQCLcB/s1600/097233.jpg,PLANETADOSMACACOS:OCONFRONTO
+
+#EXTINF:https://3.bp.blogspot.com/-CqeC05nsfxo/VzywMsK5CHI/AAAAAAAAAnI/qkrpStzQqxoV6EcdAITGKPn75DZuv9iOQCLcB/s1600/097233.jpg",PLANETA DOS MACACOS: O CONFRONTO
 https://lh3.googleusercontent.com/8ftdJHzyhnNdqAHLAXwmayFvJh2RFuTe5ub9G3o1YvoUJqFDIxmvaonM5hh3CfSKddm6aPAj=m18
-#EXTINF:https://2.bp.blogspot.com/-yL9mgNnYNg0/VzywM1PGH1I/AAAAAAAAAnM/WhAOc62SeTQuDN80D9bg4Jx_C5R6_e8PQCLcB/s1600/122582.jpg,GUARDIOESDAGALAXIA
+
+#EXTINF:https://2.bp.blogspot.com/-yL9mgNnYNg0/VzywM1PGH1I/AAAAAAAAAnM/WhAOc62SeTQuDN80D9bg4Jx_C5R6_e8PQCLcB/s1600/122582.jpg",GUARDIOES DA GALAXIA
 https://lh3.googleusercontent.com/yDlrHlumeCJUi2eHedBQhSL31s5Fu8qaNXbKwy_nneAH5DnTmqk3twuSb92Z7KOAOkJv0Opo8AVkmQ=m22
-#EXTINF:https://2.bp.blogspot.com/-m9BZmjxwP_I/VzywSIunYLI/AAAAAAAAAoQ/dVZRjrdVWHoaM0pRKydXQsuxg2yG48HDACLcB/s1600/360270.jpg,UMANOITENOMUSEU3
+
+#EXTINF:https://2.bp.blogspot.com/-m9BZmjxwP_I/VzywSIunYLI/AAAAAAAAAoQ/dVZRjrdVWHoaM0pRKydXQsuxg2yG48HDACLcB/s1600/360270.jpg",UMA NOITE NO MUSEU 3
 https://lh3.googleusercontent.com/X4s4U3CQ-8nqq6sdetaxoZ-p4Q313oeP1VRDmxqNsalIqGntnxuvF0TADTBkKL1GMw5Iza-m=m18
-#EXTINF:https://4.bp.blogspot.com/-c8uwkYpz7Zs/VzywPtBSqzI/AAAAAAAAAnw/pPzIghdDnpoL6Wzhq44jcyIqtpkUiU45gCLcB/s1600/20672164.jpg,DRACULAAHISTORIANUNCACONTADA
+
+#EXTINF:https://4.bp.blogspot.com/-c8uwkYpz7Zs/VzywPtBSqzI/AAAAAAAAAnw/pPzIghdDnpoL6Wzhq44jcyIqtpkUiU45gCLcB/s1600/20672164.jpg",DRACULA A HISTORIA NUNCA CONTADA
 https://lh3.googleusercontent.com/Kd461rhkm8yKA9mdK7vdxTeBKTaJKWCuJzPRDs8sYru-7mo8urZ3j8lCCiF3rsCBcuKxcvmDfSIQ=m22
-#EXTINF:https://4.bp.blogspot.com/-kQ5ODyTdRbM/VzywURAtISI/AAAAAAAAAok/ONYXL4g_ldgDdj-OFNq2ZXM4Lg7dxGSiACLcB/s1600/497257.jpg,UMMILHAODEMANEIRASDEPEGARNAPISTOLA
+
+#EXTINF:https://4.bp.blogspot.com/-kQ5ODyTdRbM/VzywURAtISI/AAAAAAAAAok/ONYXL4g_ldgDdj-OFNq2ZXM4Lg7dxGSiACLcB/s1600/497257.jpg",UM MILHAO DE MANEIRAS DE PEGAR NA PISTOLA
 https://lh3.googleusercontent.com/JA9_LiMVyRtrTzi5d7QC8H-XA3rWzg_37ZLy2kvoEzwAar3d21jsLRS_2B40FTG8kxp3fnFf=m18
-#EXTINF:https://2.bp.blogspot.com/-YtKcU9EgROI/Vzywk5tWZ0I/AAAAAAAAAq0/n2dvLWuXWqcYFaqKL98-sAPYy3AXFZsJwCLcB/s1600/lucy-6-signed.jpg,LUCY
+
+#EXTINF:https://2.bp.blogspot.com/-YtKcU9EgROI/Vzywk5tWZ0I/AAAAAAAAAq0/n2dvLWuXWqcYFaqKL98-sAPYy3AXFZsJwCLcB/s1600/lucy-6-signed.jpg",LUCY
 https://lh3.googleusercontent.com/vc8ea_IbkGTh7HCCSa5kkU8TliWhg0tEgygajbDu_eZyfmx6bF84GTfwfXpxy0JWLhdsolhdtiNj=m22
-#EXTINF:https://3.bp.blogspot.com/-Rz8h_yj093w/VzywiymaauI/AAAAAAAAAqk/gxpUVfPqzk4OGptQqEg8s6tsJbj4sGd0wCLcB/s1600/elenco-de-os-mercenarios-3-1403642682184_956x500.png,OSMERCENARIOS3
+
+#EXTINF:https://3.bp.blogspot.com/-Rz8h_yj093w/VzywiymaauI/AAAAAAAAAqk/gxpUVfPqzk4OGptQqEg8s6tsJbj4sGd0wCLcB/s1600/elenco-de-os-mercenarios-3-1403642682184_956x500.png",OS MERCENARIOS 3
 https://lh3.googleusercontent.com/65o9oOhFupLzBO3LJ6EnfJuXI1g0aHFEJSRRJaU3spGI-naiGwH7AwV16pZgcchh5wtUqrcjDL0=m22
-#EXTINF:https://3.bp.blogspot.com/-AU86ZpQwnZo/VzzIipw1RhI/AAAAAAAAAsE/suoPNsXGbc89qlOldW9I8P2OoCyyfu9AwCKgB/s1600/21040310_20130913172832717.jpg,VOVOSEMVERGONHA
+
+#EXTINF:https://3.bp.blogspot.com/-AU86ZpQwnZo/VzzIipw1RhI/AAAAAAAAAsE/suoPNsXGbc89qlOldW9I8P2OoCyyfu9AwCKgB/s1600/21040310_20130913172832717.jpg",VOVO SEM VERGONHA
 https://lh3.googleusercontent.com/dZbmodIT2xOT_Uyb9YaVxkEynTW0wNHdNAIeDvSZBFz7fZXdPftOHumiRYj4d6jHhrjTSrJZ=m22
-#EXTINF:https://3.bp.blogspot.com/-FXwJ4bebiwo/VzzIlO8Q7wI/AAAAAAAAAsc/fxRVYYc68rkfoPe2zAM59hRDsnz95XitgCKgB/s1600/507765.jpg,OSPINGUINSDEMADASCAR
+
+#EXTINF:https://3.bp.blogspot.com/-FXwJ4bebiwo/VzzIlO8Q7wI/AAAAAAAAAsc/fxRVYYc68rkfoPe2zAM59hRDsnz95XitgCKgB/s1600/507765.jpg",OS PINGUINS DE MADASCAR
 https://lh3.googleusercontent.com/g11U1SDPpA3f4Qvl97dpuamgl1PO3fjn23HgdYRB2adX7TL6JZzoGUEXdCroaXOFZW4SavEI=m18
-#EXTINF:https://2.bp.blogspot.com/-K-ab7SLZDFA/VzzIjFW-uGI/AAAAAAAAAsM/qxbgwltxy_0gizJFh9lp2aJ9euECiQBaACKgB/s1600/260x365_1430337812.jpg,LUTEPORSUAVIDA
+
+#EXTINF:https://2.bp.blogspot.com/-K-ab7SLZDFA/VzzIjFW-uGI/AAAAAAAAAsM/qxbgwltxy_0gizJFh9lp2aJ9euECiQBaACKgB/s1600/260x365_1430337812.jpg",LUTE POR SUA VIDA
 https://lh3.googleusercontent.com/6aNrsKhvz0dpFKR1E4DLrVPuLX85A0OhUzuT9yYvseeW-8uBYMRTvOJNx6Ng1xFIo-trNxyM=m18
-#EXTINF:https://4.bp.blogspot.com/--0ah3GxtjTQ/VzzImnwtquI/AAAAAAAAAso/nqwLsOrCMCw4s8MO4atSlcNwJEbOjzS-ACKgB/s1600/a-ressaca-2_t80509_jpg_290x478_upscale_q90.jpg,ARESSACA2
+
+#EXTINF:https://4.bp.blogspot.com/--0ah3GxtjTQ/VzzImnwtquI/AAAAAAAAAso/nqwLsOrCMCw4s8MO4atSlcNwJEbOjzS-ACKgB/s1600/a-ressaca-2_t80509_jpg_290x478_upscale_q90.jpg",A RESSACA 2
 https://lh3.googleusercontent.com/5nuEPfzJHjt3S6jHFSv7pf7rq7mVzwBad3BnFRtygdMvjYMwTAQ4NDHPTxeILo4pu-28uLl7=m18
-#EXTINF:https://3.bp.blogspot.com/-KZaT2F-39lQ/VzzI9J49_zI/AAAAAAAAAs4/DPhJQV6XLbUQLiSGGhIRJGaVJZZo8FW2gCLcB/s1600/ever.jpg,EVERLY
+
+#EXTINF:https://3.bp.blogspot.com/-KZaT2F-39lQ/VzzI9J49_zI/AAAAAAAAAs4/DPhJQV6XLbUQLiSGGhIRJGaVJZZo8FW2gCLcB/s1600/ever.jpg",EVERLY
 https://lh3.googleusercontent.com/JEnfCTlK6frzfpsfAsPsnSNWNhdUnuffCKDK5ZnXoEav-Zq_FgXj0-iyLKbBO9vLrNVlmedv=m18
-#EXTINF:https://1.bp.blogspot.com/-nF-YMi6c3_E/VzzIjPpMZiI/AAAAAAAAAsI/p-mb-QVUGhgIq8CKO8EGqqRMb-thsXfLwCKgB/s1600/173816.jpg-c_520_690_x-f_jpg-q_x-xxyxx.jpg,GRANDESOLHOS
+
+#EXTINF:https://1.bp.blogspot.com/-nF-YMi6c3_E/VzzIjPpMZiI/AAAAAAAAAsI/p-mb-QVUGhgIq8CKO8EGqqRMb-thsXfLwCKgB/s1600/173816.jpg-c_520_690_x-f_jpg-q_x-xxyxx.jpg",GRANDES OLHOS
 https://lh3.googleusercontent.com/ukQXl25CnA9fW5AbSxHNGPxaKRVOO9w8ZrpND1v1v3gi60ugdIMWjRjntVpFazxi6gxtoo5d=m18
-#EXTINF:https://2.bp.blogspot.com/-dJcKOhiPQDg/VzzIis0vsmI/AAAAAAAAAsA/VRz7g-Laeww9eH2MisC-mDNQxA7QVFNqgCKgB/s1600/060882.jpg,UMSANTOVIZINHO
+
+#EXTINF:https://2.bp.blogspot.com/-dJcKOhiPQDg/VzzIis0vsmI/AAAAAAAAAsA/VRz7g-Laeww9eH2MisC-mDNQxA7QVFNqgCKgB/s1600/060882.jpg",UM SANTO VIZINHO
 https://lh3.googleusercontent.com/dKWw93k4LPRmTaiVR-Or8PJjgTa4zD65cfuqOw5WHvj8izOGaqqujH5BJ45MFAQwQCeLSPbE=m18
-#EXTINF:https://2.bp.blogspot.com/-fcu8gh8wmEo/VzzIk22HXSI/AAAAAAAAAsY/2TCVXwUBjV8VBmrxhlHZUk8hDr_YKalQQCKgB/s1600/343181.jpg,AENTREVISTA
+
+#EXTINF:https://2.bp.blogspot.com/-fcu8gh8wmEo/VzzIk22HXSI/AAAAAAAAAsY/2TCVXwUBjV8VBmrxhlHZUk8hDr_YKalQQCKgB/s1600/343181.jpg",A ENTREVISTA
 https://lh3.googleusercontent.com/9bffUZ6ArDTmvXZcwuIrKUGRZcT3pquzRVkWCMiRc05CZieJAd-1Zliqvz7Ol6j-IQko6c5Y=m18
-#EXTINF:https://4.bp.blogspot.com/-R2nhyuxPhC8/VzzIjqciSZI/AAAAAAAAAsQ/ah_A614Bsr8SwoBGm4HHw9kOhWGa_AUnQCKgB/s1600/289468.jpg,NOLIMITEDOAMANHA
+
+#EXTINF:https://4.bp.blogspot.com/-R2nhyuxPhC8/VzzIjqciSZI/AAAAAAAAAsQ/ah_A614Bsr8SwoBGm4HHw9kOhWGa_AUnQCKgB/s1600/289468.jpg",NO LIMITE DO AMANHA
 https://lh3.googleusercontent.com/bVwBAR7RN-bE_JsnVlMgA8G-nuPhvZg41eC8kv9Ke5SD87PVm4y_ujPiAv_XnT3O8Qd5GlFb=m18
-#EXTINF:https://1.bp.blogspot.com/-gIzxlqWHWO4/VzzImoAFGoI/AAAAAAAAAss/bTEbz1NhA1wlEEQow-dgZu9uN6AM62KSwCKgB/s1600/Sangue%2BJovem.png,SANGUEJOVEM
+
+#EXTINF:https://1.bp.blogspot.com/-gIzxlqWHWO4/VzzImoAFGoI/AAAAAAAAAss/bTEbz1NhA1wlEEQow-dgZu9uN6AM62KSwCKgB/s1600/Sangue%2BJovem.png",SANGUE JOVEM
 https://lh3.googleusercontent.com/GMi3Cch0dwQV_bNq5ZNFxreybog8nNuJUk5RZXeDd9iDSDu2YGhTTytVMGD0Cw10fEga7xQ0=m18
-#EXTINF:https://1.bp.blogspot.com/-4OOvkyXne9E/VzzIlR705VI/AAAAAAAAAsg/WjX49lNQMNYXKPrEAv0iGF1ryQ-M95G0ACKgB/s1600/456005.jpg,OSETIMOFILHO
+
+#EXTINF:https://1.bp.blogspot.com/-4OOvkyXne9E/VzzIlR705VI/AAAAAAAAAsg/WjX49lNQMNYXKPrEAv0iGF1ryQ-M95G0ACKgB/s1600/456005.jpg",O SETIMO FILHO
 https://lh3.googleusercontent.com/bIuuHiyGFFAftH_HzBWOFuPFW2xnC_cpQVz60Ri-Wume5eOTSEsKKe3jjJ7U09Oh9C92yVu-=m18
-#EXTINF:https://2.bp.blogspot.com/-qKGKdwtSV3E/VzzIj1PtuoI/AAAAAAAAAsU/IHmml8rEslEs7k4Q2QJ86wBIGwUzv2fZwCKgB/s1600/316577.jpg,INVENCIVEL
-https://lh3.googleusercontent.com/sHeuHvPiWHoQ4KuMJrtcWCULeaIG_ZnZQ32NGIhbXgv4K09hCuYyUA1bTS0t0As3Ds-muKGU=m22?cpn=ZFwB7tM9_ZJelYJH&c=WEB&cver=1.20160512
 
-#EXTINF:https://3.bp.blogspot.com/-GxeqM4kfzkQ/VzzInQn_f7I/AAAAAAAAAs0/P2ptSzX7mQcM30fHQhyyxznYqZf_m65-ACKgB/s1600/ywS0foV.jpg,OHIPNOTISTA
+#EXTINF:https://2.bp.blogspot.com/-qKGKdwtSV3E/VzzIj1PtuoI/AAAAAAAAAsU/IHmml8rEslEs7k4Q2QJ86wBIGwUzv2fZwCKgB/s1600/316577.jpg",INVENCIVEL
+https://lh3.googleusercontent.com/sHeuHvPiWHoQ4KuMJrtcWCULeaIG_ZnZQ32NGIhbXgv4K09hCuYyUA1bTS0t0As3Ds-muKGU=m22cpn=ZFwB7tM9_ZJelYJH&c=WEB&cver=1.20160512
+
+#EXTINF:https://3.bp.blogspot.com/-GxeqM4kfzkQ/VzzInQn_f7I/AAAAAAAAAs0/P2ptSzX7mQcM30fHQhyyxznYqZf_m65-ACKgB/s1600/ywS0foV.jpg",O HIPNOTISTA
 https://lh3.googleusercontent.com/BmPSYdDuXVLBsjU3pG8eKBssvelJ4zZ9jxPNdFEvY9bu68Gn5BQcrNzWdH_LjMqoGiJ4fCFp=m18
-#EXTINF:https://3.bp.blogspot.com/-qwDGgyewHwQ/VzzInFw6q6I/AAAAAAAAAsw/U6eKJswSIwoOeLgT0drOmicewU-mos16QCKgB/s1600/thumb.jpg,INSTITOFATAL
-https://lh3.googleusercontent.com/VSZaksYCwKHcif0VIR28a2A34asu3q5m5qllbv5t1f4s-VQcX5z4IJhQpRL58h0KoHSRjhs_=m22?cpn=7ZIRjZ8KQBp5OnVX&c=WEB&cver=1.20160512
 
-#EXTINF:https://3.bp.blogspot.com/-RXC1j0u4rpc/VzzIltuFl7I/AAAAAAAAAsk/ho_vpGfE3iociYeIcVkcRJVZg734VM_hgCKgB/s1600/A%2BSerie%2BDivergente%2B-%2BInsurgente.jpg,DIVERGENTEINSURGENTE
+#EXTINF:https://3.bp.blogspot.com/-qwDGgyewHwQ/VzzInFw6q6I/AAAAAAAAAsw/U6eKJswSIwoOeLgT0drOmicewU-mos16QCKgB/s1600/thumb.jpg",INSTITO FATAL
+https://lh3.googleusercontent.com/VSZaksYCwKHcif0VIR28a2A34asu3q5m5qllbv5t1f4s-VQcX5z4IJhQpRL58h0KoHSRjhs_=m22cpn=7ZIRjZ8KQBp5OnVX&c=WEB&cver=1.20160512
+
+#EXTINF:https://3.bp.blogspot.com/-RXC1j0u4rpc/VzzIltuFl7I/AAAAAAAAAsk/ho_vpGfE3iociYeIcVkcRJVZg734VM_hgCKgB/s1600/A%2BSerie%2BDivergente%2B-%2BInsurgente.jpg",DIVERGENTE INSURGENTE
 https://lh3.googleusercontent.com/2Bl4IXZgBP1m_CDmgGxfI77CF4gxZjHQUwjIMC3zhN8oLWrEdfk-ej6WajI1stMe0JVL7ff8=m18
-#EXTINF:https://3.bp.blogspot.com/-_4CPkLT67YU/VzzOzmmRfLI/AAAAAAAAAtU/mrsRzyLVmdsgTKME2bjSDiFLS1QsbhW0ACLcB/s1600/BuscaExplosiva4.jpg,BUSCAEXPLOSIVA4
+
+#EXTINF:https://3.bp.blogspot.com/-_4CPkLT67YU/VzzOzmmRfLI/AAAAAAAAAtU/mrsRzyLVmdsgTKME2bjSDiFLS1QsbhW0ACLcB/s1600/BuscaExplosiva4.jpg",BUSCA EXPLOSIVA 4
 https://lh3.googleusercontent.com/6_rNCbE0UQa3pRcSPIhS0aI8v7DZJkVCzomQtMeTtwpN1crzCVm_8_zenS6TV2MxHclLt0hA=m18
-#EXTINF:https://2.bp.blogspot.com/-mskQTTM0_ps/VzzYS7yqicI/AAAAAAAAAt8/YZpA_5gbgRkEK9D5Ar2JLoXz7UjqbH3bwCLcB/s1600/298859.jpg,MCFARLANDDOSEUA
+
+#EXTINF:https://2.bp.blogspot.com/-mskQTTM0_ps/VzzYS7yqicI/AAAAAAAAAt8/YZpA_5gbgRkEK9D5Ar2JLoXz7UjqbH3bwCLcB/s1600/298859.jpg",MCFARLAND DOS EUA
 https://lh3.googleusercontent.com/2-j-t6HIJnkQloMquoFSSKWLHHED3m0iF4ZKHQiLolgl4OeAqx01ngNNUsOvQLf8ZGjYbCgy=m18
 
-#EXTINF:https://2.bp.blogspot.com/-i901vIxJrtU/VzzYRCRXq8I/AAAAAAAAAtw/6dmFiOCRWPkBq9iHTJ3yV_H0o7hsevu8gCLcB/s1600/121256838_1GG.jpg,SNIPERAMERICANO
+#EXTINF:https://2.bp.blogspot.com/-i901vIxJrtU/VzzYRCRXq8I/AAAAAAAAAtw/6dmFiOCRWPkBq9iHTJ3yV_H0o7hsevu8gCLcB/s1600/121256838_1GG.jpg",SNIPER AMERICANO
 https://lh3.googleusercontent.com/vdgR601i2cz9vDI-b6bNEFFbcjlfUdAtDoiEqe0U0FixiYFVStkw3RwY27lUZvRUfMp8L57P=m18
-#EXTINF:https://3.bp.blogspot.com/-GZXhrYzscrI/VzzYTSN191I/AAAAAAAAAuM/LGfg9kr6CKoN8CNEqTwakbnpVXJGYqxKQCLcB/s1600/The-Scorpion-King-4-Quest-For-Power-2015.jpg,OESCORPIAOREI4
+
+#EXTINF:https://3.bp.blogspot.com/-GZXhrYzscrI/VzzYTSN191I/AAAAAAAAAuM/LGfg9kr6CKoN8CNEqTwakbnpVXJGYqxKQCLcB/s1600/The-Scorpion-King-4-Quest-For-Power-2015.jpg",O ESCORPIAO REI 4
 https://lh3.googleusercontent.com/4to9ICgTfZ7czrjCjHYeNDdd_Km-ctQHF9p-UMhQDlJ94Tzn7nexd_2qvYZgww58yOY50o-I=m18
-#EXTINF:https://3.bp.blogspot.com/-rIqnbLzhu3A/VzzYQ6CA8hI/AAAAAAAAAts/KVJxXuub5H00Nyw3mfEoEDIk10fvqufsQCLcB/s1600/235407.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,PRIMEIRODIAPARAESCREVERAMOREMSEUSBRACOS
+
+#EXTINF:https://3.bp.blogspot.com/-rIqnbLzhu3A/VzzYQ6CA8hI/AAAAAAAAAts/KVJxXuub5H00Nyw3mfEoEDIk10fvqufsQCLcB/s1600/235407.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",PRIMEIRO DIA PARA ESCREVER AMOR EM SEUS BRACOS
 https://lh3.googleusercontent.com/-qJpld3EIkkM8PQEwNve3S-PAte-u3XL1TgbMgUqW0i9v70fKdzZDIKODpE4wPYDQqncFszv=m18
-#EXTINF:https://3.bp.blogspot.com/-nfbLKB3-_f4/VzzYSxGpSNI/AAAAAAAAAuA/tXyxYS-L5q8s_SXzSX2CdeAPa_DRK2WjwCLcB/s1600/Dragonheart-3-The-Sorcerers-Curse-2015.jpg,CORACAODEDRAGAO3
+
+#EXTINF:https://3.bp.blogspot.com/-nfbLKB3-_f4/VzzYSxGpSNI/AAAAAAAAAuA/tXyxYS-L5q8s_SXzSX2CdeAPa_DRK2WjwCLcB/s1600/Dragonheart-3-The-Sorcerers-Curse-2015.jpg",CORACAO DE DRAGAO 3
 https://lh3.googleusercontent.com/gVfrEo9SwAtWaX6nd47HSC5pbrK5p0kZSHfqWSvSZRJdD_OPpHkz7QrTjlAIkt8HTT3Q1m5n=m18
-#EXTINF:https://3.bp.blogspot.com/-EWGsq_9G9B8/VzzYTQMnhiI/AAAAAAAAAuQ/Y0JGuHESwU0yWLxA7yMKrPoW6AQrRguvgCLcB/s1600/projeto-almanaque-poster-19nov2014.jpg,PROJETOALMANAQUE
+
+#EXTINF:https://3.bp.blogspot.com/-EWGsq_9G9B8/VzzYTQMnhiI/AAAAAAAAAuQ/Y0JGuHESwU0yWLxA7yMKrPoW6AQrRguvgCLcB/s1600/projeto-almanaque-poster-19nov2014.jpg",PROJETO ALMANAQUE
 https://lh3.googleusercontent.com/TxNcCCtZ8YL7okEcQT8p_CIu0W1syIwPuTpV5juRNN3PIFFYyx_2o58fknDBpT5Vf82i7xK1=m18
-#EXTINF:https://4.bp.blogspot.com/-rVQvSkxjRgs/VzzYTLXgYBI/AAAAAAAAAuI/LryBKF8Wk8IKeQwxiClYlFlLkzXFOvuCgCLcB/s1600/Terra-para-Echo-2014-260x332.jpg,TERRAPARAECHO
+
+#EXTINF:https://4.bp.blogspot.com/-rVQvSkxjRgs/VzzYTLXgYBI/AAAAAAAAAuI/LryBKF8Wk8IKeQwxiClYlFlLkzXFOvuCgCLcB/s1600/Terra-para-Echo-2014-260x332.jpg",TERRA PARA ECHO
 https://lh3.googleusercontent.com/lDFT2s4qYtiyTICC0M1pwcnkOSEQO-KhxXIidPIysTnpPJAAPC7GmHfbXafc9GYDdHJpivrM=m18
-#EXTINF:https://1.bp.blogspot.com/-TmIdG0ze6ds/VzzYTFZXDKI/AAAAAAAAAuE/jjlwYe-muB0n6HOzVSZl-jNSR7BOxLUZQCLcB/s1600/O-Mestre-dos-Jogos-Torrent.jpg,OMESTREDOSJOGOS
+
+#EXTINF:https://1.bp.blogspot.com/-TmIdG0ze6ds/VzzYTFZXDKI/AAAAAAAAAuE/jjlwYe-muB0n6HOzVSZl-jNSR7BOxLUZQCLcB/s1600/O-Mestre-dos-Jogos-Torrent.jpg",O MESTRE DOS JOGOS
 https://lh3.googleusercontent.com/zxz2HMK0JfMIc3P1N0kyVgDUsaWJbkR45bfS_O4rMoY87_v5er-PIPxuDrQnpvjG3Qu56GVZ=m18
-#EXTINF:https://2.bp.blogspot.com/-G4VydhIpwvY/VzzYShH_EFI/AAAAAAAAAt4/yGfxmmUrWzIQ9CvJBO5vXrPRI8UwteaIgCLcB/s1600/413249.jpg,NOVEMBERMANUMESPIAONUNCAMORRE
+
+#EXTINF:https://2.bp.blogspot.com/-G4VydhIpwvY/VzzYShH_EFI/AAAAAAAAAt4/yGfxmmUrWzIQ9CvJBO5vXrPRI8UwteaIgCLcB/s1600/413249.jpg",NOVEMBER MAN UM ESPIAO NUNCA MORRE
 https://lh3.googleusercontent.com/pRtPXUHbGhE0RW0JAs3I-ROrXkEYToR1zuc7AKxB-egNEomMESazZgDFR3oA96rHYTUbz5NO=m18
-#EXTINF:https://3.bp.blogspot.com/-UfVXK8VMAZI/VzzYTYqYfrI/AAAAAAAAAuU/ZBnPrh70t7wRFXTin-JyiWeW6ZFHyAnwwCLcB/s1600/refugio-do-medo-dublado.jpg,REFUGIODOMEDO
+
+#EXTINF:https://3.bp.blogspot.com/-UfVXK8VMAZI/VzzYTYqYfrI/AAAAAAAAAuU/ZBnPrh70t7wRFXTin-JyiWeW6ZFHyAnwwCLcB/s1600/refugio-do-medo-dublado.jpg",REFUGIO DO MEDO
 https://lh3.googleusercontent.com/EjopkqJJAkXzZcCmnQHCfHVzhis-2Mg1iWZZsVuHmGo8ekodxOtD11tGilvh4sWbds145E2W=m18
-#EXTINF:https://4.bp.blogspot.com/-m3JM3pzl8c0/VzzYR-obf2I/AAAAAAAAAt0/SgtIcUa1VJwywZXjNjYj_H4AbIx4vtsmgCLcB/s1600/186492.jpg,LARDOCEINFERNO
+
+#EXTINF:https://4.bp.blogspot.com/-m3JM3pzl8c0/VzzYR-obf2I/AAAAAAAAAt0/SgtIcUa1VJwywZXjNjYj_H4AbIx4vtsmgCLcB/s1600/186492.jpg",LAR DOCE INFERNO
 https://lh3.googleusercontent.com/LbkXH6RiJTzrFkMbru2Atm6t6IBxc17XKT6bf2L_J8vxHLRvP_8mUOJ-O5dxaTDtfgqwa8QD=m18
-#EXTINF:https://1.bp.blogspot.com/-DqU-tiz7OTc/VzzZkfXvPHI/AAAAAAAAAug/mOGgz9nAN7AKge8NAzC8gBJzzATts0oxACLcB/s1600/conteudo_73060.jpg,007OPERACAOSKYFALL
+
+#EXTINF:https://1.bp.blogspot.com/-DqU-tiz7OTc/VzzZkfXvPHI/AAAAAAAAAug/mOGgz9nAN7AKge8NAzC8gBJzzATts0oxACLcB/s1600/conteudo_73060.jpg",007 OPERACAO SKYFALL
 https://lh3.googleusercontent.com/Sl3ksCSLoGlsioFY2ZPokAE8ZbTshk7Rf_L-mNWSOUGvo7KYve-w70FAKQK9Jqpxuj1jdfsdIw=m22
-#EXTINF:https://3.bp.blogspot.com/-MYwMwlg8YKw/Vz4ZNs3fPwI/AAAAAAAAAv0/sfXkxYOJvMEwxZSk9ZPqeF406eOKRzU_ACLcB/s1600/cartaz-poster-do-filme-spartacus.jpg,SPARTACUS
+
+#EXTINF:https://3.bp.blogspot.com/-MYwMwlg8YKw/Vz4ZNs3fPwI/AAAAAAAAAv0/sfXkxYOJvMEwxZSk9ZPqeF406eOKRzU_ACLcB/s1600/cartaz-poster-do-filme-spartacus.jpg",SPARTACUS
 https://lh3.googleusercontent.com/PEQvw_9OT9dz40j7bFG98EJ1CzNuqW4x5tv3AkwFJIUb2kZJWo6AgGfi9cmGQMArT3utntks=m18
-#EXTINF:https://3.bp.blogspot.com/-elpKemzcf8g/Vz4ZPpPrI1I/AAAAAAAAAwQ/CX-JxpM23SAPj3icwC_5V4ewyQKNXy_1wCLcB/s1600/thumb.jpg,FORCADOIMPACTO
+
+#EXTINF:https://3.bp.blogspot.com/-elpKemzcf8g/Vz4ZPpPrI1I/AAAAAAAAAwQ/CX-JxpM23SAPj3icwC_5V4ewyQKNXy_1wCLcB/s1600/thumb.jpg",FORCA DO IMPACTO
 https://lh3.googleusercontent.com/CogCe9x-jiRa8LReklcJL4C4wC_2pPrrge-wX783GFeE2lb8cuLew7xg1fBdXp_PfbrGJB-i=m18
-#EXTINF:https://1.bp.blogspot.com/-2IkdLCL6V0Q/Vz4ZMlezKFI/AAAAAAAAAvg/Tj7VW-jn5pQU_oqWF5FNaWOBRRt8zPLPwCLcB/s1600/443417.jpg,HOMEMFORMIGA
+
+#EXTINF:https://1.bp.blogspot.com/-2IkdLCL6V0Q/Vz4ZMlezKFI/AAAAAAAAAvg/Tj7VW-jn5pQU_oqWF5FNaWOBRRt8zPLPwCLcB/s1600/443417.jpg",HOMEM FORMIGA
 https://lh3.googleusercontent.com/JoAJGnGbCl2FNcuDO6yBX-qX7WC4MOmrg95mBL5unDfGyiZKo7rgYR-HeHlsNtIm34pDt6kzalQ=m22
-#EXTINF:https://4.bp.blogspot.com/-HnlPUFF-PEk/Vz4ZPr7ooiI/AAAAAAAAAwM/G2z-cAEPCgEE5sLnH_u_JXs6UvUdYKLJgCLcB/s1600/o-lab.jpg,LABIRINTODOFAUNO
+
+#EXTINF:https://4.bp.blogspot.com/-HnlPUFF-PEk/Vz4ZPr7ooiI/AAAAAAAAAwM/G2z-cAEPCgEE5sLnH_u_JXs6UvUdYKLJgCLcB/s1600/o-lab.jpg",LABIRINTO DO FAUNO
 https://lh3.googleusercontent.com/9QB64zOmtCZB6nZvHb1eFaGSG7p_FtZ8y-sY7HHz7o53O4SmjRSZu6AXPvFkmgj6XrdQ5xtdxw=m22
-#EXTINF:https://3.bp.blogspot.com/-STP6GRaQpvs/Vz4ZOQvXIBI/AAAAAAAAAwA/TyMDYkhb0YU_zxGdUbjoeFTST3Xo0pgMgCLcB/s1600/jem-e-as-hologramas.jpg,JEMEASHOLOGRAMAS
+
+#EXTINF:https://3.bp.blogspot.com/-STP6GRaQpvs/Vz4ZOQvXIBI/AAAAAAAAAwA/TyMDYkhb0YU_zxGdUbjoeFTST3Xo0pgMgCLcB/s1600/jem-e-as-hologramas.jpg",JEM E AS HOLOGRAMAS
 https://lh3.googleusercontent.com/CB53H3Najrv8tmAFQ-ohDknU4UKYrUz29q5HPEitMlni_lc7hoFpL131q9UjL0B1cGj2eMrrwg=m22
-#EXTINF:https://4.bp.blogspot.com/-TZMQC3jHiMM/Vz4ZNPB4SMI/AAAAAAAAAvo/PC9EE7qR_csYtRKFZ02dfyenjBaCkjuNgCLcB/s1600/bf41f9ee0ba4f98cf73cd8c79b473574_jpg_290x478_upscale_q90.jpg,ICEUMDIADEPOISDOAMANHA
+
+#EXTINF:https://4.bp.blogspot.com/-TZMQC3jHiMM/Vz4ZNPB4SMI/AAAAAAAAAvo/PC9EE7qR_csYtRKFZ02dfyenjBaCkjuNgCLcB/s1600/bf41f9ee0ba4f98cf73cd8c79b473574_jpg_290x478_upscale_q90.jpg",ICE UM DIA DEPOIS DO AMANHA
 https://lh3.googleusercontent.com/jHRoLrrCqT41uVc08hTQLUIHdXLTn0TpVcU4CzgOqquFwNpA1GNIWOQCYMU-3lixrSbgGY-E=m18
-#EXTINF:https://2.bp.blogspot.com/-Y86logdyHEc/Vz4ZLmiv_YI/AAAAAAAAAvI/slH2P1Ag0wY2U475VjBsqI-ypjWkJchRgCLcB/s1600/19874148.jpg,SUBSTITUTOS
+
+#EXTINF:https://2.bp.blogspot.com/-Y86logdyHEc/Vz4ZLmiv_YI/AAAAAAAAAvI/slH2P1Ag0wY2U475VjBsqI-ypjWkJchRgCLcB/s1600/19874148.jpg",SUBSTITUTOS
 https://lh3.googleusercontent.com/jVX2L2N1GnFw4F16LXxZ7e82n_4Y4d_FwfdabRen0VC_1W5WGpmOg60BjSwjaCRt62vQ7y9N=m18
-#EXTINF:https://2.bp.blogspot.com/-U-eC2VugjVM/Vz4ZL5tjYFI/AAAAAAAAAvQ/5yh2NHEigJArp_MUDp0MUgXXUs4Y8eZHgCLcB/s1600/20151019084833%2521Starwars_06.jpg,STARWARSODESPERTARDAFORCA
+
+#EXTINF:https://2.bp.blogspot.com/-U-eC2VugjVM/Vz4ZL5tjYFI/AAAAAAAAAvQ/5yh2NHEigJArp_MUDp0MUgXXUs4Y8eZHgCLcB/s1600/20151019084833%2521Starwars_06.jpg",STAR WARS O DESPERTAR DA FORCA
 https://lh3.googleusercontent.com/8i3-IqPVeZiOycCV2xdB5OzheGW2Tnl7Hb3gTZR4i_HNZvN0HZ2lgjKiq0E51w2skcF6lA5ZlA=m22
-#EXTINF:https://2.bp.blogspot.com/-N_jid1l8v6A/Vz4ZOdHgMdI/AAAAAAAAAv8/qGyk2ESjFQsa4EP_11wonOGzhsrTpDl4wCLcB/s1600/frases-de-filmes-prova-de-fogo-6.jpg,PROVADEFOGO
+
+#EXTINF:https://2.bp.blogspot.com/-N_jid1l8v6A/Vz4ZOdHgMdI/AAAAAAAAAv8/qGyk2ESjFQsa4EP_11wonOGzhsrTpDl4wCLcB/s1600/frases-de-filmes-prova-de-fogo-6.jpg",PROVA DE FOGO
 https://lh3.googleusercontent.com/BMuGEUXNvdd4pBFLXn3wCJ4JatHoEvfIDAI0_VaODhyIZFFXPkEIVrEm9x449SoA-Al0-YCk=m18
-#EXTINF:https://3.bp.blogspot.com/-He8K36Wjd0Q/Vz4ZMJp3UCI/AAAAAAAAAvU/K-cJXcIsgisiC1j-K-QHgYrzuvckvy15QCLcB/s1600/2d910d2ea172b573afe5a9ca37d140ca_jpg_290x478_upscale_q90.jpg,OSEGREDODOVALEDALUA
+
+#EXTINF:https://3.bp.blogspot.com/-He8K36Wjd0Q/Vz4ZMJp3UCI/AAAAAAAAAvU/K-cJXcIsgisiC1j-K-QHgYrzuvckvy15QCLcB/s1600/2d910d2ea172b573afe5a9ca37d140ca_jpg_290x478_upscale_q90.jpg",O SEGREDO DO VALE DA LUA
 https://lh3.googleusercontent.com/KWt1kamTRbosdDW2ji-t2kDM9AOH9fqH5Wpu8pULWpVDjlFbdrnbbs9xPV074g024wsbYtwo=m18
-#EXTINF:https://2.bp.blogspot.com/-I-uZG6uRKqs/Vz4ZLJOpnKI/AAAAAAAAAvE/zo578SwGts80UJovuxm7ikmpKePd1PViQCLcB/s1600/1155308-250x250.png,FATAL
+
+#EXTINF:https://2.bp.blogspot.com/-I-uZG6uRKqs/Vz4ZLJOpnKI/AAAAAAAAAvE/zo578SwGts80UJovuxm7ikmpKePd1PViQCLcB/s1600/1155308-250x250.png",FATAL
 https://lh3.googleusercontent.com/nmQKZ3HILQFh0KILcnRoSTg1iMOxG7vaxbwESH7OaltR_bLTjp9Yrup3Y0y2WolsrMVikeR5=m18
-#EXTINF:https://3.bp.blogspot.com/-uIBsIKzc0io/Vz4ZPTd_NnI/AAAAAAAAAwI/UbsYX9U_qEIn_75r2U7EqtcWPbB9BylMACLcB/s1600/thumb%2B%25281%2529.jpg,OSEGREDO
+
+#EXTINF:https://3.bp.blogspot.com/-uIBsIKzc0io/Vz4ZPTd_NnI/AAAAAAAAAwI/UbsYX9U_qEIn_75r2U7EqtcWPbB9BylMACLcB/s1600/thumb%2B%25281%2529.jpg",O SEGREDO
 https://lh3.googleusercontent.com/aLnxf29YRuQOj0YkwxrmhTgNSraV89nqtDCUsKrkEZEQA1KjVw-ovy7qGc3slt6cyxNHCsyF=m18
-#EXTINF:https://3.bp.blogspot.com/-h7zVhZtu244/Vz4ZNzIljdI/AAAAAAAAAv4/l9lUUqhpaqUJdCNsIAvpAQd11HYSLVwigCLcB/s1600/cartaz_oilusionista_cartaz_220x283.jpg,OILUSIONISTA
+
+#EXTINF:https://3.bp.blogspot.com/-h7zVhZtu244/Vz4ZNzIljdI/AAAAAAAAAv4/l9lUUqhpaqUJdCNsIAvpAQd11HYSLVwigCLcB/s1600/cartaz_oilusionista_cartaz_220x283.jpg",O ILUSIONISTA
 https://lh3.googleusercontent.com/aNiC5GPseuTnZC0hk5AlN22EmaootKpBnIuwwan_MtTqKScs8ozOn0NQTXVuJVkU-mvg0589=m18
-#EXTINF:https://4.bp.blogspot.com/-yT-G6EPAIzs/Vz4ZP5RQcZI/AAAAAAAAAwU/bvSmhCn35sY16cuj0BZGoXCNxiezhRaGwCLcB/s1600/verdade-ou-consequencia_cartaz_220x283.jpg,VERDADEOUCONSEQUENCIA
+
+#EXTINF:https://4.bp.blogspot.com/-yT-G6EPAIzs/Vz4ZP5RQcZI/AAAAAAAAAwU/bvSmhCn35sY16cuj0BZGoXCNxiezhRaGwCLcB/s1600/verdade-ou-consequencia_cartaz_220x283.jpg",VERDADE OU CONSEQUENCIA
 https://lh3.googleusercontent.com/m08oNqcPPmv3ujHEatdzdRI40R9Lrr1v-AgICkq_LvW7xN2nYT6qhZlU6xNw2HXkXXPBChFwFg=18
-#EXTINF:https://2.bp.blogspot.com/-2ISlqWSj4X0/Vz4ZMcDMVZI/AAAAAAAAAvc/5XsidXRVHg4n7z9Hj7pmW7iuWVT97MzlACLcB/s1600/395861.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,UMAPROMESSA
+
+#EXTINF:https://2.bp.blogspot.com/-2ISlqWSj4X0/Vz4ZMcDMVZI/AAAAAAAAAvc/5XsidXRVHg4n7z9Hj7pmW7iuWVT97MzlACLcB/s1600/395861.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",UMA PROMESSA
 https://lh3.googleusercontent.com/1itgrTL_N-P28d4wfXf6vLX81qLdxZi42nR4Fdnng_Fua6aAnz31seFEX0xi6iKj_mYBFL_h=m18
-#EXTINF:https://3.bp.blogspot.com/-1_iwXl_wXDc/Vz4ZPf-EqxI/AAAAAAAAAwE/di-xoNjg4xcK1KMofGXOSCC_B2pZEtzpgCLcB/s1600/divertida-mente-poster-sentimentos-camundongo.jpg,DIVERTIDAMENTE
+
+#EXTINF:https://3.bp.blogspot.com/-1_iwXl_wXDc/Vz4ZPf-EqxI/AAAAAAAAAwE/di-xoNjg4xcK1KMofGXOSCC_B2pZEtzpgCLcB/s1600/divertida-mente-poster-sentimentos-camundongo.jpg",DIVERTIDA MENTE
 https://lh3.googleusercontent.com/5NAhVFwHUy4BWvhqIkPfrqGPHLt_xRnO4uOuNjcmfN7KdSptmndfgvctmDNJJjod_vvFOdxTug=m22
-#EXTINF:https://1.bp.blogspot.com/-wDPtsdNB050/Vz4ZNlSAjDI/AAAAAAAAAvs/tEJKe7ff5fAezEy0QhYQV78aXt2W8jlKgCLcB/s1600/O-Mar-N%25C3%25A3o-Est%25C3%25A1-Pr%25C3%25A1-Peixe-2-Tubar%25C3%25B5es-%25C3%25A0-Vista.jpg,OMARNAOESTAPRAPEIXE
+
+#EXTINF:https://1.bp.blogspot.com/-wDPtsdNB050/Vz4ZNlSAjDI/AAAAAAAAAvs/tEJKe7ff5fAezEy0QhYQV78aXt2W8jlKgCLcB/s1600/O-Mar-N%25C3%25A3o-Est%25C3%25A1-Pr%25C3%25A1-Peixe-2-Tubar%25C3%25B5es-%25C3%25A0-Vista.jpg",O MAR NAO ESTA PRA PEIXE
 https://lh3.googleusercontent.com/HkB5M3341VorzB_M-KoHQYLbgU7bXVdJhms5cKZy8138zXVxffYJ-740GYrWL7XgNbOXB-kIHQ=m18
-#EXTINF:https://2.bp.blogspot.com/-JoApLUwXdrQ/Vz4ZLqCszgI/AAAAAAAAAvM/LrWdPzG9A6QWB-jLsJ1ONNGN0XagZo0fwCLcB/s1600/20130161.jpg,OUTBACKUMAGALERAANIMAL
+
+#EXTINF:https://2.bp.blogspot.com/-JoApLUwXdrQ/Vz4ZLqCszgI/AAAAAAAAAvM/LrWdPzG9A6QWB-jLsJ1ONNGN0XagZo0fwCLcB/s1600/20130161.jpg",OUTBACK UMA GALERA ANIMAL
 https://lh3.googleusercontent.com/T-jhYhLXLyGG-q6U25-C_2XqwjUarJsEIgm-9b-XIqORnR0iKBCxsO1mOeo_VMoLdV-v529bwg=m22
 
-#EXTINF:https://2.bp.blogspot.com/-HwZPHVlxRkQ/Vz4ZNFDAzCI/AAAAAAAAAvk/GI10IRxIYNUYGS2jM2IfJ2OolipBCknrQCLcB/s1600/Poster-Agora-e-Para-Sempre1-314x458.jpg,AGORAEPARASEMPRE
+
+#EXTINF:https://2.bp.blogspot.com/-HwZPHVlxRkQ/Vz4ZNFDAzCI/AAAAAAAAAvk/GI10IRxIYNUYGS2jM2IfJ2OolipBCknrQCLcB/s1600/Poster-Agora-e-Para-Sempre1-314x458.jpg",AGORA E PARA SEMPRE
 https://lh3.googleusercontent.com/JtTMsshsdQpQDzhA3BNtrujLu2QM-pKp8qGnVbDq6NoWIs6sm3E0AvpC7z1ovf0UY0xcuRN20w=m18
-#EXTINF:https://3.bp.blogspot.com/-NE7f1INoYuk/Vz4ZNmRMmwI/AAAAAAAAAvw/jFFjWVJVzb4s-zVL6Wc_riGgfGg2u4ovACLcB/s1600/cafe-com-amor.jpg,CAFECOMAMOR
+
+#EXTINF:https://3.bp.blogspot.com/-NE7f1INoYuk/Vz4ZNmRMmwI/AAAAAAAAAvw/jFFjWVJVzb4s-zVL6Wc_riGgfGg2u4ovACLcB/s1600/cafe-com-amor.jpg",CAFE COM AMOR
 https://lh3.googleusercontent.com/y0kx7dIHLV-Z4mnW_ulFwCDFjNOIjKt5lQZkAinkxGPA24JrawMrvFW3oofUPWVekWGnzAazcg=m18
-#EXTINF:https://4.bp.blogspot.com/-ZatjsjTicFs/Vz4szlkpd5I/AAAAAAAAAww/ODDKS3_zye0PzxTqBnQO61PylOvxFDxLwCLcB/s1600/20214277.jpg,OUTONOEMNOVAYORK
+
+#EXTINF:https://4.bp.blogspot.com/-ZatjsjTicFs/Vz4szlkpd5I/AAAAAAAAAww/ODDKS3_zye0PzxTqBnQO61PylOvxFDxLwCLcB/s1600/20214277.jpg",OUTONO EM NOVA YORK
 https://lh3.googleusercontent.com/NqpX6A8vs5P9pQP-ih6nJAjJI5UixQK5Mh8w5F7WVIKAGtejCUbd6Wti4xz-c4zVBXrBGU_y=m18
-#EXTINF:https://2.bp.blogspot.com/-bpLt30vrFSo/Vz4s2bZXSqI/AAAAAAAAAxI/Vl-ard6FZNgojQdPzsWPKJ9OkiMfsaOFgCLcB/s1600/um%2Bhomew.jpg,UMHOMEMENTREGIGANTES
+
+#EXTINF:https://2.bp.blogspot.com/-bpLt30vrFSo/Vz4s2bZXSqI/AAAAAAAAAxI/Vl-ard6FZNgojQdPzsWPKJ9OkiMfsaOFgCLcB/s1600/um%2Bhomew.jpg",UM HOMEM ENTRE GIGANTES
 https://lh3.googleusercontent.com/EgToB3qUvFMl_SLibqLLUxhFvUyqLRWKIhXFMgyC71-kb5JxOszNDQHHhegcKB1NhoeFh5wM=m18
-#EXTINF:https://4.bp.blogspot.com/-sckD9Actjpk/Vz4s0lHppnI/AAAAAAAAAw4/Kd-Mut8BEx87h56hvQ8Bu8pjrw8gWbt1wCLcB/s1600/Os-Dez-Mandamentos.png,OSDEZMANDAMENTOS
+
+#EXTINF:https://4.bp.blogspot.com/-sckD9Actjpk/Vz4s0lHppnI/AAAAAAAAAw4/Kd-Mut8BEx87h56hvQ8Bu8pjrw8gWbt1wCLcB/s1600/Os-Dez-Mandamentos.png",OS DEZ MANDAMENTOS
 https://lh3.googleusercontent.com/CUsUFeFyTA-dqFUqQCZj65a6XRWivoO1TWUukgmVDhg0kYiP54F4R7n0AqoDpffQtsfOIQb3=m18
-#EXTINF:https://4.bp.blogspot.com/-2haTdEmXRQM/Vz4s1M4kWRI/AAAAAAAAAw8/K0-lRxp5Lcomks2GAAzfT3Psq5nRDlbFQCLcB/s1600/Zoolander.jpg,ZOOLANDER2
+
+#EXTINF:https://4.bp.blogspot.com/-2haTdEmXRQM/Vz4s1M4kWRI/AAAAAAAAAw8/K0-lRxp5Lcomks2GAAzfT3Psq5nRDlbFQCLcB/s1600/Zoolander.jpg",ZOOLANDER 2
 https://lh3.googleusercontent.com/imVFDDkTPjXPXHrmVaxf6v6bFs0kh_QKfZb3kBLXguyYUDyAsWIYhQEmcdQ04vKKDtkA8vJR6g=m22
-#EXTINF:https://2.bp.blogspot.com/-SfoGnp9eaJk/Vz4s2eBGUgI/AAAAAAAAAxM/ArvjsgmC3rY5ZTSwQ2r3L8mHNebLU6MNACLcB/s1600/229286.jpg,TIRANDOOATRASADO
+
+#EXTINF:https://2.bp.blogspot.com/-SfoGnp9eaJk/Vz4s2eBGUgI/AAAAAAAAAxM/ArvjsgmC3rY5ZTSwQ2r3L8mHNebLU6MNACLcB/s1600/229286.jpg",TIRANDO O ATRASADO
 https://lh3.googleusercontent.com/H6D6D6ol4Nlk94eRc1v0QXUJLkgKBi11KVie2sw5i7uxWeNOtd0j1H62X2eV9YZT1uflfnuW6g=m22
-#EXTINF:https://4.bp.blogspot.com/-s2s0Cl1PuWY/Vz4s2Eu2R0I/AAAAAAAAAxA/9_WmjEd_oS8tyL7Qm_Y38ocILBru1ETeQCLcB/s1600/buryingtheex-poster2205.jpg,ENTERRANDOMINHAEX
+
+#EXTINF:https://4.bp.blogspot.com/-s2s0Cl1PuWY/Vz4s2Eu2R0I/AAAAAAAAAxA/9_WmjEd_oS8tyL7Qm_Y38ocILBru1ETeQCLcB/s1600/buryingtheex-poster2205.jpg",ENTERRANDO MINHA EX
 https://lh3.googleusercontent.com/L-vY6jtjnIvfJRR0g_DfXtOB9xz7geNqpcO7c3gVtsbBtJ4cyHUVoPCRos5x4TeNMObxqz4g=m18
-#EXTINF:https://2.bp.blogspot.com/-05sgnVaHcX8/Vz4s0TQdBkI/AAAAAAAAAw0/n8reDrSromE8OfD1FvZwlZnelz8niHL5wCLcB/s1600/Um%2BTira%2Bno%2BJardim%2Bde%2BInf%25C3%25A2ncia%2B2.jpg,UMTIRANOJARDIMDEINFANCIA2
+
+#EXTINF:https://2.bp.blogspot.com/-05sgnVaHcX8/Vz4s0TQdBkI/AAAAAAAAAw0/n8reDrSromE8OfD1FvZwlZnelz8niHL5wCLcB/s1600/Um%2BTira%2Bno%2BJardim%2Bde%2BInf%25C3%25A2ncia%2B2.jpg",UM TIRA NO JARDIM DE INFANCIA 2
 https://lh3.googleusercontent.com/sR8Al2EUfVvuYtIzLn7M17bLJZhVyT3JWu6XOHukG4iA4A0hQWuAyjWqBpd3vZEUSEgWU5Qg=m18
-#EXTINF:https://2.bp.blogspot.com/-YbqcT2wLhQc/Vz4s2UsAMfI/AAAAAAAAAxE/CgXRO-kt4sY6tK6UON0posGWssSA-OgiQCLcB/s1600/o-REZA-A-LENDA-570.jpg,REZAALENDA
+
+#EXTINF:https://2.bp.blogspot.com/-YbqcT2wLhQc/Vz4s2UsAMfI/AAAAAAAAAxE/CgXRO-kt4sY6tK6UON0posGWssSA-OgiQCLcB/s1600/o-REZA-A-LENDA-570.jpg",REZA A LENDA
 https://lh3.googleusercontent.com/FiXKxwU1MHIYFI07ZO_zKJQuukJscHD2OjdksWAN47Crdf3UMMv59A9IxyHApM0Ryg9_5-tf=m18
-#EXTINF:https://3.bp.blogspot.com/-o1urbz0I8d4/Vz40mPTLs-I/AAAAAAAAAxk/cslnseL69jUffAiRTdOPYQjoQ9UG5suqACLcB/s1600/rs_634x899-160309102712-634.Dead-Seven-FB-030916.jpg,DEAD7
+
+#EXTINF:https://3.bp.blogspot.com/-o1urbz0I8d4/Vz40mPTLs-I/AAAAAAAAAxk/cslnseL69jUffAiRTdOPYQjoQ9UG5suqACLcB/s1600/rs_634x899-160309102712-634.Dead-Seven-FB-030916.jpg",DEAD 7
 https://lh3.googleusercontent.com/1WcYSDL3YZRTaVQMl7TaGVJXgTfB4zNtieSWG9oHU41Tg_MVmw6n_GrDy8Z3L0_p1hiyDXCROQ=m22
-#EXTINF:https://1.bp.blogspot.com/-wik8C_eP-Sk/V0ac0wZtl5I/AAAAAAAAAyY/x-2K_SjWpR0SzEOQRokgo70Rs8AEwaWpgCLcB/s1600/O-Ca%25C3%25A7ador-e-a-Rainha-de-Gelo.jpg,OCACADOREARAINHADOGELO
+
+#EXTINF:https://1.bp.blogspot.com/-wik8C_eP-Sk/V0ac0wZtl5I/AAAAAAAAAyY/x-2K_SjWpR0SzEOQRokgo70Rs8AEwaWpgCLcB/s1600/O-Ca%25C3%25A7ador-e-a-Rainha-de-Gelo.jpg",O CACADOR E A RAINHA DO GELO
 https://lh3.googleusercontent.com/IxdaZOnkvBZF67g-kCLFK3mKpAu8VPJ5XNBqg4xkWIFNwjkViUAXLmkkDX-jvOhWiaogfcQfag=m18
-#EXTINF:https://3.bp.blogspot.com/-X7t3i-M5uvI/V00gyl8OzKI/AAAAAAAAAzg/2FgjvcgrWuE_WP3WZsaUq7E42makhWH7wCLcB/s1600/zerando.jpg,ZERANDOAVIDA
+
+#EXTINF:https://3.bp.blogspot.com/-X7t3i-M5uvI/V00gyl8OzKI/AAAAAAAAAzg/2FgjvcgrWuE_WP3WZsaUq7E42makhWH7wCLcB/s1600/zerando.jpg",ZERANDO A VIDA
 https://lh3.googleusercontent.com/VbbMheZEfPpA1oC5QIaQeea8Hd1kYBITg7fMvmkUnOSoips7vgewjGziTEcvkFoypES0oGQY=m22
-#EXTINF:https://2.bp.blogspot.com/-k3lF82TSWxI/V00gyfrLz3I/AAAAAAAAAzY/1Ns2n31bMasdkhB7d1OBC7U08dlzaavsQCLcB/s1600/my-what-big-teeth-you-have-little-dead-rotting-hood-movie-review-little-dead-rotting-764525-214x300.jpg,AVIZINHANCAASSOMBRADA
+
+#EXTINF:https://2.bp.blogspot.com/-k3lF82TSWxI/V00gyfrLz3I/AAAAAAAAAzY/1Ns2n31bMasdkhB7d1OBC7U08dlzaavsQCLcB/s1600/my-what-big-teeth-you-have-little-dead-rotting-hood-movie-review-little-dead-rotting-764525-214x300.jpg",A VIZINHANCA ASSOMBRADA
 https://lh3.googleusercontent.com/tCLDcSnu3JdZf7tIW7Cq52etElo_6bt6cxWIsJJG2W92BKTJFMFo1n6na7yp21ecv0bsYm88=m22
-#EXTINF:https://4.bp.blogspot.com/-5Rb8ir-940E/V00gykgMEQI/AAAAAAAAAzc/Pho7qUxruGAy9cmH357Awf-AGMFZHroFgCLcB/s1600/war-pigs_capa.jpg,MARCASDAGUERRA
+
+#EXTINF:https://4.bp.blogspot.com/-5Rb8ir-940E/V00gykgMEQI/AAAAAAAAAzc/Pho7qUxruGAy9cmH357Awf-AGMFZHroFgCLcB/s1600/war-pigs_capa.jpg",MARCAS DA GUERRA
 https://lh3.googleusercontent.com/cMF1Tq_zAqhSGlFKKK_z8NKVOLwyCe8Ow2Y6bNqhOcU3a1zeylBNzIfBvJemL_ktvqkUOois=m22
-#EXTINF:https://4.bp.blogspot.com/-PQk0MTh3CXI/V00gx8UBZDI/AAAAAAAAAzM/sQfKnWAY98Q7uXxGjnJS2c1socuCcmGPgCLcB/s1600/Floresta-Maldita.jpg,FLORESTAMALDITA
+
+#EXTINF:https://4.bp.blogspot.com/-PQk0MTh3CXI/V00gx8UBZDI/AAAAAAAAAzM/sQfKnWAY98Q7uXxGjnJS2c1socuCcmGPgCLcB/s1600/Floresta-Maldita.jpg",FLORESTA MALDITA
 https://lh3.googleusercontent.com/-fThcK4lzntJhk5KIypR1YkAy7C_-sdCxEshI3eW4U43ZupV8PXGW6Ff_vbCYG-J2dN9rx79=m18
-#EXTINF:https://3.bp.blogspot.com/-Q3C2QX3Q5yc/V00gyEiBa-I/AAAAAAAAAzQ/NHcpW39u0AEN6L51sw5trzJsyyp4QJphQCLcB/s1600/Do-Outro-Lado-da-Porta-2016-1-691x1024.jpg,DOOUTROLADODAPORTA
+
+#EXTINF:https://3.bp.blogspot.com/-Q3C2QX3Q5yc/V00gyEiBa-I/AAAAAAAAAzQ/NHcpW39u0AEN6L51sw5trzJsyyp4QJphQCLcB/s1600/Do-Outro-Lado-da-Porta-2016-1-691x1024.jpg",DO OUTRO LADO DA PORTA
 https://lh3.googleusercontent.com/y3BoDBpcwQCGgBVp8Qxf2EciKCDa23gUaKgQ2Q8f04xA-ehf6G9bpWVsaEhWXxh7d6WRg0-7=m22
-#EXTINF:https://2.bp.blogspot.com/-Ce6BDzIV_E8/V00gyPa3yUI/AAAAAAAAAzU/_-ISuBvU0zg3UNmfeHkKWx-NmdU_JJdbACLcB/s1600/Guerra-do-Trafico-2011.jpg,GUERRADOTRAFICO
+
+#EXTINF:https://2.bp.blogspot.com/-Ce6BDzIV_E8/V00gyPa3yUI/AAAAAAAAAzU/_-ISuBvU0zg3UNmfeHkKWx-NmdU_JJdbACLcB/s1600/Guerra-do-Trafico-2011.jpg",GUERRA DO TRAFICO
 https://lh3.googleusercontent.com/o9HPzkO8QgOmsIm9VFLRMZ1oBL7EXNm6ptknlrOAD7RWiincTvIHU4F3laWreFxiHbundmc1=m18
-#EXTINF:https://1.bp.blogspot.com/-YzfMt70BaBQ/V00gw_lr-RI/AAAAAAAAAzE/YfysfCjlcSI_FhTsu5OQ_IXw4nBxcBHnQCLcB/s1600/1461779416-capitao-america-guerra-civil.jpg,CAPITAOAMERICAGUERRACIVIL
+
+#EXTINF:https://1.bp.blogspot.com/-YzfMt70BaBQ/V00gw_lr-RI/AAAAAAAAAzE/YfysfCjlcSI_FhTsu5OQ_IXw4nBxcBHnQCLcB/s1600/1461779416-capitao-america-guerra-civil.jpg",CAPITAO AMERICA GUERRA CIVIL
 https://lh3.googleusercontent.com/wjYIYBL5ZWCduSX399J-vkELPU9HwWgAY4tpUwaqrIBwyoEb8EItyoIYjNDHQqwhzHFLliuY=m18
-#EXTINF:https://3.bp.blogspot.com/-jgNLdIYaPjM/V00gxl60j8I/AAAAAAAAAzI/Kn5OWXaV3N0hTSUxjc3QeEIQSnBJZHgSACLcB/s1600/089984.jpg,COMOSERSOLTEIRA
+
+#EXTINF:https://3.bp.blogspot.com/-jgNLdIYaPjM/V00gxl60j8I/AAAAAAAAAzI/Kn5OWXaV3N0hTSUxjc3QeEIQSnBJZHgSACLcB/s1600/089984.jpg",COMO SER SOLTEIRA
 https://lh3.googleusercontent.com/KPuv4HUKJbHprZKbVXapbRaopZHiKDDQB7sg38taSA9BSVVP0PdhZe2gdxbLvPKUdx2HPlIM=m18
-#EXTINF:https://2.bp.blogspot.com/-5HywVUraqso/V00gw5DYDnI/AAAAAAAAAzA/aAOBzY6DV4gNq60aWMuYr6kf_nPJstveQCLcB/s1600/Deadpool_poster.jpg,DEADPOOL
+
+#EXTINF:https://2.bp.blogspot.com/-5HywVUraqso/V00gw5DYDnI/AAAAAAAAAzA/aAOBzY6DV4gNq60aWMuYr6kf_nPJstveQCLcB/s1600/Deadpool_poster.jpg",DEADPOOL
 https://lh3.googleusercontent.com/K26AZpTDCbs2_I8RPzu9akCP-2JSnWMf0xCRc7R-LheNROk2zezBjxoU07olphq2UYIGnu41=m22
-#EXTINF:https://4.bp.blogspot.com/-8U_HEu8FlYw/V03SsSBvaZI/AAAAAAAAAz4/BT4dUUeMEbgcFjiAV3yL4zR0CT1il0WegCLcB/s1600/P1.jpg,PREMONICAO1
+
+#EXTINF:https://4.bp.blogspot.com/-8U_HEu8FlYw/V03SsSBvaZI/AAAAAAAAAz4/BT4dUUeMEbgcFjiAV3yL4zR0CT1il0WegCLcB/s1600/P1.jpg",PREMONICAO 1
 https://lh3.googleusercontent.com/j1kwVjeGTxHORhwA3ygxXR22dZ4MMW_HZEFlkZu00w2Z1Tlsdhqb7UyrG3CUCt9J6OEW_nV7nA=m22
-#EXTINF:https://4.bp.blogspot.com/-kvehrFEviIE/V03SsfZ4LBI/AAAAAAAAAz8/HffQotTWtas_rC9efZZM3Fo86EZl1KskQCLcB/s1600/P2.jpg,PREMONICAO2
+
+#EXTINF:https://4.bp.blogspot.com/-kvehrFEviIE/V03SsfZ4LBI/AAAAAAAAAz8/HffQotTWtas_rC9efZZM3Fo86EZl1KskQCLcB/s1600/P2.jpg",PREMONICAO 2
 https://lh3.googleusercontent.com/9UR9wV55u2INFyz1V25bwI5Zt2DSn5J6ezAXGp4EAISVgjl6v2CyPCSyf_SukWGIXNYk8lOUEA=m22
-#EXTINF:https://3.bp.blogspot.com/-iZGOzulAhYo/V03SsTxUkpI/AAAAAAAAA0A/wNYvrnfHI9AiXElkrrvAmgzdRKTyoE9KwCLcB/s1600/P3.jpg,PREMONICAO3
+
+#EXTINF:https://3.bp.blogspot.com/-iZGOzulAhYo/V03SsTxUkpI/AAAAAAAAA0A/wNYvrnfHI9AiXElkrrvAmgzdRKTyoE9KwCLcB/s1600/P3.jpg",PREMONICAO 3 
 https://lh3.googleusercontent.com/wcFcC11qflpgiLYdnmmdMoSh1uWjEVCi2Xej3DTfP1RlTMAhv8i45k-phURhkqcX7U3ndSumKQ=m22
-#EXTINF:https://4.bp.blogspot.com/-fgV1HRofvKs/V03SsyOp-6I/AAAAAAAAA0E/MNenXDTspMsjoZ36hkAhL-9iZE33VQ2QQCLcB/s1600/P5.jpg,PREMONICAO5
+
+#EXTINF:https://4.bp.blogspot.com/-fgV1HRofvKs/V03SsyOp-6I/AAAAAAAAA0E/MNenXDTspMsjoZ36hkAhL-9iZE33VQ2QQCLcB/s1600/P5.jpg",PREMONICAO 5
 https://lh3.googleusercontent.com/4zQLic-t8PQ7fY-IjgzN0zCsqFH_jfTZhw7l5wJUKhKYubP8YOmpvN2ncgX6ia1fu6R9Gikh=m22
-#EXTINF:https://4.bp.blogspot.com/-fgV1HRofvKs/V03SsyOp-6I/AAAAAAAAA0E/MNenXDTspMsjoZ36hkAhL-9iZE33VQ2QQCLcB/s1600/P5.jpg,PREMONICAO4
+
+#EXTINF:https://4.bp.blogspot.com/-fgV1HRofvKs/V03SsyOp-6I/AAAAAAAAA0E/MNenXDTspMsjoZ36hkAhL-9iZE33VQ2QQCLcB/s1600/P5.jpg",PREMONICAO 4
 https://lh3.googleusercontent.com/Od9dbZTZ0oXmR6mWb5SKPn69U8lbJr-G4CczRUhYUkfLRxqN1hlGdjLiy76U5hVCBurfXIdO=m22
-#EXTINF:https://3.bp.blogspot.com/-wLWF51cKaH8/V7vLA_mrUaI/AAAAAAAAA3M/27saCvcJSXwV13JaHoJ5id7PRC5sI3rIgCLcB/s320/zohan.jpg,ZOHAN:UMAGENTEBOMDECORTE
+
+#EXTINF:https://3.bp.blogspot.com/-wLWF51cKaH8/V7vLA_mrUaI/AAAAAAAAA3M/27saCvcJSXwV13JaHoJ5id7PRC5sI3rIgCLcB/s320/zohan.jpg",ZOHAN: UM AGENTE BOM DE CORTE
 https://lh3.googleusercontent.com/qpsaZbuAQ46juZ3JR0A7nf9qH5e2hKOHhOY31ALB1dc3I8pvEHzAR3FqEMeXNXDzQbv2GGCmrQ-P=m22
-#EXTINF:https://3.bp.blogspot.com/-h7TdsJXEvIE/V7vuoPUZyaI/AAAAAAAAA3s/CmET2TsgeiEIwtiER_Ii9JHFuqseDrg4wCLcB/s320/B99Lw6tQlB4.market_maxres.jpg,HELLOLADIES
+
+#EXTINF:https://3.bp.blogspot.com/-h7TdsJXEvIE/V7vuoPUZyaI/AAAAAAAAA3s/CmET2TsgeiEIwtiER_Ii9JHFuqseDrg4wCLcB/s320/B99Lw6tQlB4.market_maxres.jpg",HELLO LADIES
 https://lh3.googleusercontent.com/biH2fkcGcrnXwp1_z5-elxebCQvJeta48_9higkHTqlRk-rV1xjMStkVE5pm5Y9y2tgcbEaxzuUR=m18
-#EXTINF:https://2.bp.blogspot.com/-_u6oO3mZmE8/V7vunyAGtRI/AAAAAAAAA3o/1r_0YYztNOQP0oVvLVuak_NEIHPCfNl-ACLcB/s1600/Herois-da-Galaxia-Ratchet-e-Clank-202x300.jpg,HEROISDAGALAXIA
+
+#EXTINF:https://2.bp.blogspot.com/-_u6oO3mZmE8/V7vunyAGtRI/AAAAAAAAA3o/1r_0YYztNOQP0oVvLVuak_NEIHPCfNl-ACLcB/s1600/Herois-da-Galaxia-Ratchet-e-Clank-202x300.jpg",HEROIS DA GALAXIA
 https://lh3.googleusercontent.com/jD_D1cACpT8EoWGSe8iOtDX5NXjXvnE75prFGb0bjbI-8OX-ifEfDcL6IT5uFkupgRBiSB8icWTO=m22
-#EXTINF:https://2.bp.blogspot.com/-H_-HfJu7wEk/V7_ea_t7pzI/AAAAAAAABRw/yAIIu4Zk8rYfwHCjem0OE1FbrBJsl5i4ACLcB/s320/303307.jpg,COMOEUERAANTESDEVOCE
+
+#EXTINF:https://2.bp.blogspot.com/-H_-HfJu7wEk/V7_ea_t7pzI/AAAAAAAABRw/yAIIu4Zk8rYfwHCjem0OE1FbrBJsl5i4ACLcB/s320/303307.jpg",COMO EU ERA ANTES DE VOCE
 https://lh3.googleusercontent.com/c_zrAhjB2ntEYEkubmWBJjOCv4D3sz7AJBa0lRhzBHdXGEbw4E8OrTRvzbVSOQWxVye1PkSPUmle=m22
-#EXTINF:https://3.bp.blogspot.com/-mYIGni8aum0/V7_eZhfvrGI/AAAAAAAABRk/avpQXQfkAjod2BHny5clYneUeepcQhuWgCLcB/s320/21024039_20130801212713895.jpg,THOR:OMUNDOSOMBRIO
+
+#EXTINF:https://3.bp.blogspot.com/-mYIGni8aum0/V7_eZhfvrGI/AAAAAAAABRk/avpQXQfkAjod2BHny5clYneUeepcQhuWgCLcB/s320/21024039_20130801212713895.jpg",THOR: O MUNDO SOMBRIO
 https://lh3.googleusercontent.com/Bcgc4zjgGDbK5S4R0g7Ny7icfLYEsjC5AxnBU9u0KpheS7tJfFU_NByoPdrX2J_aA92tQ9mwzV2v=m22
-#EXTINF:https://2.bp.blogspot.com/-oOJ_0CYIiT4/V7_ebRcpaFI/AAAAAAAABR8/VKHSxWVZx2ArCMhCv_NtezyQ_sHPtsXqQCLcB/s320/gravidade-poster1.jpg,GRAVIDADE
+
+#EXTINF:https://2.bp.blogspot.com/-oOJ_0CYIiT4/V7_ebRcpaFI/AAAAAAAABR8/VKHSxWVZx2ArCMhCv_NtezyQ_sHPtsXqQCLcB/s320/gravidade-poster1.jpg",GRAVIDADE
 https://lh3.googleusercontent.com/VeiMUNkgv1DfkZzzur8f_oacz8Vn8A3DxymuixDjhxPoNPQ-zNhaFaeJSiAXM44e3375xhEEV3nL=m22
-#EXTINF:https://2.bp.blogspot.com/-ARI6B_HP-ls/V7_ebBhkYfI/AAAAAAAABR4/gF7Gy61S_NQEOyZWokhg9OjUEaW2VlpjwCLcB/s320/sombras_de_goya.jpg,SOMBRASDEGOYA
+
+#EXTINF:https://2.bp.blogspot.com/-ARI6B_HP-ls/V7_ebBhkYfI/AAAAAAAABR4/gF7Gy61S_NQEOyZWokhg9OjUEaW2VlpjwCLcB/s320/sombras_de_goya.jpg",SOMBRAS DE GOYA
 https://lh3.googleusercontent.com/crNdPJx4TXRsKSXELNWUZId2bwd45wYXr5j6EiojAOaFwTQsNEhAun4LVCcLDXftcwfduALZbHIz=m22
-#EXTINF:https://1.bp.blogspot.com/-KD0luXF7iAs/V7_eZJ2DI6I/AAAAAAAABRY/kO-48folpjUVDnUy7iGooxt4ogJ9Da2yQCLcB/s1600/04.png,GRITOPELALIBERDADE
+
+#EXTINF:https://1.bp.blogspot.com/-KD0luXF7iAs/V7_eZJ2DI6I/AAAAAAAABRY/kO-48folpjUVDnUy7iGooxt4ogJ9Da2yQCLcB/s1600/04.png",GRITO PELA LIBERDADE
 https://lh3.googleusercontent.com/Q2h2y1n_xtIRp4EtfeIzmajpzv5FQIhPNHwyivyRcbVGSMcCMJQNDP7jaSPRLWz-qYSUC6lJ2GJw=m22
-#EXTINF:https://3.bp.blogspot.com/-BwrIpXaJ94I/V7_eZ4KBdJI/AAAAAAAABRo/0r60c2T4nRA4H7QlNDjdVJZl_-5X7tCYgCLcB/s320/21062292_20131129163650979.jpg,CARRIEAESTRANHA
+
+#EXTINF:https://3.bp.blogspot.com/-BwrIpXaJ94I/V7_eZ4KBdJI/AAAAAAAABRo/0r60c2T4nRA4H7QlNDjdVJZl_-5X7tCYgCLcB/s320/21062292_20131129163650979.jpg",CARRIE A ESTRANHA
 https://lh3.googleusercontent.com/LgRaTcVIOh6jOaPmg0ANZH45vXuuGSKxK0mbXtE5CvfkeDKIAjErGgRTDwRClw_OAU-6E3h3yu6R=m22
-#EXTINF:https://3.bp.blogspot.com/-KTRFAG-tOog/V7_eZDroVmI/AAAAAAAABRc/ZR4WXaGZV1YN24J1kR7KgShMh55fN5vCgCLcB/s320/20343423.jpg,DUELODETITAS
+
+#EXTINF:https://3.bp.blogspot.com/-KTRFAG-tOog/V7_eZDroVmI/AAAAAAAABRc/ZR4WXaGZV1YN24J1kR7KgShMh55fN5vCgCLcB/s320/20343423.jpg",DUELO DE TITAS
 https://lh3.googleusercontent.com/3XvwOfEhXe-RyMxa8T9ecXie0zRpbaZpwqZZIG3zeAZPJMDynyFTectTtrnLGwKql6SoiVFHNyev=m22
-#EXTINF:https://1.bp.blogspot.com/-7PqoSUlrTY4/V7_ea1UXN1I/AAAAAAAABR0/_2h6Kigfqg877xEICbBDG8m764txMZpEwCLcB/s320/UMA-MENTE-BRILHANTE.jpg,UMAMENTEBRILHANTE
+
+#EXTINF:https://1.bp.blogspot.com/-7PqoSUlrTY4/V7_ea1UXN1I/AAAAAAAABR0/_2h6Kigfqg877xEICbBDG8m764txMZpEwCLcB/s320/UMA-MENTE-BRILHANTE.jpg",UMA MENTE BRILHANTE
 https://lh3.googleusercontent.com/PiaSg1_FoFKUxCZ55eYS8Yzj3YpdB1_RHl8OsImiVeIKJ18suLPWF7HWj0P2o64T8tXSsB3dJGX3=m22
-#EXTINF:https://4.bp.blogspot.com/-MWz4q1JthQ0/V7_eYnpvkVI/AAAAAAAABRU/HBhNK1IanQ4Y_THHUDKD2AptpGVYe5tzQCLcB/s320/21010740_20130606144515237.jpg,OIMPLACAVEL
+
+#EXTINF:https://4.bp.blogspot.com/-MWz4q1JthQ0/V7_eYnpvkVI/AAAAAAAABRU/HBhNK1IanQ4Y_THHUDKD2AptpGVYe5tzQCLcB/s320/21010740_20130606144515237.jpg",O IMPLACAVEL
 https://lh3.googleusercontent.com/0Izit7tf4eqP_8sW5J4rjAPLe971PofMi5KT6owUzumt4Gu7cFkn9CBMBCzUaATD05OPPMp4TbeF=m22
-#EXTINF:https://4.bp.blogspot.com/-zkxdpFwZa18/V7_eZt9pDSI/AAAAAAAABRg/HfcNAccMmKM5XQhnHUk_VK_BhESULqtDgCLcB/s320/21057125_20131112201221324.jpg,OHOBBIT:ADESOLACAODESMAUG
+
+#EXTINF:https://4.bp.blogspot.com/-zkxdpFwZa18/V7_eZt9pDSI/AAAAAAAABRg/HfcNAccMmKM5XQhnHUk_VK_BhESULqtDgCLcB/s320/21057125_20131112201221324.jpg",O HOBBIT: A DESOLACAO DE SMAUG
 https://lh3.googleusercontent.com/I5f3-qqcBudNllq7rvB_3heR4Ji9hKPprIt20mBRnstXDUzQMuwDKYcYlHXdw0OVv_fP3EMZXc4T=m22
-#EXTINF:https://3.bp.blogspot.com/-Hj2jqzZorUU/V7_eacTk0cI/AAAAAAAABRs/a-S6Rz38Ec80F424aR2oAs_BQKmpIzUDgCLcB/s320/Angry-Birds.jpg,ANGRYBIRDS:OFILME
+
+#EXTINF:https://3.bp.blogspot.com/-Hj2jqzZorUU/V7_eacTk0cI/AAAAAAAABRs/a-S6Rz38Ec80F424aR2oAs_BQKmpIzUDgCLcB/s320/Angry-Birds.jpg",ANGRY BIRDS: O FILME
 https://lh3.googleusercontent.com/9I57Ci5Rwm4RnWOZ1e42IP7x4v4tcroYynVXJvlh766pf3AYViHlHmhlO_ybWGoT_5ohURBYD-92cA=m22
-#EXTINF:https://2.bp.blogspot.com/-FtbAU21ZNK4/V8D0UKUI6bI/AAAAAAAABVU/70j27itRA4kfjxzuppUPNEXJqjB7r1HgACLcB/s1600/r1eulDLp9DGcMpCelA7aaxCUjOM-212x300.jpg,ASTARTARUGASNINJAS
+
+#EXTINF:https://2.bp.blogspot.com/-FtbAU21ZNK4/V8D0UKUI6bI/AAAAAAAABVU/70j27itRA4kfjxzuppUPNEXJqjB7r1HgACLcB/s1600/r1eulDLp9DGcMpCelA7aaxCUjOM-212x300.jpg",AS TARTARUGAS NINJAS
 https://lh3.googleusercontent.com/J4GjhKkmUlZSu5rUJnaxN2Jp3vqez13DxuUP4KB30yv1FnYQ3oFkBEySgak757PynooB8LoOFbfW3g=m22
-#EXTINF:https://1.bp.blogspot.com/-xsrzTW5G2Do/V8D0Pnd9TcI/AAAAAAAABUw/xN71fqiU5YIIILe1xFoSPKpVizGPO09kwCLcB/s320/Capa_50TonsDeCinza_Filme-712x1024.jpg,CINQUENTATONSDECINZA
+
+#EXTINF:https://1.bp.blogspot.com/-xsrzTW5G2Do/V8D0Pnd9TcI/AAAAAAAABUw/xN71fqiU5YIIILe1xFoSPKpVizGPO09kwCLcB/s320/Capa_50TonsDeCinza_Filme-712x1024.jpg",CINQUENTA TONS DE CINZA
 https://lh3.googleusercontent.com/IrE-uynA7E3a42epTn6QIngRy7-Rc6RQqnwQeeZEDH1VeoFqtcVGPTJ_4UhFvfPZcs0ENAx74O_hEA=m22
-#EXTINF:https://1.bp.blogspot.com/-sjO1UfbSxDU/V8D0Tu2PZFI/AAAAAAAABVQ/faQ3J1uy63MArLFm5VcBzlZRszC0mHJjACLcB/s320/o_garoto_da_casa_ao_lado_fdvd300.jpg,OGAROTODACASADAAOLADO
+
+#EXTINF:https://1.bp.blogspot.com/-sjO1UfbSxDU/V8D0Tu2PZFI/AAAAAAAABVQ/faQ3J1uy63MArLFm5VcBzlZRszC0mHJjACLcB/s320/o_garoto_da_casa_ao_lado_fdvd300.jpg",O GAROTO DA CASA DA AO LADO
 https://lh3.googleusercontent.com/1szr0mKOaMFAQPkvZRyM0b9WT3sNVeBq2eQ1OO8RWdjIxKZNxyCyYMD0SvJdl3qh6VOVzvXb0F8jlw=m18
-#EXTINF:https://4.bp.blogspot.com/-ZXXjn-MKiyw/V8D0ETMFQsI/AAAAAAAABTg/7ch7FI4TS84QMgGjRSJBoWEVs8AbZSmPACLcB/s1600/10-coisas-que-eu-odeio-em-voce_cartaz_220x283.jpg,10COISASQUEEUODEIOEMVOCE
+
+#EXTINF:https://4.bp.blogspot.com/-ZXXjn-MKiyw/V8D0ETMFQsI/AAAAAAAABTg/7ch7FI4TS84QMgGjRSJBoWEVs8AbZSmPACLcB/s1600/10-coisas-que-eu-odeio-em-voce_cartaz_220x283.jpg",10 COISAS QUE EU ODEIO EM VOCE
 https://lh3.googleusercontent.com/TXuW1gNlIuty6DDbJPsEA27Do_25alEEdtRd333xqvBPEzVEQcoLwOxskrhl8xGWk8fTpdENOm2VEQ=m18
-#EXTINF:https://4.bp.blogspot.com/-bQeqDunHcVg/V8D0QRUzlMI/AAAAAAAABU4/LG9tBgg72CQppnIRdxI-1W7ZHN1nX-GEQCLcB/s1600/a-escola-do-poder-e28093-volcano-high.jpg,AESCOLADOPODER
+
+#EXTINF:https://4.bp.blogspot.com/-bQeqDunHcVg/V8D0QRUzlMI/AAAAAAAABU4/LG9tBgg72CQppnIRdxI-1W7ZHN1nX-GEQCLcB/s1600/a-escola-do-poder-e28093-volcano-high.jpg",A ESCOLA DO PODER
 https://lh3.googleusercontent.com/AJGePC0ckdtl-znn5nL1yDRGRgUiIkWN6mbmlPh1gwaX85pwZMFHegeRtyi-MPvGMjg_htwkDRqT_Q=m18
-#EXTINF:https://3.bp.blogspot.com/-WFf7jgSuvLA/V8D0Riv6j5I/AAAAAAAABVE/osWNU9PVap4vEdc0JIxRf22I3u5rGqNVwCLcB/s320/hqdefault.jpg,AVINGANCADASDAMASDEHONRA
+
+#EXTINF:https://3.bp.blogspot.com/-WFf7jgSuvLA/V8D0Riv6j5I/AAAAAAAABVE/osWNU9PVap4vEdc0JIxRf22I3u5rGqNVwCLcB/s320/hqdefault.jpg",A VINGANCA DAS DAMAS DE HONRA
 https://lh3.googleusercontent.com/b2kydYVkAZrM8Xwnb0WW7Y-DOyegPVitVxo3BeX-rcGj3ERdWja5dmURGshxeX4jGE3zGUrcgt_Rvg=m18
-#EXTINF:https://4.bp.blogspot.com/-yB2weSINOcQ/V8D0HOL_raI/AAAAAAAABTs/92xeSJujqZEt4WCHEm92RNW1iRNEREf6gCLcB/s1600/19871417.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,COLEGIAISEMAPUROS
+
+#EXTINF:https://4.bp.blogspot.com/-yB2weSINOcQ/V8D0HOL_raI/AAAAAAAABTs/92xeSJujqZEt4WCHEm92RNW1iRNEREf6gCLcB/s1600/19871417.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",COLEGIAIS EM APUROS
 https://lh3.googleusercontent.com/r16qTpgoxFxf361TyJvQ2yl_Zo94y8UIiJNeJV13Pk4N9W0NuuQMvaBqCL_3ia-tRgIBIzLMrBSQRg=m18
-#EXTINF:https://1.bp.blogspot.com/-RwyPZr8hpVk/V8D0KJ5VE8I/AAAAAAAABT0/jjIgtrpTwTIWU9qDyLN--A-vjX3d8Ih3QCLcB/s1600/20028956.jpg,COMOAGARRARMEUEXNAMORADO
+
+#EXTINF:https://1.bp.blogspot.com/-RwyPZr8hpVk/V8D0KJ5VE8I/AAAAAAAABT0/jjIgtrpTwTIWU9qDyLN--A-vjX3d8Ih3QCLcB/s1600/20028956.jpg",COMO AGARRAR MEU EX NAMORADO
 https://lh3.googleusercontent.com/J8YOI77yF3lVLHu-TRwD8WBUqDVR7WcN9GBiXbhELgGGkSMfIHXBRtQPGO59Onh0eTendnjEU2tnuQ=m18
-#EXTINF:https://2.bp.blogspot.com/-N3Bmv6hTPEY/V8D0LPEcjAI/AAAAAAAABT8/bChNUPH5PzYkYG8z7tu0UV9fecBbk_xgACLcB/s320/2.jpg,ACORDOPARAISO
+
+#EXTINF:https://2.bp.blogspot.com/-N3Bmv6hTPEY/V8D0LPEcjAI/AAAAAAAABT8/bChNUPH5PzYkYG8z7tu0UV9fecBbk_xgACLcB/s320/2.jpg",A COR DO PARAISO
 https://lh3.googleusercontent.com/XRry1sDPVjzrgVrmMLmXLbdoQclT4N4k5MjCWkYN5D7miBW1Z8F6mzDTsmaEqMeULPZobUn04BPjGQ=m18
-#EXTINF:https://4.bp.blogspot.com/-ZmFPq4s4vwM/V8D0RB07IlI/AAAAAAAABVA/Lv6UjYbdBlAKR8cANmm_gg7ZfclmNazGgCLcB/s320/hqdefault%2B%25281%2529.jpg,DESEJODENATAL
+
+#EXTINF:https://4.bp.blogspot.com/-ZmFPq4s4vwM/V8D0RB07IlI/AAAAAAAABVA/Lv6UjYbdBlAKR8cANmm_gg7ZfclmNazGgCLcB/s320/hqdefault%2B%25281%2529.jpg",DESEJO DE NATAL
 https://lh3.googleusercontent.com/e8Ag5F1F6PmqzYLk7OUSwiYTPKemPmfqJ33WKU63yEg4CtmvoHJfQcvoIK7ASfbuGXKaS7DZJurriw=m18
-#EXTINF:https://2.bp.blogspot.com/-vwzB9fllGF0/V8D0OTK4StI/AAAAAAAABUc/qBnpMd9OdtE2icgWiZdODG28cQ3f5boWQCLcB/s1600/3.png,EFEITOSCOLATERAIS
+
+#EXTINF:https://2.bp.blogspot.com/-vwzB9fllGF0/V8D0OTK4StI/AAAAAAAABUc/qBnpMd9OdtE2icgWiZdODG28cQ3f5boWQCLcB/s1600/3.png",EFEITOS COLATERAIS
 https://lh3.googleusercontent.com/ci8HxeoaOxMWlBuBjtSVK7vLA5lhZUCu3vM3WqGUA2arjRe8C4DSccKTVtj0tQR2wK4IJ3V01_UB9g=m18
-#EXTINF:https://2.bp.blogspot.com/-NYigqAH9AbU/V8D0M7YW9RI/AAAAAAAABUI/2o_ei2sZH28Trt1I5wIwM0NdaCHJn2ujgCLcB/s1600/241865.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,ESTRANHOSNANOITE
+
+#EXTINF:https://2.bp.blogspot.com/-NYigqAH9AbU/V8D0M7YW9RI/AAAAAAAABUI/2o_ei2sZH28Trt1I5wIwM0NdaCHJn2ujgCLcB/s1600/241865.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",ESTRANHOS NA NOITE
 https://lh3.googleusercontent.com/PSh45WyucZTCWyFdYX-zZIlCbydniLtsSiRBGv7T_d2DYq6Xyxg3BRzFjo9xjBUm2-Borx0KO4YDFg=m18
-#EXTINF:https://2.bp.blogspot.com/-PQSgGfLR8Aw/V8D0MOMyGfI/AAAAAAAABUE/2jZLtGxF5EAiH4aLN44IFCHCrRtJlnz7QCLcB/s320/20143859.jpg,INTOCAVEIS
+
+#EXTINF:https://2.bp.blogspot.com/-PQSgGfLR8Aw/V8D0MOMyGfI/AAAAAAAABUE/2jZLtGxF5EAiH4aLN44IFCHCrRtJlnz7QCLcB/s320/20143859.jpg",INTOCAVEIS
 https://lh3.googleusercontent.com/0Rr7fG8II7lIm42yLzdii8MOqnL8v_bWAIHcbr9mZkFzjIMtcuXy1wlNyQi4rDMa0VEh-183Ghlvzg=m18
-#EXTINF:https://2.bp.blogspot.com/-KMsS1DpWw1s/V8D0SmJKhoI/AAAAAAAABVI/Churc7ikBpg5PeJkt0lTUPdbu_wAstTcACLcB/s320/jogos-famintos-dublado.jpg,JOGOSFAMINTOS
+
+#EXTINF:https://2.bp.blogspot.com/-KMsS1DpWw1s/V8D0SmJKhoI/AAAAAAAABVI/Churc7ikBpg5PeJkt0lTUPdbu_wAstTcACLcB/s320/jogos-famintos-dublado.jpg",JOGOS FAMINTOS
 https://lh3.googleusercontent.com/YhQUS4PzhjD3TRE7yoqkI3OQQlp3TT4z7dJ7XqzMO-_AhbpnKetrU7JjVWVlSqcMJo7XPqJWxwfpPQ=m18
-#EXTINF:https://4.bp.blogspot.com/-857Q9yn9crc/V8D0D2-mYkI/AAAAAAAABTc/aHr6riDa-44aoiFNE6LZrBokvGcV5StFQCLcB/s320/030133.jpg,LIGEIRAMENTESOLTEIRA
+
+#EXTINF:https://4.bp.blogspot.com/-857Q9yn9crc/V8D0D2-mYkI/AAAAAAAABTc/aHr6riDa-44aoiFNE6LZrBokvGcV5StFQCLcB/s320/030133.jpg",LIGEIRAMENTE SOLTEIRA
 https://lh3.googleusercontent.com/OA97HhLrrHpDxCX_95qqCme8Ny5Q-wllpzqhVH6rmOSxMq9wot6kegD1i1qC35TE3cFNDzq6pG9DPg=m18
-#EXTINF:https://1.bp.blogspot.com/-GXMSLv0c5lY/V8D0Q7V4aEI/AAAAAAAABU8/sxxiP7T3yQEMAp2ERKBNr-JErP-jFPxJwCLcB/s320/O-Mestre-da-Guerra-Dublado.jpg,OMESTREDAGUERRA
+
+#EXTINF:https://1.bp.blogspot.com/-GXMSLv0c5lY/V8D0Q7V4aEI/AAAAAAAABU8/sxxiP7T3yQEMAp2ERKBNr-JErP-jFPxJwCLcB/s320/O-Mestre-da-Guerra-Dublado.jpg",O MESTRE DA GUERRA
 https://lh3.googleusercontent.com/CpRtR7PlplT_D-AJlkenZ2I_6FOQ4zJ3QSP8xglgYVhIfAWcny8mWhcyVO3KVYH-dabaDqD6382cIQ=m18
-#EXTINF:https://1.bp.blogspot.com/-bD86FFlkknE/V8D0QQXx1dI/AAAAAAAABU0/WHYipOmM01gd3_UKOmtJLuWzkvnRmc4ZwCLcB/s320/Um-Vampiro-Mentiroso-dublado-filme-online-hd-2015.jpg,UMVAMPIROMENTIROSO
+
+#EXTINF:https://1.bp.blogspot.com/-bD86FFlkknE/V8D0QQXx1dI/AAAAAAAABU0/WHYipOmM01gd3_UKOmtJLuWzkvnRmc4ZwCLcB/s320/Um-Vampiro-Mentiroso-dublado-filme-online-hd-2015.jpg",UM VAMPIRO MENTIROSO
 https://lh3.googleusercontent.com/8z9DUGOQUVdsrA52uvuIJ---I7dDZ8gmMz5xc4zWllx5PJfku_LfMpR4goe0ukfRoV9a6rCmS2zT2A=m18
-#EXTINF:https://1.bp.blogspot.com/-xj02-FZYhEM/V8D0Fq5KccI/AAAAAAAABTo/LJVK55nE3Ho4Crjs7_7c5BUhYmrAePIygCLcB/s320/1985_Admiradora_Secreta.jpg,ADMIRADORASECRETA
+
+#EXTINF:https://1.bp.blogspot.com/-xj02-FZYhEM/V8D0Fq5KccI/AAAAAAAABTo/LJVK55nE3Ho4Crjs7_7c5BUhYmrAePIygCLcB/s320/1985_Admiradora_Secreta.jpg",ADMIRADORA SECRETA
 https://lh3.googleusercontent.com/RyUha8TkKriW-i9S7szMU619bKHBQfYbCVzgBYsqE8uKkVkjMzhsRYlOsbdhqpOnh1__qFHMvfPU-w=m18
-#EXTINF:https://1.bp.blogspot.com/-igB-MOHOIuc/V8D0PrcrcWI/AAAAAAAABUs/pq3FrUev1D872jPjBXOUpmoWbkLW-cInQCLcB/s320/As.7.Regras.do.Amor.DVDRIP.Xvid.Dublado.JPG,AS7REGRASDOAMOR
+
+#EXTINF:https://1.bp.blogspot.com/-igB-MOHOIuc/V8D0PrcrcWI/AAAAAAAABUs/pq3FrUev1D872jPjBXOUpmoWbkLW-cInQCLcB/s320/As.7.Regras.do.Amor.DVDRIP.Xvid.Dublado.JPG",AS 7 REGRAS DO AMOR
 https://lh3.googleusercontent.com/wvZJEhhIzdaMfZXPnFN_YJIFfv5sGxlZA0S9jj_lAn1yMqdDJNswf-X_ps3Vazvm6FJ7ZRrk3MFHTg=m18
-#EXTINF:https://1.bp.blogspot.com/-uJehe4xpAg4/V8D0TbnXGLI/AAAAAAAABVM/pHKFr096shUTotfwsiaVjZr43UJ8qXWVgCLcB/s320/noucate-frente.jpg,NOCAUTE
+
+#EXTINF:https://1.bp.blogspot.com/-uJehe4xpAg4/V8D0TbnXGLI/AAAAAAAABVM/pHKFr096shUTotfwsiaVjZr43UJ8qXWVgCLcB/s320/noucate-frente.jpg",NOCAUTE
 https://lh3.googleusercontent.com/EWmrulOFqjnk0sZ77yBi0Eb4ylwKBv7QRY-LJBMSFVfDbBSWw8S_J0UnJbuQPthEm_OxudH5HtOdOw=m18
-#EXTINF:https://1.bp.blogspot.com/-GiYnuyDWJ44/V8D4csHoMrI/AAAAAAAABV0/jW9e7PF7yx4X7X6DxEZIvQPzBJpHqWamgCLcB/s1600/o-amor-mora-ao-lado_filmesonlinehdgratis.com.jpg,OAMORMORAAOLADO
+
+#EXTINF:https://1.bp.blogspot.com/-GiYnuyDWJ44/V8D4csHoMrI/AAAAAAAABV0/jW9e7PF7yx4X7X6DxEZIvQPzBJpHqWamgCLcB/s1600/o-amor-mora-ao-lado_filmesonlinehdgratis.com.jpg",O AMOR MORA AO LADO
 https://lh3.googleusercontent.com/jzSVIC7EMJ4jqmFNAsmTspWL_HFaY6gWALEW_ODPIWktm0HGXPKBkpVckmrJGPn8HJ8kjluLPBe6Mw=m18
-#EXTINF:https://2.bp.blogspot.com/-j40BLNm9Yho/V8D0L8hfzeI/AAAAAAAABUA/GVLEkNkIf94_jrquYgu_8CiXEBIpolA8ACLcB/s320/164309.jpg,OFISICO
+
+#EXTINF:https://2.bp.blogspot.com/-j40BLNm9Yho/V8D0L8hfzeI/AAAAAAAABUA/GVLEkNkIf94_jrquYgu_8CiXEBIpolA8ACLcB/s320/164309.jpg",O FISICO
 https://lh3.googleusercontent.com/mlrggAAHAiH6alHyZec_pqP_7UWyJ-RH7rXPDuriES6bKPdyxc8hFG4fmiMvtFTZaM3HAtVoPWSWKw=m18
-#EXTINF:https://4.bp.blogspot.com/-jaMiKl3W_bA/V8D0NLT7FoI/AAAAAAAABUM/1yZafi4GlHo_PIgiwuKntMy_M5hLwNQIwCLcB/s320/2583269gg1.jpg,OPRESENTE
+
+#EXTINF:https://4.bp.blogspot.com/-jaMiKl3W_bA/V8D0NLT7FoI/AAAAAAAABUM/1yZafi4GlHo_PIgiwuKntMy_M5hLwNQIwCLcB/s320/2583269gg1.jpg",O PRESENTE
 https://lh3.googleusercontent.com/UqxwhoQ4yAyVKIPNZnT9Qw-4CwbCRfgTnvezUQhxstACgrTxjRmNWnUilxCSJ-Ax8rhy-3XnEtaz_w=m18
-#EXTINF:https://3.bp.blogspot.com/-op95ebYtlcU/V8D0Nb4TjnI/AAAAAAAABUQ/mqmi2TjY16oQVWZCFmRgYsoPYrNiA7KjQCLcB/s1600/271027.jpg,OQUESERADENOZES
+
+#EXTINF:https://3.bp.blogspot.com/-op95ebYtlcU/V8D0Nb4TjnI/AAAAAAAABUQ/mqmi2TjY16oQVWZCFmRgYsoPYrNiA7KjQCLcB/s1600/271027.jpg",O QUE SERA DE NOZES
 https://lh3.googleusercontent.com/dXZdbDNC_U2EC5EhvUKfwlvPBFkAcz7Y0jMfVDyZ35tenTDYd3eCHFOGBhfl4FvSPerSxeMDGG-XQw=m18
-#EXTINF:https://1.bp.blogspot.com/-dQ5GhZGf6Xg/V8D0UV_B_bI/AAAAAAAABVY/R4ai_L6Au58ephzR8rSZuajN_1R2aGBAQCLcB/s320/homemdeaco2cinema10.jpg,OHOMEMDEACO
+
+#EXTINF:https://1.bp.blogspot.com/-dQ5GhZGf6Xg/V8D0UV_B_bI/AAAAAAAABVY/R4ai_L6Au58ephzR8rSZuajN_1R2aGBAQCLcB/s320/homemdeaco2cinema10.jpg",O HOMEM DE ACO
 https://lh3.googleusercontent.com/_blBsyheK1kyfvHqcIrrhm_FRa5p897N9W1D-QrwjMNoGKCAaAZtYzPt_KjEM-9ni6zr6eXxUmEqvA=m22
-#EXTINF:https://1.bp.blogspot.com/-IlmHhbCuir0/V8D4cue_S4I/AAAAAAAABV4/r75ksFKrpaIXr8fRzDROeDgaGgKnRPuWgCLcB/s320/Filme-Pastor-Metralhadora-cartaz.jpg,REDENCAO
+
+#EXTINF:https://1.bp.blogspot.com/-IlmHhbCuir0/V8D4cue_S4I/AAAAAAAABV4/r75ksFKrpaIXr8fRzDROeDgaGgKnRPuWgCLcB/s320/Filme-Pastor-Metralhadora-cartaz.jpg",REDENCAO
 https://lh3.googleusercontent.com/VQqYZ7uZEcpmwFfhmJ1_aaaFmFDh-mh5q-2c6c85dyu50E0_8VhTK-9cPeU7KEgdaAy5xz4LDalYXw=m18
-#EXTINF:https://2.bp.blogspot.com/-rCW74eKOhp4/V8D0Cl8AjyI/AAAAAAAABTU/-0IaUjv0u-EJIL0vBH1LGq3q0BogzP0tgCLcB/s1600/019478.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,SERENA
+
+#EXTINF:https://2.bp.blogspot.com/-rCW74eKOhp4/V8D0Cl8AjyI/AAAAAAAABTU/-0IaUjv0u-EJIL0vBH1LGq3q0BogzP0tgCLcB/s1600/019478.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",SERENA
 https://lh3.googleusercontent.com/6t9sS4e1_0B1F3PLe18XSIKWDNnXrHQIh__dINNi7d-nywxSqezCQdA7H81D9KF52Q90i3a-R7-57g=m18
-#EXTINF:https://3.bp.blogspot.com/-9hLCnfRdB4A/V8D0HHu0PDI/AAAAAAAABTw/ss8AeN0d_oUFxldvwExnxWlohCgSuQiCgCLcB/s320/038972.jpg,MUNDOCAO
+
+#EXTINF:https://3.bp.blogspot.com/-9hLCnfRdB4A/V8D0HHu0PDI/AAAAAAAABTw/ss8AeN0d_oUFxldvwExnxWlohCgSuQiCgCLcB/s320/038972.jpg",MUNDO CAO
 https://lh3.googleusercontent.com/KqLMZFpBHKnxK_NtedQBiL8VlmfAAqSUHQUqkAQOwfQWORXkv3HTJuKOVNclZV__VU0o-zBNikad=m18
-#EXTINF:https://2.bp.blogspot.com/--CLJnXbyX6M/V8D0OShtyKI/AAAAAAAABUg/GUx7kqJa1ygCclH2q39EUhQK1BK3AEoEQCLcB/s1600/487918.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,OPRINCIPEEEU
+
+#EXTINF:https://2.bp.blogspot.com/--CLJnXbyX6M/V8D0OShtyKI/AAAAAAAABUg/GUx7kqJa1ygCclH2q39EUhQK1BK3AEoEQCLcB/s1600/487918.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",O PRINCIPE E EU
 https://lh3.googleusercontent.com/8qPc1j8hFdya3QdYjMByrwSCjLzwf86JGY7reixx3-k0VFJx33l_Tqc82RB5FsaFPG9WH0r4MCrpNA=m18
-#EXTINF:https://3.bp.blogspot.com/-v5imWQvA1ro/V8D0LA7cYZI/AAAAAAAABT4/qqnWrVZh01INKMw-8a20-_SrK3uj0nN8wCLcB/s1600/200px-P_s_i_love_you.jpg,P.SEUTEAMO
+
+#EXTINF:https://3.bp.blogspot.com/-v5imWQvA1ro/V8D0LA7cYZI/AAAAAAAABT4/qqnWrVZh01INKMw-8a20-_SrK3uj0nN8wCLcB/s1600/200px-P_s_i_love_you.jpg",P.S EU TE AMO
 https://lh3.googleusercontent.com/3owFDDPe6UkT6SRXelHyt-lq1nBcrZLSZ7KYgdG85jLnw2Jjx2b7RPD9I12CSLXsEiClVCJq269hpw=m18
-#EXTINF:https://3.bp.blogspot.com/-6QWAllRx7P8/V8D0Nv4wxaI/AAAAAAAABUY/jrC-KGH0ruEHndTbMIvumK7DYywJnUR8ACLcB/s320/279929.jpg,DEIXAROLAR
+
+#EXTINF:https://3.bp.blogspot.com/-6QWAllRx7P8/V8D0Nv4wxaI/AAAAAAAABUY/jrC-KGH0ruEHndTbMIvumK7DYywJnUR8ACLcB/s320/279929.jpg",DEIXA ROLAR
 https://lh3.googleusercontent.com/Z9dHx08XUHihAfUd9CNG0jc5_5Db8xsIp6A0rs5u9QZihRtUVxLsIducTSCnfdea8XGETVxpij1SwA=m22
-#EXTINF:https://4.bp.blogspot.com/-4r1Q6KqLtcY/V8D0NWkkhRI/AAAAAAAABUU/i-He2VWHB2YlyllY_J3zKrJB_6wgiwYEwCLcB/s320/236129.jpg,FURIA
+
+#EXTINF:https://4.bp.blogspot.com/-4r1Q6KqLtcY/V8D0NWkkhRI/AAAAAAAABUU/i-He2VWHB2YlyllY_J3zKrJB_6wgiwYEwCLcB/s320/236129.jpg",FURIA
 https://lh3.googleusercontent.com/hIhffU2Nl5mE-8L0kOpOHUSMdxtifla-uYQvIgH8zw3mZI0OL324Z4mjdal7eQhnlQ_aMjQBTNVCdw=m22
-#EXTINF:https://1.bp.blogspot.com/-vRdUPwOXUfk/V8D0DcaTqJI/AAAAAAAABTY/XkcO6QwrYs8ESPtAsMhGwF22pXBjbzYwACLcB/s320/062270.jpg,TOMORROWLAND
+
+#EXTINF:https://1.bp.blogspot.com/-vRdUPwOXUfk/V8D0DcaTqJI/AAAAAAAABTY/XkcO6QwrYs8ESPtAsMhGwF22pXBjbzYwACLcB/s320/062270.jpg",TOMORROWLAND
 https://lh3.googleusercontent.com/1etG5vsrcWam5ui68aKiZT5isyItwSkEkuWj2SYPBqSNoSLIFuHeI_n9Q-Y4GaB58xxCiXRgOySD=m22
-#EXTINF:https://2.bp.blogspot.com/-27JyAUt-k_8/V8D0OkjBb6I/AAAAAAAABUk/ZcrlZMhOI8km_uJ1fOsOrkXLlaLtySehgCLcB/s320/341317.jpg,COMOSOBREVIVERAUMATAQUEZUMBI
+
+#EXTINF:https://2.bp.blogspot.com/-27JyAUt-k_8/V8D0OkjBb6I/AAAAAAAABUk/ZcrlZMhOI8km_uJ1fOsOrkXLlaLtySehgCLcB/s320/341317.jpg",COMO SOBREVIVER A UM ATAQUE ZUMBI
 https://lh3.googleusercontent.com/wggwFMbbAK3Q-oScm4OYOBj7lwVKGkkcUUGKLock___UtpknFG0e-iz1ozh1zFLM04a1it3MBH6N=m22
-#EXTINF:https://3.bp.blogspot.com/-Aayn4SsyzTY/V8D0ExNAPiI/AAAAAAAABTk/RVHudfJpZzoN4eVzGnsCZwDaMwvCyElLgCLcB/s320/147040.jpg,PADRINHOSLTDA
+
+#EXTINF:https://3.bp.blogspot.com/-Aayn4SsyzTY/V8D0ExNAPiI/AAAAAAAABTk/RVHudfJpZzoN4eVzGnsCZwDaMwvCyElLgCLcB/s320/147040.jpg",PADRINHOS LTDA
 https://lh3.googleusercontent.com/H6PeCcbmVMDOlOrxoEA7L6Sfk8M8wA11CyVb0va4r-SwRmH0R4NSVO9_2pqCIK2BHJ2UhG4UWcnC=m18
 
-#EXTINF:https://1.bp.blogspot.com/-Tmny0udGVNA/V8fYyKplZRI/AAAAAAAABW4/PnCeRVEyemAHroY4D65VGhgYh2EmYozxwCLcB/s320/a%2Bbruxa.jpg,ABRUXA
+
+#EXTINF:https://1.bp.blogspot.com/-Tmny0udGVNA/V8fYyKplZRI/AAAAAAAABW4/PnCeRVEyemAHroY4D65VGhgYh2EmYozxwCLcB/s320/a%2Bbruxa.jpg",A BRUXA
 https://lh3.googleusercontent.com/6N1PCE8omD28HUyOzkQzkrfQUrRfut9_oEFXMpU0jcWxBJdfSviwSs3ZWUmYYLpz38x4D3gioVFt=m22
-#EXTINF:https://2.bp.blogspot.com/-zKYDhktgLYk/V8fYyzQAsqI/AAAAAAAABXA/3B7tu9BYLU83S150zIVTXEAHzm0yDxlvQCLcB/s320/a%2Bescolha.jpg,AESCOLHA
+
+#EXTINF:https://2.bp.blogspot.com/-zKYDhktgLYk/V8fYyzQAsqI/AAAAAAAABXA/3B7tu9BYLU83S150zIVTXEAHzm0yDxlvQCLcB/s320/a%2Bescolha.jpg",A ESCOLHA
 https://lh3.googleusercontent.com/0edmpT8VctdAyNZlnHtKuSfoCfZfTpLQEqNPPjX3ukDFoOUNC-IIdD232JbAeTJqpJnRcjHl3w6z=m22
-#EXTINF:https://3.bp.blogspot.com/-BfLCmc_ODvk/V8fYyOCc2xI/AAAAAAAABW0/RpulZexPcyACcehOcKl1d_Chz2qmd5czwCLcB/s320/a%2Bbeira%2Bmar.jpg,ABEIRAMAR
+
+#EXTINF:https://3.bp.blogspot.com/-BfLCmc_ODvk/V8fYyOCc2xI/AAAAAAAABW0/RpulZexPcyACcehOcKl1d_Chz2qmd5czwCLcB/s320/a%2Bbeira%2Bmar.jpg",A BEIRA MAR
 https://lh3.googleusercontent.com/uyNQ_dh-4NrVefovWlktP979svuytBSDFI43f8DnuPW1bKkBlLV6VO2u8WnIM9u87SfPI2i-ANWP=m22
-#EXTINF:https://1.bp.blogspot.com/-xbfLmzRYfvU/V8fYzDWSWDI/AAAAAAAABXE/sugmfxEVSJcK1Oq4kGLTLU06ZcONtRIKwCLcB/s320/a%2Bvida%2Bpor%2Bum%2Bfio.jpg,AVIDAPORUMFIO
+
+#EXTINF:https://1.bp.blogspot.com/-xbfLmzRYfvU/V8fYzDWSWDI/AAAAAAAABXE/sugmfxEVSJcK1Oq4kGLTLU06ZcONtRIKwCLcB/s320/a%2Bvida%2Bpor%2Bum%2Bfio.jpg",A VIDA POR UM FIO
 https://lh3.googleusercontent.com/AmR0EHbcgF9WW9YShdWOCTOtykcxsbqLoVISGnuXapqOjR-aGSrLZaPtWlQi8bLAnRSsS9uDJToL=m22
-#EXTINF:https://4.bp.blogspot.com/-aZPYRF0xng4/V8fY3K8FI2I/AAAAAAAABXY/YDn5zyfTkp4YbMYEbWLISnBsKCXc2CyiwCLcB/s320/anomalisa.jpg,ANOMALISA
+
+#EXTINF:https://4.bp.blogspot.com/-aZPYRF0xng4/V8fY3K8FI2I/AAAAAAAABXY/YDn5zyfTkp4YbMYEbWLISnBsKCXc2CyiwCLcB/s320/anomalisa.jpg",ANOMALISA
 https://lh3.googleusercontent.com/tx_nF1h-0ajAHaXM3cw86cLpwoZv37e2e268BUXM721ymUaGOvDLKF8738fpCNUtMV13I21sVZ2E=m22
-#EXTINF:https://3.bp.blogspot.com/-NoGCaDQ_Hrc/V8fY0fShcqI/AAAAAAAABXI/8FVbsja14OoNmOtg2m-lka7JdW5Xc0zlQCLcB/s320/cinquenta%2Btons%2Bde%2Bpreto.jpg,CINQUENTATONSDEPRETO
+
+#EXTINF:https://3.bp.blogspot.com/-NoGCaDQ_Hrc/V8fY0fShcqI/AAAAAAAABXI/8FVbsja14OoNmOtg2m-lka7JdW5Xc0zlQCLcB/s320/cinquenta%2Btons%2Bde%2Bpreto.jpg",CINQUENTA TONS DE PRETO
 https://lh3.googleusercontent.com/cbwQNntGaT-qZeRXG23hhUtdBeCXK-3aTDyte6k4AU4zn_IND12L_X8u6dFrLQB9MaiE9th5bDcW=m22
-#EXTINF:https://1.bp.blogspot.com/-BJvYS8DLBjo/V8fY5kkkSsI/AAAAAAAABXo/Ph0M2--0vTMH9TwM0V84uotLUT-LT6CDACLcB/s320/conspira%25C3%25A7%25C3%25A3o%2Be%2Bpoder.jpg,CONSPIRACAOEPODER
+
+#EXTINF:https://1.bp.blogspot.com/-BJvYS8DLBjo/V8fY5kkkSsI/AAAAAAAABXo/Ph0M2--0vTMH9TwM0V84uotLUT-LT6CDACLcB/s320/conspira%25C3%25A7%25C3%25A3o%2Be%2Bpoder.jpg",CONSPIRACAO E PODER
 https://lh3.googleusercontent.com/fAf1J4A42tBGxTu_l2Y22CrMto5da5iAEtysPR9ig1IJzMA4VjGkLsRjQbMrPaOeiOX03TMHSMQ6=m22
-#EXTINF:https://4.bp.blogspot.com/--muzFKH6R-E/V8fY1XjRijI/AAAAAAAABXM/rSfSys5F4LsG36BmnOrRMgL-WJPQPfUCwCLcB/s320/drama%2Bem%2Bfamilia.jpg,DRAMAEMFAMILIA
+
+#EXTINF:https://4.bp.blogspot.com/--muzFKH6R-E/V8fY1XjRijI/AAAAAAAABXM/rSfSys5F4LsG36BmnOrRMgL-WJPQPfUCwCLcB/s320/drama%2Bem%2Bfamilia.jpg",DRAMA EM FAMILIA
 https://lh3.googleusercontent.com/Ts-hCvP44T7MT-Djs82OcNYR8K41jP65UGWZM_xQLkSKGT767t4Flxvo3DWc2med_SLY_stD27AQ=m22
-#EXTINF:https://2.bp.blogspot.com/-vJbvOLT7JKk/V8fY155KPII/AAAAAAAABXQ/ZYtAwQCuncM86XAWfmdCMNVhH7uP3yhGwCLcB/s320/eden%2Blutar%2Bou%2Bmorrer.jpg,EDENLUTAROUMORRER
+
+#EXTINF:https://2.bp.blogspot.com/-vJbvOLT7JKk/V8fY155KPII/AAAAAAAABXQ/ZYtAwQCuncM86XAWfmdCMNVhH7uP3yhGwCLcB/s320/eden%2Blutar%2Bou%2Bmorrer.jpg",EDEN LUTAR OU MORRER
 https://lh3.googleusercontent.com/xBUHh6Xxz7DfjNX_XK3lcJn51BdSTNcdAe9WWFpq3PpQJvKLSEJapy2BMM0wHb6us4MyCTLsL2wV=m22
-#EXTINF:https://1.bp.blogspot.com/-HvAR3f0kpKQ/V8fY2iCamaI/AAAAAAAABXU/KEUnBRzgk1A6rFoMVe6Vfn_wYR2PkTVRQCLcB/s320/eu%2Bsou%2Ba%2Bfuria.jpg,EUSOUAFURIA
+
+#EXTINF:https://1.bp.blogspot.com/-HvAR3f0kpKQ/V8fY2iCamaI/AAAAAAAABXU/KEUnBRzgk1A6rFoMVe6Vfn_wYR2PkTVRQCLcB/s320/eu%2Bsou%2Ba%2Bfuria.jpg",EU SOU A FURIA
 https://lh3.googleusercontent.com/cWeRPwE35HuJGpeguFV28_zxI4NCqv5LUj7qg82APs3YONmVFDnDBWn-HTm0pOB-VnHmgTv-UQ8q=m22
-#EXTINF:https://1.bp.blogspot.com/-ho4L2eBQy38/V8fY3dncgiI/AAAAAAAABXc/NN7jAonXukwVKztGZlu9JIEuS2mPzJzXACLcB/s320/grito%2Bde%2Bpanico.jpg,GRITODEPANICO
+
+#EXTINF:https://1.bp.blogspot.com/-ho4L2eBQy38/V8fY3dncgiI/AAAAAAAABXc/NN7jAonXukwVKztGZlu9JIEuS2mPzJzXACLcB/s320/grito%2Bde%2Bpanico.jpg",GRITO DE PANICO
 https://lh3.googleusercontent.com/GRSP9NWEVYrVeTsPbCG1htAO7m97tzJmMI1hLEJTHHEn2Cgs6aer6TnWIq8Ajw4PRX_FQhvyJjbT=m22
-#EXTINF:https://1.bp.blogspot.com/-wI3aKFeVnFQ/V8fY5YYCicI/AAAAAAAABXk/o_Qk_x9_HEkXdm2QRBvZv3KjKyXKoeCLACLcB/s320/inseguranca.png,INSEGURANCA
+
+#EXTINF:https://1.bp.blogspot.com/-wI3aKFeVnFQ/V8fY5YYCicI/AAAAAAAABXk/o_Qk_x9_HEkXdm2QRBvZv3KjKyXKoeCLACLcB/s320/inseguranca.png",INSEGURANCA
 https://lh3.googleusercontent.com/qTygfKJg_5eji2Til7ojKtZD_J5TvejWscR50sDmhiuvpolvRqXvaFEOzG7e15k28R-ktaIv2Ycq=m22
-#EXTINF:https://2.bp.blogspot.com/-Vi600m_q30o/V8fY4MmrJ_I/AAAAAAAABXg/9P384EfsMToOmhhed2KElnAewiGuQWqXQCLcB/s320/lua%2Bcheia%2Bo%2Bterror%2Bdos%2Bvirgens.jpg,LUACHEIAOTERRORDOSVIRGENS
+
+#EXTINF:https://2.bp.blogspot.com/-Vi600m_q30o/V8fY4MmrJ_I/AAAAAAAABXg/9P384EfsMToOmhhed2KElnAewiGuQWqXQCLcB/s320/lua%2Bcheia%2Bo%2Bterror%2Bdos%2Bvirgens.jpg",LUA CHEIA O TERROR DOS VIRGENS
 https://lh3.googleusercontent.com/QWtQQVtZmU660lU0FX4zJywzGiIstyPbeHAztaDfR1IekPuDwgDxpCYDdd45ccTO08np7N-v9Q6I=m22
-#EXTINF:https://1.bp.blogspot.com/-ISmKkP_qwDg/V8fY_Y_d0DI/AAAAAAAABYE/zBX0ByqFltYqki4CfpDLCukz_BJFyowagCLcB/s320/o%2Bquarto%2Bde%2Bjack.jpg,OQUARTODEJACK
+
+#EXTINF:https://1.bp.blogspot.com/-ISmKkP_qwDg/V8fY_Y_d0DI/AAAAAAAABYE/zBX0ByqFltYqki4CfpDLCukz_BJFyowagCLcB/s320/o%2Bquarto%2Bde%2Bjack.jpg",O QUARTO DE JACK
 https://lh3.googleusercontent.com/nH1eukCXbMfEE5td2VDg2ghMGdRJK4nj6L1jS76_LcSWeV8Fl2YZAfwDXilcCC9FA78-FGqTWw-J=m22
-#EXTINF:https://2.bp.blogspot.com/-unrvG-IXaJY/V8fY7opBQoI/AAAAAAAABXs/JocWNzsI5C8CRaxmZ8E4LET4UeS367p4ACLcB/s320/pressagios%2Bde%2Bum%2Bcrime.jpg,PRESSAGIOSDEUMCRIME
+
+#EXTINF:https://2.bp.blogspot.com/-unrvG-IXaJY/V8fY7opBQoI/AAAAAAAABXs/JocWNzsI5C8CRaxmZ8E4LET4UeS367p4ACLcB/s320/pressagios%2Bde%2Bum%2Bcrime.jpg",PRESSAGIOS DE UM CRIME
 https://lh3.googleusercontent.com/7s0HFbJrzjnhDtopsZF-jDWDRjBkR3qeEHwy5cdAfgtx1-BTgg1_3d1Asmhh88rQmmQoUvrAZSp5=m22
-#EXTINF:https://4.bp.blogspot.com/-v0qhlpVIQnM/V8fY-uegojI/AAAAAAAABYA/RgMppJP-V0g_lkyNPi4koG8kxma3BvraACLcB/s320/ressurrei%25C3%25A7%25C3%25A3o.jpg,RESSUREICAO
+
+#EXTINF:https://4.bp.blogspot.com/-v0qhlpVIQnM/V8fY-uegojI/AAAAAAAABYA/RgMppJP-V0g_lkyNPi4koG8kxma3BvraACLcB/s320/ressurrei%25C3%25A7%25C3%25A3o.jpg",RESSUREICAO
 https://lh3.googleusercontent.com/LD7L6t0NrdNe7sK6rPAr5HLYn_tlCoxWBVXrCvneJjNHT-gK_iaBpMXXEfHIq0Qz1PbvZZL2Q4ll=m22
-#EXTINF:https://4.bp.blogspot.com/-YVvCUVVHKGE/V8fY8Mw2cII/AAAAAAAABXw/9GPzsnb8gu4Z0rdk0lv9Hc6d18Q8qnhhwCLcB/s320/rua%2Bcloverfield%2B10.jpg,RUACLOVERFIELD10
+
+#EXTINF:https://4.bp.blogspot.com/-YVvCUVVHKGE/V8fY8Mw2cII/AAAAAAAABXw/9GPzsnb8gu4Z0rdk0lv9Hc6d18Q8qnhhwCLcB/s320/rua%2Bcloverfield%2B10.jpg",RUA CLOVERFIELD 10
 https://lh3.googleusercontent.com/Hy4wcasyLj26dNATEgehBHrKyBTiByd7aZuxOTCyLtO4v-Nbc8w3pdoHpG_cNHxly4VSLfWpfJsB=m22
-#EXTINF:https://2.bp.blogspot.com/-wgv4k_ciKI0/V8fY9E4iJfI/AAAAAAAABX0/pySDw9OAqnAQvJFtWjUJ6FEWUsibAvWwgCLcB/s320/todas%2Bas%2Bcheerleaders%2Bdevem%2Bmorrer.jpg,TODASASCHEERLEADERSDEVEMMORRER
+
+#EXTINF:https://2.bp.blogspot.com/-wgv4k_ciKI0/V8fY9E4iJfI/AAAAAAAABX0/pySDw9OAqnAQvJFtWjUJ6FEWUsibAvWwgCLcB/s320/todas%2Bas%2Bcheerleaders%2Bdevem%2Bmorrer.jpg",TODAS AS CHEERLEADERS DEVEM MORRER
 https://lh3.googleusercontent.com/axbVPnl64GFuL1H2xFvOLgdRCildwm0ieNaBomcqcE6qNQXwDhvvvMGAJdG1y6BpC2G9UbgqRJ6k=m22
-#EXTINF:https://1.bp.blogspot.com/-spCAywdD9Bs/V8fY9jmp4BI/AAAAAAAABX4/fC_cQoz8GjMU-owPOLet8DtbG81koxeQwCLcB/s320/trafico%2Bhumano.jpg,TRAFICOHUMANO
+
+#EXTINF:https://1.bp.blogspot.com/-spCAywdD9Bs/V8fY9jmp4BI/AAAAAAAABX4/fC_cQoz8GjMU-owPOLet8DtbG81koxeQwCLcB/s320/trafico%2Bhumano.jpg",TRAFICO HUMANO
 https://lh3.googleusercontent.com/0cIBUQOpPBecJEgLwxwxmE6Co5UvbA-1iFCT7T4vEecdM5cF1O7Te-crJWnL3IuIpbtk4n4aUwOg=m22
-#EXTINF:https://3.bp.blogspot.com/-KbrKKs3UOzs/V8fYu-YDBgI/AAAAAAAABWY/r-JvVCbDC5wzErCbUSDG2QADzU1GiCjwwCLcB/s320/13horas_3.jpg,13HORASOSSOLDADDOSSECRETOSDEBENGHAZI
+
+#EXTINF:https://3.bp.blogspot.com/-KbrKKs3UOzs/V8fYu-YDBgI/AAAAAAAABWY/r-JvVCbDC5wzErCbUSDG2QADzU1GiCjwwCLcB/s320/13horas_3.jpg",13 HORAS OS SOLDADDOS SECRETOS DE BENGHAZI
 https://lh3.googleusercontent.com/oB4YIm3plNBRqTPHIEm8kbGQD4objqPG200EhVMkcb4kRlxUYqD8H-JG0S4ZU_ITnF-gel7-6-JC=m22
-#EXTINF:https://3.bp.blogspot.com/-7FvB-bsgo0A/V8fY-SE8RyI/AAAAAAAABX8/uI95aKtg3YMAOyzRDBXc07qmN5TokjALwCLcB/s320/voando%2Balto.jpg,VOANDOALTO
+
+#EXTINF:https://3.bp.blogspot.com/-7FvB-bsgo0A/V8fY-SE8RyI/AAAAAAAABX8/uI95aKtg3YMAOyzRDBXc07qmN5TokjALwCLcB/s320/voando%2Balto.jpg",VOANDO ALTO
 https://lh3.googleusercontent.com/KXvD-a6I8tkaZzzXg8rsf152lK4xMeH9P5p1s3g8Jx-fTi_Tpjw5oyF4X-Wi9FD6aeuPel4qYv9F=m22
-#EXTINF:https://4.bp.blogspot.com/-3QKWRv8bo1E/V8fYvOPi15I/AAAAAAAABWc/TqjhRMJ7lZkM2hhbimV0-fmsw9BOEmZTACLcB/s1600/134956.jpg,13DISTRITO
+
+#EXTINF:https://4.bp.blogspot.com/-3QKWRv8bo1E/V8fYvOPi15I/AAAAAAAABWc/TqjhRMJ7lZkM2hhbimV0-fmsw9BOEmZTACLcB/s1600/134956.jpg",13 DISTRITO
 https://lh3.googleusercontent.com/NSAUVrXipNd9aQw3517-t3JEFgqKXm12MPc5tO_OG_uAmV-TN84w0WLyGhe-vzD-qvVF9phEroYS=m22
-#EXTINF:https://2.bp.blogspot.com/-30jVYpjkOYc/V8fYw2eZlqI/AAAAAAAABWw/foab8B27wA09kRUQwH9x9l_aL0OYpbbFQCLcB/s1600/247266.jpg,THEROVERACACADA
+
+#EXTINF:https://2.bp.blogspot.com/-30jVYpjkOYc/V8fYw2eZlqI/AAAAAAAABWw/foab8B27wA09kRUQwH9x9l_aL0OYpbbFQCLcB/s1600/247266.jpg",THE ROVER A CACADA
 https://lh3.googleusercontent.com/0z_LHPEpqTTP1OqHMtzukN_ngs5rXACfoHzAQpQLa5tjO_faI-TXzLr-E-sSQ1g3Khv5EC7YZfam=m22
-#EXTINF:https://4.bp.blogspot.com/-k-v0q_ebtRY/V8fYvv7LKzI/AAAAAAAABWk/8LWuCfGWZEE13AiBm-nBsobnm6jjvzn-QCLcB/s320/310206.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg,ASSASSINOPROFISSIONAL
+
+#EXTINF:https://4.bp.blogspot.com/-k-v0q_ebtRY/V8fYvv7LKzI/AAAAAAAABWk/8LWuCfGWZEE13AiBm-nBsobnm6jjvzn-QCLcB/s320/310206.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg",ASSASSINO PROFISSIONAL
 https://lh3.googleusercontent.com/QLBzjcNz7pMckzFzvoc8jKGdMRHS_85iMDhevNrBk1QN9tMUa0XTyjp4iDIjVZsfh3W2U5cCI1Z1=m22
-#EXTINF:https://2.bp.blogspot.com/-E7StLo5m2-Y/V8fYwvj0zDI/AAAAAAAABWs/KtNm2QvDPw4vMomRQYVJAOv1EJECd16_QCLcB/s320/419781.jpg,ESPECIALISTAEMCRISE
+
+#EXTINF:https://2.bp.blogspot.com/-E7StLo5m2-Y/V8fYwvj0zDI/AAAAAAAABWs/KtNm2QvDPw4vMomRQYVJAOv1EJECd16_QCLcB/s320/419781.jpg",ESPECIALISTA EM CRISE
 https://lh3.googleusercontent.com/HGYLWJ82hkdkTGqyL5KFslXPNBScgoV13p9sRmAhghsrm2WIm5A4qCz02ybEFbuUp8eqsibfLn1L=m22
-#EXTINF:https://1.bp.blogspot.com/-A48Tsiynze8/V8fYwZjk3II/AAAAAAAABWo/3KiK5sFY3zck4R_u_PqHlNapJiBnpOoaQCLcB/s320/320772.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg,OPRESENTE(THEGIFT)
+
+#EXTINF:https://1.bp.blogspot.com/-A48Tsiynze8/V8fYwZjk3II/AAAAAAAABWo/3KiK5sFY3zck4R_u_PqHlNapJiBnpOoaQCLcB/s320/320772.jpg-r_640_600-b_1_D6D6D6-f_jpg-q_x-xxyxx.jpg",O PRESENTE (THE GIFT)
 https://lh3.googleusercontent.com/5l89WHvq_SRa_JazrVxtnu6LqDz6iGeL9k37HqzXlR1bY0PP8se75SRdHuP5taNTkaTR1Qljwx74=m22
-#EXTINF:https://2.bp.blogspot.com/-J8TCfLHPDYc/V8fYvnGB50I/AAAAAAAABWg/74lWRhtWeLYIivtcLSFHg5rpLbQDA-uWgCLcB/s320/260x365_1406228906.jpg,OGUERREIRODOAMANHA
+
+#EXTINF:https://2.bp.blogspot.com/-J8TCfLHPDYc/V8fYvnGB50I/AAAAAAAABWg/74lWRhtWeLYIivtcLSFHg5rpLbQDA-uWgCLcB/s320/260x365_1406228906.jpg",O GUERREIRO DO AMANHA
 https://lh3.googleusercontent.com/sSSyEebm8NLzktqzpcjs3dcI0VLzqKNVu5-BCmm1PHb-RHH0c19WmK7THMj-x_Ya8qgqxvuK3_s7=m22
-#EXTINF:https://3.bp.blogspot.com/-VZ0UHpLQj6M/V8fYyFANayI/AAAAAAAABW8/Kg63PbQUGzAnPQKt6rKopc25gZqx72FEQCLcB/s320/O-%25C3%259Altimo-Ato.jpg,OULTIMOATO
+
+#EXTINF:https://3.bp.blogspot.com/-VZ0UHpLQj6M/V8fYyFANayI/AAAAAAAABW8/Kg63PbQUGzAnPQKt6rKopc25gZqx72FEQCLcB/s320/O-%25C3%259Altimo-Ato.jpg",O ULTIMO ATO
 https://lh3.googleusercontent.com/0od_Dl08pEyZWTFoqC55Ns_az28KHdZt9pq2CVn2HT-oR6aU0Lv39wFX0WP2kFKL6KwD-dX5vj5O=m22
 
-#EXTINF:https://4.bp.blogspot.com/-Hke5hCTkACw/V8jevFFOzqI/AAAAAAAABZI/CRxkC6IIomkVuez_l1o2AwGaECL_VB4rgCLcB/s320/UM%2BOLHAR%2BDO%2BPARAISO.png,UMOLHARDOPARAISO
+
+#EXTINF:https://4.bp.blogspot.com/-Hke5hCTkACw/V8jevFFOzqI/AAAAAAAABZI/CRxkC6IIomkVuez_l1o2AwGaECL_VB4rgCLcB/s320/UM%2BOLHAR%2BDO%2BPARAISO.png",UM OLHAR DO PARAISO
 https://lh3.googleusercontent.com/ZWCWlHCPA6BxfCQ9eAZgvAU-a4qTmY-DbcVOcbxx2tlXS4erCFt6spbxTUHArbjNFC8m1OtbxuY=m22
-#EXTINF:https://1.bp.blogspot.com/-XucfldA8xTk/V8jevZq9J2I/AAAAAAAABZM/flq_s2Zhl7QLq2Eot7gpjRgig9NMSIjKACLcB/s320/VELOZES%2BE%2BFURIOSOS%2B4.jpg,VELOZESEFURIOSOS4
+
+#EXTINF:https://1.bp.blogspot.com/-XucfldA8xTk/V8jevZq9J2I/AAAAAAAABZM/flq_s2Zhl7QLq2Eot7gpjRgig9NMSIjKACLcB/s320/VELOZES%2BE%2BFURIOSOS%2B4.jpg",VELOZES E FURIOSOS 4
 https://lh3.googleusercontent.com/0HN8V9otjQQHoaVPkA9DOlbdqHQY-i-w7QiOxbX_GK38yAfqG0zi_A_mgRAlM8yzi2yp85qFah0=m22
-#EXTINF:https://3.bp.blogspot.com/-EMvlCLVyaqI/V8jevE_ePXI/AAAAAAAABZE/clsMDFzbiR0tQMV_Y06dBjP2NovKaon9gCLcB/s320/X-MEN%2BORIGENS%2BWOLVERINE.jpg,X-MENORIGENSWOLVERINE
+
+#EXTINF:https://3.bp.blogspot.com/-EMvlCLVyaqI/V8jevE_ePXI/AAAAAAAABZE/clsMDFzbiR0tQMV_Y06dBjP2NovKaon9gCLcB/s320/X-MEN%2BORIGENS%2BWOLVERINE.jpg",X-MEN ORIGENS WOLVERINE
 https://lh3.googleusercontent.com/uenD16pjZhdqb6SCPTLqsQKF0dtokpTn6UC9rE-VSI3sqek4T3F1D4WKSWfaXMbHsDpLQzeCVD8=m22
-#EXTINF:https://3.bp.blogspot.com/-LzapmFiyMqs/V8jeuNuiyxI/AAAAAAAABZA/Pvu4xz5VUJoJpLVUA3d5CDGMKPAX3b1lQCLcB/s320/OPERACAO%2BBIG%2BHERO.jpg,OPERACAOBIGHERO
+
+#EXTINF:https://3.bp.blogspot.com/-LzapmFiyMqs/V8jeuNuiyxI/AAAAAAAABZA/Pvu4xz5VUJoJpLVUA3d5CDGMKPAX3b1lQCLcB/s320/OPERACAO%2BBIG%2BHERO.jpg",OPERACAO BIG HERO
 https://lh3.googleusercontent.com/Aut-FUDFJxpEn5cyB88t9agHDrzG9Kzure8gkfPGTL9JCkRIW1jbmoc-mGPWYqwoPD3Y3ppZrt0=m22
-#EXTINF:https://4.bp.blogspot.com/-m8ARtN8eTIs/V8jetA0HaII/AAAAAAAABYs/-bQ8U-MoKrkr66vYB5kKti-O0-M7dUpKQCLcB/s320/A%2BONDA.jpg,AONDA
+
+#EXTINF:https://4.bp.blogspot.com/-m8ARtN8eTIs/V8jetA0HaII/AAAAAAAABYs/-bQ8U-MoKrkr66vYB5kKti-O0-M7dUpKQCLcB/s320/A%2BONDA.jpg",A ONDA
 https://lh3.googleusercontent.com/tSvHO_jIx3HYn4QvhGlwU46JsgYIw8lL4ni13RAm97A3jzpNSVZFtKcoX2gI_L-n9kMErx4i_Co=m22
-#EXTINF:https://4.bp.blogspot.com/-efs1CuMZ0Zs/V8jetbZUm1I/AAAAAAAABY0/Z5usd2EQflEPlJ4Kf5fUWyQ0gQ6VrJhpgCLcB/s320/ANJOS%2BDA%2BLEI%2B2.jpg,ANJOSDALEI2
+
+#EXTINF:https://4.bp.blogspot.com/-efs1CuMZ0Zs/V8jetbZUm1I/AAAAAAAABY0/Z5usd2EQflEPlJ4Kf5fUWyQ0gQ6VrJhpgCLcB/s320/ANJOS%2BDA%2BLEI%2B2.jpg",ANJOS DA LEI 2
 https://lh3.googleusercontent.com/QZ_0V1_HAQ7X-VJGI0VnBpJFtxKqayT17m2A0-lekM8mwdzxNOX0uUuQ4PK6PAynB9xiy79iUmc=m22
-#EXTINF:https://1.bp.blogspot.com/-V5_hE_AJzS8/V8jet017lDI/AAAAAAAABY4/VaqubvDxItAxd0dZ1q8_aln5_BJHJzA_gCLcB/s320/CARTAS%2BPARA%2BDEUS.jpg,CARTASPARADEUS
+
+#EXTINF:https://1.bp.blogspot.com/-V5_hE_AJzS8/V8jet017lDI/AAAAAAAABY4/VaqubvDxItAxd0dZ1q8_aln5_BJHJzA_gCLcB/s320/CARTAS%2BPARA%2BDEUS.jpg",CARTAS PARA DEUS
 https://lh3.googleusercontent.com/hMs6iJ1mMKAGSKekO7IEuEfUkHNtTqHgGn9fHh374LykKcLHlQrVfOhNEPdVVYI_A2FtFCsn_LQ=m22
-#EXTINF:https://1.bp.blogspot.com/-chWQh2FsxqY/V8jeuJooQoI/AAAAAAAABY8/KEg4Nhur3AA2W6rB5ab663r-zm5Lwr1CwCLcB/s320/O%2BEXORCISMO%2BDE%2BEMILY%2BROSE.jpg,OEXORCISMODEEMILYROSE
+
+#EXTINF:https://1.bp.blogspot.com/-chWQh2FsxqY/V8jeuJooQoI/AAAAAAAABY8/KEg4Nhur3AA2W6rB5ab663r-zm5Lwr1CwCLcB/s320/O%2BEXORCISMO%2BDE%2BEMILY%2BROSE.jpg",O EXORCISMO DE EMILY ROSE
 https://lh3.googleusercontent.com/EmZKGDSyL2YL62dg-9l4PTKIgSRaXFGIkmOHEgRCYvSNULVQE-6vHrjxD7kLSxqEd76ILJLoKR0=m22
-#EXTINF:https://3.bp.blogspot.com/-MUHIt7X1Lns/V8jetQ7mpgI/AAAAAAAABYw/40dJ4hRn32Ey5XM-yiXqbfnwX-sv3Q_8ACLcB/s320/CAPITAO%2BAMERICA%2B2%2BO%2BSOLDADO%2BINVERNAL.jpg,CAPITAOAMERICA2OSOLDADOINVERNAL
+
+#EXTINF:https://3.bp.blogspot.com/-MUHIt7X1Lns/V8jetQ7mpgI/AAAAAAAABYw/40dJ4hRn32Ey5XM-yiXqbfnwX-sv3Q_8ACLcB/s320/CAPITAO%2BAMERICA%2B2%2BO%2BSOLDADO%2BINVERNAL.jpg",CAPITAO AMERICA 2 O SOLDADO INVERNAL
 https://lh3.googleusercontent.com/Lbq4pmaEg9lJfEgchRqA20GmAfBKj3yG8ViUwsKI0UTomfHL5qrX3b9jJxpPgGSUj8vMdTt2bfg=m22
-#EXTINF:https://4.bp.blogspot.com/-YfvEOWZBbVU/V8lA8XPrkiI/AAAAAAAABaA/zwH0Lw9DZ8EsNcCDoad0WxToESKgXX8ZwCLcB/s320/COMO%2BTREINAR%2BO%2BSEU%2BDRAGAO%2B2.jpg,COMOTREINAROSEUDRAGAO2
+
+#EXTINF:https://4.bp.blogspot.com/-YfvEOWZBbVU/V8lA8XPrkiI/AAAAAAAABaA/zwH0Lw9DZ8EsNcCDoad0WxToESKgXX8ZwCLcB/s320/COMO%2BTREINAR%2BO%2BSEU%2BDRAGAO%2B2.jpg",COMO TREINAR O SEU DRAGAO 2
 https://lh3.googleusercontent.com/OeqjTHfra5YiKO2rz7R7tnMchZwmp6yZFb9i3PuxLtIlxAKLNlPk_xyb5Tim87Xpxln73zwHJ9HA=m22
-#EXTINF:https://4.bp.blogspot.com/-WRF_kC76etY/V8lA8uNpYyI/AAAAAAAABaE/6lAyoYdilpMTGne7FWNzZofDm7WfY4PzQCLcB/s320/CADA%2BUM%2BNA%2BSUA%2BCASA.jpg,CADAUMNASUACASA
+
+#EXTINF:https://4.bp.blogspot.com/-WRF_kC76etY/V8lA8uNpYyI/AAAAAAAABaE/6lAyoYdilpMTGne7FWNzZofDm7WfY4PzQCLcB/s320/CADA%2BUM%2BNA%2BSUA%2BCASA.jpg",CADA UM NA SUA CASA
 https://lh3.googleusercontent.com/2-cDYP5myZkU9823up3tGAompmqqzrcN9nrcVDM19bzro7eZ0J0ZHvyyu5H4JM-45_lDocHA2P1H=m22
-#EXTINF:https://1.bp.blogspot.com/-bW6-uGpUxIg/V8lBAhBDY4I/AAAAAAAABac/exsBC2ABJaUwF4Z_1PoY_5ASpURX6ayHQCLcB/s320/BUSCA%2BIMPLACAVEL%2B3.jpg,BUSCAIMPLACAVEL3
+
+#EXTINF:https://1.bp.blogspot.com/-bW6-uGpUxIg/V8lBAhBDY4I/AAAAAAAABac/exsBC2ABJaUwF4Z_1PoY_5ASpURX6ayHQCLcB/s320/BUSCA%2BIMPLACAVEL%2B3.jpg",BUSCA IMPLACAVEL 3
 https://lh3.googleusercontent.com/3_28jXsvWuwWzCgjywtzsUCOSvC_1FKn3zqhduhFzeUzZOviRJ9aVLyfAK-2l4sAXPzTyfJGkAqg=m22
-#EXTINF:https://4.bp.blogspot.com/-4MwzqAy9fuo/V8lBOk4mYUI/AAAAAAAABbw/hEjLIMv1gcY8OitA_hSlfll7ld8GY7slwCLcB/s320/TRANSFORMERS%2B4%2BA%2BERA%2BDA%2BEXTINCAO.jpg,TRANSFORMERS4AERADAEXTINCAO
+
+#EXTINF:https://4.bp.blogspot.com/-4MwzqAy9fuo/V8lBOk4mYUI/AAAAAAAABbw/hEjLIMv1gcY8OitA_hSlfll7ld8GY7slwCLcB/s320/TRANSFORMERS%2B4%2BA%2BERA%2BDA%2BEXTINCAO.jpg",TRANSFORMERS 4 A ERA DA EXTINCAO
 https://lh3.googleusercontent.com/5aDpWIBU9e4rBoaDyb7KA26ZDDyl4VYCte_VKQjC1FWIlLP--5Ar6_PStWtclg5zJ5rnJuSFKc-A=m22
-#EXTINF:https://1.bp.blogspot.com/-599_vxIltss/V8lA--DAxsI/AAAAAAAABaM/H8pO8B8vBmE_Jzxpn9c12ULry95A8yNTQCLcB/s320/DIVERGENTE.jpg,DIVERGENTE
+
+#EXTINF:https://1.bp.blogspot.com/-599_vxIltss/V8lA--DAxsI/AAAAAAAABaM/H8pO8B8vBmE_Jzxpn9c12ULry95A8yNTQCLcB/s320/DIVERGENTE.jpg",DIVERGENTE
 https://lh3.googleusercontent.com/5J8VE4t5khXx5LHE0-65ZLiY8CrLYmAbLRBsgEx7j-vSptZc5z_QCfXWgZFdfwOCJaH8tCoDjpb5=m22
-#EXTINF:https://4.bp.blogspot.com/-Ff2jQBov9EM/V8lBBsQIbyI/AAAAAAAABag/h_tr3o0FfnspbJPYjoUyc5q1RWjlOaL_ACLcB/s320/GUERRA%2BMUNDIAL%2BZ.jpg,GUERRAMUNDIALZ
+
+#EXTINF:https://4.bp.blogspot.com/-Ff2jQBov9EM/V8lBBsQIbyI/AAAAAAAABag/h_tr3o0FfnspbJPYjoUyc5q1RWjlOaL_ACLcB/s320/GUERRA%2BMUNDIAL%2BZ.jpg",GUERRA MUNDIAL Z
 https://lh3.googleusercontent.com/9ewPiqelq2CytAeRDkz9pqYHjM1nZ8uys0O4YiuIX1SD7bIL57YT2EP5lBUtw8IlmfIMtJBxLCsN=m22
-#EXTINF:https://3.bp.blogspot.com/-N5okZsZyHDc/V8lBEQiJqoI/AAAAAAAABa0/Y7JIqJqPwL8EF7VOieqbVEswfAlhBobAwCLcB/s320/MISSAO%2BIMPOSSIVEL%2B3.jpg,MISSAOIMPOSSIVEL3
+
+#EXTINF:https://3.bp.blogspot.com/-N5okZsZyHDc/V8lBEQiJqoI/AAAAAAAABa0/Y7JIqJqPwL8EF7VOieqbVEswfAlhBobAwCLcB/s320/MISSAO%2BIMPOSSIVEL%2B3.jpg",MISSAO IMPOSSIVEL 3
 https://lh3.googleusercontent.com/7Aez6GPvruvpOKFNwDP6ZIaTEg4vk_gJketxCFxa13QK5KH8Ae9DPnIzWqCTVuvqme-W8t7ot8SA=m22
-#EXTINF:https://2.bp.blogspot.com/-SyjYPQJOhiA/V8lBGyz6mJI/AAAAAAAABa8/yQwNMv9VwpgudKrGiXgXxkRlIT2Z4kgUACLcB/s320/O%2BDURAO.jpg,ODURAO
+
+#EXTINF:https://2.bp.blogspot.com/-SyjYPQJOhiA/V8lBGyz6mJI/AAAAAAAABa8/yQwNMv9VwpgudKrGiXgXxkRlIT2Z4kgUACLcB/s320/O%2BDURAO.jpg",O DURAO
 https://lh3.googleusercontent.com/FlOQN0we7urQo6byiNZUvdNMMtAjnVFrxCJEAwXVJFyLwwedKzgH-z58kRbNAi3k5NxFgWcOD5Ac=m22
-#EXTINF:https://4.bp.blogspot.com/-XPoYjr30ZzI/V8lA5lVHtnI/AAAAAAAABZs/AjpUb7I8M00UdsTd6g6b3_EsuNZ08BpXQCLcB/s320/A%2BPIRAMIDE.jpg,APIRAMIDE
+
+#EXTINF:https://4.bp.blogspot.com/-XPoYjr30ZzI/V8lA5lVHtnI/AAAAAAAABZs/AjpUb7I8M00UdsTd6g6b3_EsuNZ08BpXQCLcB/s320/A%2BPIRAMIDE.jpg",A PIRAMIDE
 https://lh3.googleusercontent.com/UnRqYNvyJQvixzasYkGBiHcBB4_DKdcwnraFsuaHrSTUqns0amtbr_jYljroG3HXLoqCX4BJq58r=m22
-#EXTINF:https://1.bp.blogspot.com/-ZxTI7-H1WSs/V8lBAAFNmKI/AAAAAAAABaU/jL_V6ouNS5Uuhm_sOH7ula1x3EwsR2cKQCLcB/s320/FREDDY%2BVS%2BJASON.jpg,FREDDYVSJASON
+
+#EXTINF:https://1.bp.blogspot.com/-ZxTI7-H1WSs/V8lBAAFNmKI/AAAAAAAABaU/jL_V6ouNS5Uuhm_sOH7ula1x3EwsR2cKQCLcB/s320/FREDDY%2BVS%2BJASON.jpg",FREDDY VS JASON
 https://lh3.googleusercontent.com/3LH7aP_FgRDQNu-qK_hty-BzM4bV7hRoQbRIf7gr7AJgYv43n2PL8PJKHuhKlxc8FJLY5GbnFNz7=m22
-#EXTINF:https://1.bp.blogspot.com/-rApxNtaibc4/V8lBK2WvQQI/AAAAAAAABbg/5XVZHOefuBIV2c-W5mNjBWVFtG2YDuokQCLcB/s320/SOB%2BO%2BDOMINIO%2BDO%2BMAL.jpg,SOBODOMINIODOMAL
+
+#EXTINF:https://1.bp.blogspot.com/-rApxNtaibc4/V8lBK2WvQQI/AAAAAAAABbg/5XVZHOefuBIV2c-W5mNjBWVFtG2YDuokQCLcB/s320/SOB%2BO%2BDOMINIO%2BDO%2BMAL.jpg",SOB O DOMINIO DO MAL
 https://lh3.googleusercontent.com/unbSnyLGBfXs9ksmipZWVdG6n5FEY2IIht0-opWtgvXAJSV9a_A08cDoC_SenycFRvYJZqduksT7=m22
-#EXTINF:https://3.bp.blogspot.com/-WBfOp_SV-p4/V8lA95q0oqI/AAAAAAAABaI/JaKbE3QjD7U2Pjqi3lllX9JfGYySwg6vQCLcB/s320/DEJA-VU.jpg,DEJA-VU
+
+#EXTINF:https://3.bp.blogspot.com/-WBfOp_SV-p4/V8lA95q0oqI/AAAAAAAABaI/JaKbE3QjD7U2Pjqi3lllX9JfGYySwg6vQCLcB/s320/DEJA-VU.jpg",DEJA-VU
 https://lh3.googleusercontent.com/bqg14ekZv2BYXU9CyFQxwD6hUBaL1uKmNqtM3AjdHZ2xjPpKHFnDByoVSvSw9I5hEXFrCCKN7eGJ=m22
-#EXTINF:https://3.bp.blogspot.com/-scFhjCpCGU0/V8lA5RD4wGI/AAAAAAAABZo/THUfGoFbtw0zQCRZU0z4niIL_udb7uwtwCLcB/s320/A%2BPAIXAO%2BDE%2BCRISTO.jpg,APAIXAODECRISTO
+
+#EXTINF:https://3.bp.blogspot.com/-scFhjCpCGU0/V8lA5RD4wGI/AAAAAAAABZo/THUfGoFbtw0zQCRZU0z4niIL_udb7uwtwCLcB/s320/A%2BPAIXAO%2BDE%2BCRISTO.jpg",A PAIXAO DE CRISTO
 https://lh3.googleusercontent.com/D9-q4FTPfuOjak3CVCit1LDwDU2eUXgQXCMMRLe-l6860mzDd2X7rgeX4RWp598ZeU_ojo8R3J2S=m22
-#EXTINF:https://1.bp.blogspot.com/-mW3AtajwweI/V8lBJ75gcwI/AAAAAAAABbc/Z2SuTY4WMR8j0Q2xu0PX6myiP_NNgMm4gCLcB/s320/SETE%2BVIDAS.jpg,SETEVIDAS
+
+#EXTINF:https://1.bp.blogspot.com/-mW3AtajwweI/V8lBJ75gcwI/AAAAAAAABbc/Z2SuTY4WMR8j0Q2xu0PX6myiP_NNgMm4gCLcB/s320/SETE%2BVIDAS.jpg",SETE VIDAS
 https://lh3.googleusercontent.com/QMvglGyiYGvaNgk-pE8fCvBUaCH_nZbDzRhosMaSBvXUTU4Z_s6lSvPVIaTybeA8CyoFPJ1NevUQ=m22
-#EXTINF:https://3.bp.blogspot.com/-6jwEHjYRCnY/V8lBNHd39AI/AAAAAAAABbs/_VDWtMQoLvshycicdFUmi51GDp4wat9_wCLcB/s320/SYRIANA.jpg,SYRIANA
+
+#EXTINF:https://3.bp.blogspot.com/-6jwEHjYRCnY/V8lBNHd39AI/AAAAAAAABbs/_VDWtMQoLvshycicdFUmi51GDp4wat9_wCLcB/s320/SYRIANA.jpg",SYRIANA
 https://lh3.googleusercontent.com/rcoIM9jwkNRFSi-UM2VC2Iu1SFLvrfvS7fz4R_CYuMMLrPHk5rDQY5Br40Nm8tf2ZEJy5lM0gtMu=m22
-#EXTINF:https://4.bp.blogspot.com/-QYQ43h4gnVw/V8lBIO4-XeI/AAAAAAAABbI/PHs-ObSBdAIL-qKuvDE3SD4njHgwgJ4BgCLcB/s320/PROTEGENDO%2BO%2BINIMIGO.jpg,PROTEGENDOOINIMIGO
+
+#EXTINF:https://4.bp.blogspot.com/-QYQ43h4gnVw/V8lBIO4-XeI/AAAAAAAABbI/PHs-ObSBdAIL-qKuvDE3SD4njHgwgJ4BgCLcB/s320/PROTEGENDO%2BO%2BINIMIGO.jpg",PROTEGENDO O INIMIGO
 https://lh3.googleusercontent.com/oUqNi4EFXqaGow7ySr3wr3jzjesUUALUB7Y2T7e6ebiJSVikQ9la_lt3sSSEeiArR3o5I39hG25J=m22
-#EXTINF:https://2.bp.blogspot.com/-8DPipAH0nFE/V8lA_DiaxoI/AAAAAAAABaQ/_z5pW-5qmWYY_yajV_dcz5ykE7skbkh1ACLcB/s320/DIA%2BDE%2BTREINAMENTO.jpg,DIADETREINAMENTO
+
+#EXTINF:https://2.bp.blogspot.com/-8DPipAH0nFE/V8lA_DiaxoI/AAAAAAAABaQ/_z5pW-5qmWYY_yajV_dcz5ykE7skbkh1ACLcB/s320/DIA%2BDE%2BTREINAMENTO.jpg",DIA DE TREINAMENTO
 https://lh3.googleusercontent.com/_yRTWlr95lug_1fuKsV2qJCPjuq5ORa2aauKAgyfSfvVctIEEc67yG6rw73zcOxVKlHiA0tqyBmV=m22
-#EXTINF:https://4.bp.blogspot.com/-TiNLTtW1Z8Q/V8lBAd_qolI/AAAAAAAABaY/X1ATlnJcwg4yGHvTd7Mcijzm9za3kg3HACLcB/s320/EM%2BBUSCA%2BDA%2BJUSTICA.jpg,EMBUSCADAJUSTICA
+
+#EXTINF:https://4.bp.blogspot.com/-TiNLTtW1Z8Q/V8lBAd_qolI/AAAAAAAABaY/X1ATlnJcwg4yGHvTd7Mcijzm9za3kg3HACLcB/s320/EM%2BBUSCA%2BDA%2BJUSTICA.jpg",EM BUSCA DA JUSTICA
 https://lh3.googleusercontent.com/Pz0v5C2hZp2MpVGSoGuhqLb8obLxnhz3jvcsSZCNZysYlj97x0a8AMtPk-Pz9rnlsJX0Y4tO3z1d=m22
-#EXTINF:https://4.bp.blogspot.com/-YRIzH57DUJA/V8lBJLlOrCI/AAAAAAAABbU/aXR69ZDykc8LDau9qrFWsH_5L5KBbpcUwCLcB/s1600/SE%2BEU%2BFICAR.jpg,SEEUFICAR
+
+#EXTINF:https://4.bp.blogspot.com/-YRIzH57DUJA/V8lBJLlOrCI/AAAAAAAABbU/aXR69ZDykc8LDau9qrFWsH_5L5KBbpcUwCLcB/s1600/SE%2BEU%2BFICAR.jpg",SE EU FICAR
 https://lh3.googleusercontent.com/FNoqMy17Jdtl8Gdk4pCjAWTXLhFqAc6u-RLYDa_nR62bs3ggtYFUcXll6JliqAN9U1pNT9mr6oQk=m22
-#EXTINF:https://3.bp.blogspot.com/-X-x46pF85wA/V8lBBwELx9I/AAAAAAAABak/MQAXiNW7Dy4a87hLVqoCHnC3KkDM53nnQCLcB/s320/MAMAE%2BOPERACAO%2BBALADA.jpg,MAMAEOPERACAOBALADA
+
+#EXTINF:https://3.bp.blogspot.com/-X-x46pF85wA/V8lBBwELx9I/AAAAAAAABak/MQAXiNW7Dy4a87hLVqoCHnC3KkDM53nnQCLcB/s320/MAMAE%2BOPERACAO%2BBALADA.jpg",MAMAE OPERACAO BALADA
 https://lh3.googleusercontent.com/OXdFN3lVe4Jg1DpuLaBL7aVDSNS4UYLBU1erOFpG3dBm95MUB5T3r8iGlKKL0iSpoV-isDHunT2z=m22
-#EXTINF:https://3.bp.blogspot.com/-PbeqJFivRQ8/V8lBQGpEyLI/AAAAAAAABb4/EHSq_X6TPJoeZAIZdeeTAPu9isI_ZCaVgCLcB/s320/p3.jpg,PERSEGUICAO3CORRENDOPARAAMORTE
+
+#EXTINF:https://3.bp.blogspot.com/-PbeqJFivRQ8/V8lBQGpEyLI/AAAAAAAABb4/EHSq_X6TPJoeZAIZdeeTAPu9isI_ZCaVgCLcB/s320/p3.jpg",PERSEGUICAO 3 CORRENDO PARA A MORTE
 https://lh3.googleusercontent.com/ITgw5qfKybmbwSmd1ZlfO6hl0PY8EtbBa1f82-xyEV46U4dbSgq6fNTpTM3sVmDBqNVCSZzw7usV=m22
-#EXTINF:https://3.bp.blogspot.com/-kuH7QvLWOcg/V8lA5sKhcCI/AAAAAAAABZw/I5qx8UCTgmsGecPMPOZZyKR4VcuKW7dUgCLcB/s320/A%2BCULPA%2BE%2BDAS%2BESTRELAS.jpg,ACULPAEDASESTRELAS
+
+#EXTINF:https://3.bp.blogspot.com/-kuH7QvLWOcg/V8lA5sKhcCI/AAAAAAAABZw/I5qx8UCTgmsGecPMPOZZyKR4VcuKW7dUgCLcB/s320/A%2BCULPA%2BE%2BDAS%2BESTRELAS.jpg",A CULPA E DAS ESTRELAS
 https://lh3.googleusercontent.com/urjuUVF0s1UUdpgU1b6UVx9meZAl3frL00Xw4LFYamLN3pf300pEdSSi3J2oqihyFc9gZ1g4MM3N=m22
-#EXTINF:https://2.bp.blogspot.com/-rcKKW60UYnw/V8lBInySxfI/AAAAAAAABbM/JpNknpF4tGAM5Ti90fLO_vZvKzoDxJNygCLcB/s320/REC%2B3%2BGENESIS.jpeg,REC3GENESIS
+
+#EXTINF:https://2.bp.blogspot.com/-rcKKW60UYnw/V8lBInySxfI/AAAAAAAABbM/JpNknpF4tGAM5Ti90fLO_vZvKzoDxJNygCLcB/s320/REC%2B3%2BGENESIS.jpeg",REC 3 GENESIS
 https://lh3.googleusercontent.com/GguuNHxnbnyI1mT-d3HThD3BFSIpk8IvghWJz6LUDGH3EPxHPBNlMllznBqGY7St0Gj8QugrShrd=m22
-#EXTINF:https://1.bp.blogspot.com/-4y8JGcSXF2I/V8lBHlPwHkI/AAAAAAAABbE/1rr-ETNNkwkviZ7tL5-Ri29brkOEEO8pACLcB/s320/POMPEIA.jpg,POMPEIA
+
+#EXTINF:https://1.bp.blogspot.com/-4y8JGcSXF2I/V8lBHlPwHkI/AAAAAAAABbE/1rr-ETNNkwkviZ7tL5-Ri29brkOEEO8pACLcB/s320/POMPEIA.jpg",POMPEIA
 https://lh3.googleusercontent.com/Fh960n5RxWBPyAS9BJvm2s9TVrkcWBF-shCfkWH51LC5tI45cD4ya4zTe95BZCrBw7TY8IYLg4Wb=m22
-#EXTINF:https://2.bp.blogspot.com/-RRTuCH25G7E/V8lA7vEfqvI/AAAAAAAABZ8/larxvXjFVbw7xgqPKKFsNQlbzNgNaDMGACLcB/s320/CLICK.jpg,CLICK
+
+#EXTINF:https://2.bp.blogspot.com/-RRTuCH25G7E/V8lA7vEfqvI/AAAAAAAABZ8/larxvXjFVbw7xgqPKKFsNQlbzNgNaDMGACLcB/s320/CLICK.jpg",CLICK
 https://lh3.googleusercontent.com/azPO7t1d6j6udKCKjinRjH2FW8ua-d148FQgUqRAS2vmq6V42lqjTRHrklQAgnCfdcDQdUh2tim2=m22
-#EXTINF:https://3.bp.blogspot.com/-0o6sUVVBOug/V8lBKyHw7sI/AAAAAAAABbk/3iyKA_rSzG4_h8aqIzG8kUuhuL3KV0rZwCLcB/s320/SPECIAL%2BCORRESPONDENTS.jpg,SPECIALCORRESPONDENTS
+
+#EXTINF:https://3.bp.blogspot.com/-0o6sUVVBOug/V8lBKyHw7sI/AAAAAAAABbk/3iyKA_rSzG4_h8aqIzG8kUuhuL3KV0rZwCLcB/s320/SPECIAL%2BCORRESPONDENTS.jpg",SPECIAL CORRESPONDENTS
 https://lh3.googleusercontent.com/Zz-S76vZkllcZaPSPL3wSJhX-W3UPiX4zVEKi6M1ketcotSR-sMPBPvpLJRe7xTsqDkgZ2T0icf2=m22
-#EXTINF:https://4.bp.blogspot.com/-IUNi5xnb_VI/V8lBHVQJP4I/AAAAAAAABbA/0A2OYG-4rbwLmf3SPogOtYc5rPkapbiuwCLcB/s1600/PREGANDO%2BO%2BAMOR.jpg,PREGANDOOAMOR
+
+#EXTINF:https://4.bp.blogspot.com/-IUNi5xnb_VI/V8lBHVQJP4I/AAAAAAAABbA/0A2OYG-4rbwLmf3SPogOtYc5rPkapbiuwCLcB/s1600/PREGANDO%2BO%2BAMOR.jpg",PREGANDO O AMOR
 https://lh3.googleusercontent.com/-o0HELDHxgC-OgvZ_INrmh7EwPYHMxCcH0kIB9FozNfXcssXC-xVZA5zO4UA0I-Tjlcr3Uwkau7n=m22
-#EXTINF:https://3.bp.blogspot.com/-KEYMReVKFeM/V8lBSP_lz8I/AAAAAAAABb8/C73KM8p17kQ6oKuzQ-j_lJyZrx5--l6GACLcB/s320/O%2BVOO.jpg,OVOO
+
+#EXTINF:https://3.bp.blogspot.com/-KEYMReVKFeM/V8lBSP_lz8I/AAAAAAAABb8/C73KM8p17kQ6oKuzQ-j_lJyZrx5--l6GACLcB/s320/O%2BVOO.jpg",O VOO
 https://lh3.googleusercontent.com/slxj3TSczxZN1z6qHpS2Iwi9WSLxzzKdPtHBLUdeXTYnHRkgcOC6RAwTxN7nqRV5GoiEkihdBI3-=m22
-#EXTINF:https://1.bp.blogspot.com/-lvbzO_aKiks/V8lBC8hPhpI/AAAAAAAABaw/qUumeJzKouss94-h4C-q_4opYl6mXpEiQCLcB/s1600/O%2BCODIGO.jpg,OCODIGO
+
+#EXTINF:https://1.bp.blogspot.com/-lvbzO_aKiks/V8lBC8hPhpI/AAAAAAAABaw/qUumeJzKouss94-h4C-q_4opYl6mXpEiQCLcB/s1600/O%2BCODIGO.jpg",O CODIGO
 https://lh3.googleusercontent.com/isWPnCL6dlaXHvA59tE9aLThHkSbpZCUyWz3PgaDOsCf6ee5d-FIPhbUl0omPGmpXkLmk7QSh9az=m22
-#EXTINF:https://3.bp.blogspot.com/-tAgAiJIKNjA/V8lBJz2ZvSI/AAAAAAAABbY/X7ZSvDvjIckz9CUE9ZU9MAZ98d29aIDogCLcB/s1600/SEXTA-FEIRA%2B13.jpg,SEXTA-FEIRA13
+
+#EXTINF:https://3.bp.blogspot.com/-tAgAiJIKNjA/V8lBJz2ZvSI/AAAAAAAABbY/X7ZSvDvjIckz9CUE9ZU9MAZ98d29aIDogCLcB/s1600/SEXTA-FEIRA%2B13.jpg",SEXTA-FEIRA 13
 https://lh3.googleusercontent.com/13ZZVjpWG1KdWvfyicVRmzGyw4HWQRJlvCmHecGo0CndMLIF-nSrQcbE9P3ZTeXBGJqXxMhLFcT-=m22
-#EXTINF:https://4.bp.blogspot.com/-5Qh1gRaooXE/V8lBMCyCYVI/AAAAAAAABbo/Qu8sraSvePUkJJnZ6TSBmqnERvPJMFdOACLcB/s320/TRANSFORMERS%2B2.jpg,TRANSFORMERS2
+
+#EXTINF:https://4.bp.blogspot.com/-5Qh1gRaooXE/V8lBMCyCYVI/AAAAAAAABbo/Qu8sraSvePUkJJnZ6TSBmqnERvPJMFdOACLcB/s320/TRANSFORMERS%2B2.jpg",TRANSFORMERS 2
 https://lh3.googleusercontent.com/IbzIfBUweODTKa7HwVPKt4flgJBIbDSJTz-d7cmW_1HrDuG4d4mPpCnSUt6xvK931Skz1FuLCeAf=m22
-#EXTINF:https://3.bp.blogspot.com/-pXu7C_bTsMU/V8lA6YNtL6I/AAAAAAAABZ0/BA1A-b7S_E8fVq4np5-ks1w5GLYS2jXUwCLcB/s320/ATAQUE%2BA%2BLENINGRADO.jpg,ATAQUEALENINGRADO
+
+#EXTINF:https://3.bp.blogspot.com/-pXu7C_bTsMU/V8lA6YNtL6I/AAAAAAAABZ0/BA1A-b7S_E8fVq4np5-ks1w5GLYS2jXUwCLcB/s320/ATAQUE%2BA%2BLENINGRADO.jpg",ATAQUE A LENINGRADO
 https://lh3.googleusercontent.com/Hlnm2FJB5z3LhGRdUun0QtGU9QS3j20vPnDeLYRfqYfG8kt_QGYNyrXk-GYluhw9L6I6hYKS1CNw=m22
-#EXTINF:https://2.bp.blogspot.com/-aDsXrJ1r-ug/V8lA61OIIoI/AAAAAAAABZ4/Ez-cbTfQUTkZFjoOExqNY4--HBYjKEx1wCLcB/s320/CARTAS%2BDE%2BIWO%2BJIMA.jpg,CARTASDEIWOJIMA
+
+#EXTINF:https://2.bp.blogspot.com/-aDsXrJ1r-ug/V8lA61OIIoI/AAAAAAAABZ4/Ez-cbTfQUTkZFjoOExqNY4--HBYjKEx1wCLcB/s320/CARTAS%2BDE%2BIWO%2BJIMA.jpg",CARTAS DE IWO JIMA
 https://lh3.googleusercontent.com/2f7IkDvp4bc2bhrUOzYyvDjL4JNEhj9env-3VCJWmSibP6hBVsnHjaz8NztS0nUG4K2Sy-MnJa6Y=m22
-#EXTINF:https://4.bp.blogspot.com/-dvyFlh06OG0/V8lBCCMb9kI/AAAAAAAABao/baiho8nU4AMgXRbjMppO3P11Fj15M-i6ACLcB/s320/INSTINTO%2BSECRETO.jpg,INSTINTOSECRETO
+
+#EXTINF:https://4.bp.blogspot.com/-dvyFlh06OG0/V8lBCCMb9kI/AAAAAAAABao/baiho8nU4AMgXRbjMppO3P11Fj15M-i6ACLcB/s320/INSTINTO%2BSECRETO.jpg",INSTINTO SECRETO
 https://lh3.googleusercontent.com/2934mqUcqeLKy_ZfveraaQE9--YdZm0sHO4MC2nRHxSMsKWkK-uqS5PYfSOhSGUEHclE1Wony4X2=m22
-#EXTINF:https://4.bp.blogspot.com/-5pMZszmJ8-M/V8lBCQnakLI/AAAAAAAABas/VLzV-T4OCtM_4At1MVnSrBnd4xtEodlkwCLcB/s1600/MEDO%2BDA%2BVERDADE.jpg,MEDODAVERDADE
+
+#EXTINF:https://4.bp.blogspot.com/-5pMZszmJ8-M/V8lBCQnakLI/AAAAAAAABas/VLzV-T4OCtM_4At1MVnSrBnd4xtEodlkwCLcB/s1600/MEDO%2BDA%2BVERDADE.jpg",MEDO DA VERDADE
 https://lh3.googleusercontent.com/Hicpbfagw0eJM21k43EYnaZSjp3hxCaIPdSt_R5x88EBRc1gmJWPYV4Hqy9Ya9UsK2OjDGWV4F-p=m22
-#EXTINF:https://4.bp.blogspot.com/-cv9K2EpjyZ4/V8lBGOS70bI/AAAAAAAABa4/qgBbJtJHgu4IsMKQlI66_vqeUsNzfcP-ACLcB/s320/NUMERO%2B23.jpg,NUMERO23
+
+#EXTINF:https://4.bp.blogspot.com/-cv9K2EpjyZ4/V8lBGOS70bI/AAAAAAAABa4/qgBbJtJHgu4IsMKQlI66_vqeUsNzfcP-ACLcB/s320/NUMERO%2B23.jpg",NUMERO 23
 https://lh3.googleusercontent.com/IhPGaPcBUCTp5U3Mofj9Y_nR3LIPGRjaOHw5o2EU9QNkn2gu77Bs5KFs5DMfYAWEVMpycSU77MW5=m22
-#EXTINF:https://2.bp.blogspot.com/-4mAXfyRzQDo/V8lBJIni1FI/AAAAAAAABbQ/EkA_TxS9bOMdhRfdQ6Cjw4SYP72sZM7SQCLcB/s320/ROCKY%2BBALBOA.jpg,ROCKYBALBOA
+
+#EXTINF:https://2.bp.blogspot.com/-4mAXfyRzQDo/V8lBJIni1FI/AAAAAAAABbQ/EkA_TxS9bOMdhRfdQ6Cjw4SYP72sZM7SQCLcB/s320/ROCKY%2BBALBOA.jpg",ROCKY BALBOA
 https://lh3.googleusercontent.com/r0ceL6KRsBtXgUYbKVo-LVhMQ9CphS-vTnnstutQKA5Bt22Delsrx-9-LlFNL4tDhDrohOZ1ffCv=m22
-#EXTINF:https://3.bp.blogspot.com/-MbFJ7EEqS0M/V8lBPNhqdsI/AAAAAAAABb0/R1zTg4bIx9ot5RGh4FB5hGLTaNLA1d9PQCLcB/s320/VELOZES%2BE%2BFURIOSOS%2B3%2BDESAFIO%2BEM%2BTOQUIO.jpg,VELOZESEFURIOSOS3DESAFIOEMTOQUIO
+
+#EXTINF:https://3.bp.blogspot.com/-MbFJ7EEqS0M/V8lBPNhqdsI/AAAAAAAABb0/R1zTg4bIx9ot5RGh4FB5hGLTaNLA1d9PQCLcB/s320/VELOZES%2BE%2BFURIOSOS%2B3%2BDESAFIO%2BEM%2BTOQUIO.jpg",VELOZES E FURIOSOS 3 DESAFIO EM TOQUIO
 https://lh3.googleusercontent.com/g6mNMnbQGWcgh6ymSQavX_rs6OKJDiLIqdXet6OH189dm5L2QZHo8U2oiO3FK5b8wTBr5HJCV4H2=m22
 
 
-#EXTINF:https://3.bp.blogspot.com/-YZG3G3D2ZGY/V8p02_No35I/AAAAAAAABc8/sJ40yj1gWygzO22CFOXV2xnCOfzHwPeRwCLcB/s1600/A%2BDAMA%2BDE%2BVERMELHA.jpg,ADAMADEVERMELHA
+
+#EXTINF:https://3.bp.blogspot.com/-YZG3G3D2ZGY/V8p02_No35I/AAAAAAAABc8/sJ40yj1gWygzO22CFOXV2xnCOfzHwPeRwCLcB/s1600/A%2BDAMA%2BDE%2BVERMELHA.jpg",A DAMA DE VERMELHA
 https://lh3.googleusercontent.com/aJuZfDJ2UWvP0URvRuy54g3Fr-sCTIRMUFVrh9GSL0vgGpLHDCrHpwWCABdLrnVGT9prWCE89gs3=m22
-#EXTINF:https://4.bp.blogspot.com/-CFVB6bTboM8/V8p021bfJjI/AAAAAAAABdA/EOszPSWDzjEAqmppFOVH3HYORWocar__gCLcB/s320/A%2BPRIMEIRA%2BVEZ.jpg,APRIMEIRAVEZ
+
+#EXTINF:https://4.bp.blogspot.com/-CFVB6bTboM8/V8p021bfJjI/AAAAAAAABdA/EOszPSWDzjEAqmppFOVH3HYORWocar__gCLcB/s320/A%2BPRIMEIRA%2BVEZ.jpg",A PRIMEIRA VEZ
 https://lh3.googleusercontent.com/t3SdCTrlL4Yqevo93zREgvb4shkCNzAKuseP3_qX5Ct8_0EWbTGptxDD-zd6ENyKQgQOWCxiUF3a=m22
-#EXTINF:https://3.bp.blogspot.com/-A8Bjp2o2Rg8/V8p03vBU5CI/AAAAAAAABdI/pRFPpQ9RimMYwS49Jkhi_ohuWumMvXK7QCLcB/s320/A%2BTRAVESSIA.jpg,ATRAVESSIA
+
+#EXTINF:https://3.bp.blogspot.com/-A8Bjp2o2Rg8/V8p03vBU5CI/AAAAAAAABdI/pRFPpQ9RimMYwS49Jkhi_ohuWumMvXK7QCLcB/s320/A%2BTRAVESSIA.jpg",A TRAVESSIA
 https://lh3.googleusercontent.com/3LMb37LsTGwccA0WCTUXgehixgtFxOrqGb3dbXc4UOGhL2BUeh00xKzsCC8zKQyEb0gl48z5M9z5=m22
-#EXTINF:https://4.bp.blogspot.com/-IyuGGVQBSDQ/V8p03uy1y5I/AAAAAAAABdE/dijxD79VYVcReSmAogKv3kUuA-O-d16UQCLcB/s320/A%2BFILHA%2BDO%2BMEU%2BMELHOR%2BAMIGO.jpg,AFILHADOMEUMELHORAMIGO
+
+#EXTINF:https://4.bp.blogspot.com/-IyuGGVQBSDQ/V8p03uy1y5I/AAAAAAAABdE/dijxD79VYVcReSmAogKv3kUuA-O-d16UQCLcB/s320/A%2BFILHA%2BDO%2BMEU%2BMELHOR%2BAMIGO.jpg",A FILHA DO MEU MELHOR AMIGO
 https://lh3.googleusercontent.com/mH0yNvaABx-t7fjldAxE9xyRAEMOWHDgg6S6H0tvld1on9-KPAWsAy-ep4JaSGEzJ9_IDLkXSqN7=m22
-#EXTINF:https://2.bp.blogspot.com/-EpYntc3R_8k/V8p04LwHdkI/AAAAAAAABdQ/_PvaAEvWo34ZWZZ4PFrM95Naxb5_YrXgACLcB/s320/ALTA%2BFREQUENCIA.jpg,ALTAFREQUENCIA
+
+#EXTINF:https://2.bp.blogspot.com/-EpYntc3R_8k/V8p04LwHdkI/AAAAAAAABdQ/_PvaAEvWo34ZWZZ4PFrM95Naxb5_YrXgACLcB/s320/ALTA%2BFREQUENCIA.jpg",ALTA FREQUENCIA
 https://lh3.googleusercontent.com/36YawcIUBYlgxZhzp8Gzuln8igN_sXYvl2r-p7WUn09yWHMI5LxUn_LSe0jpKJDcghXwhZNSvqqN=m22
-#EXTINF:https://2.bp.blogspot.com/-FqguiqmQjPs/V8p04cKUqmI/AAAAAAAABdU/rT0gSeYLM-4uj7JSnaptb1A2nj6rLFTwQCLcB/s320/AMNESIA.jpg,AMNESIA
+
+#EXTINF:https://2.bp.blogspot.com/-FqguiqmQjPs/V8p04cKUqmI/AAAAAAAABdU/rT0gSeYLM-4uj7JSnaptb1A2nj6rLFTwQCLcB/s320/AMNESIA.jpg",AMNESIA
 https://lh3.googleusercontent.com/NkXC_x_HHG_oIbblZNDO1ArLwCkTint6l0ig80gHNqx6Yk8WfKUsSEKnw0AM30rFyZ-_PQj3zrqg=m22
-#EXTINF:https://1.bp.blogspot.com/-n7FTpj7q1HQ/V8p04meoSXI/AAAAAAAABdY/u9JuLlJ62xMNlTGqUzB22O2zbKXXxpnkwCLcB/s320/AMOR%2BE%2BREVOLUCAO.jpg,AMOREREVOLUCAO
+
+#EXTINF:https://1.bp.blogspot.com/-n7FTpj7q1HQ/V8p04meoSXI/AAAAAAAABdY/u9JuLlJ62xMNlTGqUzB22O2zbKXXxpnkwCLcB/s320/AMOR%2BE%2BREVOLUCAO.jpg",AMOR E REVOLUCAO
 https://lh3.googleusercontent.com/rEJHmyt4dPyDsbZceLgQOzW3uOQXIOtz-3JKmY5vPJkXvC1MQCryjcIXoXamap4zQ72JONi_7EQu=m22
-#EXTINF:https://4.bp.blogspot.com/-fFwUj71hJsA/V8p03xN1WhI/AAAAAAAABdM/BCGnl_oitMoZsNaj09iNcnoIXWPaBjPngCLcB/s320/ADVOGADO%2BDO%2BDIABO.jpg,ADVOGADODODIABO
+
+#EXTINF:https://4.bp.blogspot.com/-fFwUj71hJsA/V8p03xN1WhI/AAAAAAAABdM/BCGnl_oitMoZsNaj09iNcnoIXWPaBjPngCLcB/s320/ADVOGADO%2BDO%2BDIABO.jpg",ADVOGADO DO DIABO
 https://lh3.googleusercontent.com/YVFQGVDIRdRNK59cQBc7j7wT76tiH0Z5Ghiwqz_Iiw2PgXiE2nEWjdUaO-MmIhBjpwC_9TCj_96m=m22
-#EXTINF:https://2.bp.blogspot.com/-DQHoWxSbHl4/V8p04sx9meI/AAAAAAAABdc/7GOZeVwBEA8_VtxuZv68EFUaw1gmnYg5wCLcB/s1600/AMOR%2BPOR%2BACIDENTE.jpg,AMORPORACIDENTE
+
+#EXTINF:https://2.bp.blogspot.com/-DQHoWxSbHl4/V8p04sx9meI/AAAAAAAABdc/7GOZeVwBEA8_VtxuZv68EFUaw1gmnYg5wCLcB/s1600/AMOR%2BPOR%2BACIDENTE.jpg",AMOR POR ACIDENTE
 https://lh3.googleusercontent.com/s4ZLDZAp040RGD1EXRSFPLQgBUZ5GJkVAJcoiC_L4Q91Ihw_0bYVYilzcSF-fdXKqoeRffqOLNVZ=m22
-#EXTINF:https://4.bp.blogspot.com/-rv1M-X26ePI/V8p92saCcWI/AAAAAAAABe0/-QB2PEjXzy8kxT80Byih5bZ8bUlykbTeACLcB/s320/apocalipse.jpg,APOCALIPSE
+
+#EXTINF:https://4.bp.blogspot.com/-rv1M-X26ePI/V8p92saCcWI/AAAAAAAABe0/-QB2PEjXzy8kxT80Byih5bZ8bUlykbTeACLcB/s320/apocalipse.jpg",APOCALIPSE
 https://lh3.googleusercontent.com/sEOKhprPtw0Dn0XlPdz1HyyFxbPtJgRLN9Sp3bOwPwaj12mXyIBLozC9MrMvVnl7Hr7bOaoKZM2q=m22
-#EXTINF:https://1.bp.blogspot.com/-gP0dag8Q2DY/V8p0_Gkj8oI/AAAAAAAABeg/rnPFYPRfeioSZVcqiH9rSiqp9wS2lym_QCLcB/s320/HORAS%2BDECISIVAS.jpg,HORASDECISIVAS
+
+#EXTINF:https://1.bp.blogspot.com/-gP0dag8Q2DY/V8p0_Gkj8oI/AAAAAAAABeg/rnPFYPRfeioSZVcqiH9rSiqp9wS2lym_QCLcB/s320/HORAS%2BDECISIVAS.jpg",HORAS DECISIVAS
 https://lh3.googleusercontent.com/OoOwCFGRfNSiUknhGn98ukuNNLKXGcyHZT8ZjEiyJtkkIhmTrxbHHmkccaBAOczSzbjBeivCt1We=m22
-#EXTINF:https://1.bp.blogspot.com/-JHqQ7CxYyUk/V8p04yzpbQI/AAAAAAAABdg/jT75YOqqupII1s9L9JdG6_ZHyUbOgMRJACLcB/s320/BLADE%2BRUNNER.jpg,BLADERUNNER
+
+#EXTINF:https://1.bp.blogspot.com/-JHqQ7CxYyUk/V8p04yzpbQI/AAAAAAAABdg/jT75YOqqupII1s9L9JdG6_ZHyUbOgMRJACLcB/s320/BLADE%2BRUNNER.jpg",BLADE RUNNER
 https://lh3.googleusercontent.com/cCDYntkcgyCLtu8g9366uy6PrNqYiiWkyG5mn9TXnKdC0Sk__x4U_SDs8gjTLKkYSAB7-9M8_FVb=m22
-#EXTINF:https://4.bp.blogspot.com/-2KGg9FnEIKw/V8p05aNeOyI/AAAAAAAABdk/cE0-DQRbNq0IIO6zNlpUSk3ZpfnO6zGDACLcB/s320/BONECO%2BDO%2BMAL.jpg,BONECODOMAL
+
+#EXTINF:https://4.bp.blogspot.com/-2KGg9FnEIKw/V8p05aNeOyI/AAAAAAAABdk/cE0-DQRbNq0IIO6zNlpUSk3ZpfnO6zGDACLcB/s320/BONECO%2BDO%2BMAL.jpg",BONECO DO MAL
 https://lh3.googleusercontent.com/I7GMEqf6WCvhYQ9JIE2kED-7KVqsNVJaI5cTy82PTvbeHmizY_dJlnoH6vkrU-nwqnecNeq1Ex_D=m22
-#EXTINF:https://4.bp.blogspot.com/-C_oEx-jUJ14/V8p05WT_QNI/AAAAAAAABdo/8DD8_kl9Kcg5LW56mQl36F1cyW5y-BRJwCLcB/s320/BOULEVARD.jpg,BOULEVARD
+
+#EXTINF:https://4.bp.blogspot.com/-C_oEx-jUJ14/V8p05WT_QNI/AAAAAAAABdo/8DD8_kl9Kcg5LW56mQl36F1cyW5y-BRJwCLcB/s320/BOULEVARD.jpg",BOULEVARD
 https://lh3.googleusercontent.com/jVHu-FLM7ZfeZl0oEk947jYh4k746a1XVmd_JWxT9em3CmW8ieSzLEh4yUxUpB5st2_PUpSaQY8r=m22
-#EXTINF:https://2.bp.blogspot.com/-VNd3tLNHvow/V8p05v5OupI/AAAAAAAABds/PPnTZ-vogjwJHpcK1P9LECvPDHY3R4TWgCLcB/s320/CACADA%2BAO%2BPRESIDENTE.jpg,CACADAAOPRESIDENTE
+
+#EXTINF:https://2.bp.blogspot.com/-VNd3tLNHvow/V8p05v5OupI/AAAAAAAABds/PPnTZ-vogjwJHpcK1P9LECvPDHY3R4TWgCLcB/s320/CACADA%2BAO%2BPRESIDENTE.jpg",CACADA AO PRESIDENTE
 https://lh3.googleusercontent.com/7YPA83ZUCbIR_xCNCo1blIUwGIfrPc4whiNuo5YuhmyNTgF7FeLyEqVliXnw2pnJgEMmnOme9GI1=m22
-#EXTINF:https://1.bp.blogspot.com/-MhLp4ziLYvs/V8p06Z7O1uI/AAAAAAAABdw/JUPW3Sa5g48fjkaSKjCmhRgPO-PXrCj3ACLcB/s320/CAPITAO%2BAMERICA%2BO%2BPRIMEIRO%2BVINGADOR.jpg,CAPITAOAMERICAOPRIMEIROVINGADOR
+
+#EXTINF:https://1.bp.blogspot.com/-MhLp4ziLYvs/V8p06Z7O1uI/AAAAAAAABdw/JUPW3Sa5g48fjkaSKjCmhRgPO-PXrCj3ACLcB/s320/CAPITAO%2BAMERICA%2BO%2BPRIMEIRO%2BVINGADOR.jpg",CAPITAO AMERICA O PRIMEIRO VINGADOR
 https://lh3.googleusercontent.com/-W2vNaidxviQXVCNYEtTsCDxojohqpp04Z-l6ZA6aUKFKBQ57o_GYTUB5nwZ45mQehhlMbwCbxqD=m22
-#EXTINF:https://2.bp.blogspot.com/-k9ghQgEot5M/V8p08Q2NYuI/AAAAAAAABd8/VwG3h0rqCUMyWkxoGHFr5DVBD1WBROeogCLcB/s320/CARGA%2BEXPLOSIVA%2BO%2BLEGADO.jpg,CARGAEXPLOSIVAOLEGADO
+
+#EXTINF:https://2.bp.blogspot.com/-k9ghQgEot5M/V8p08Q2NYuI/AAAAAAAABd8/VwG3h0rqCUMyWkxoGHFr5DVBD1WBROeogCLcB/s320/CARGA%2BEXPLOSIVA%2BO%2BLEGADO.jpg",CARGA EXPLOSIVA O LEGADO
 https://lh3.googleusercontent.com/enyijaZO447Rm3Vgy7c9zW4KajLPK5olRA50S_dWnwJaWsSAAHjVSaTH-tDuB3Yvi8HxRWtJG30e=m22
-#EXTINF:https://3.bp.blogspot.com/-Mu0gd494D_U/V8p072k2JLI/AAAAAAAABd0/K5PJh0F05agfHF7ktmKWa8J3G2hX1BACgCLcB/s320/CASA%2BDA%2BMAE%2BJOANA.jpg,CASADAMAEJOANA
+
+#EXTINF:https://3.bp.blogspot.com/-Mu0gd494D_U/V8p072k2JLI/AAAAAAAABd0/K5PJh0F05agfHF7ktmKWa8J3G2hX1BACgCLcB/s320/CASA%2BDA%2BMAE%2BJOANA.jpg",CASA DA MAE JOANA
 https://lh3.googleusercontent.com/enyijaZO447Rm3Vgy7c9zW4KajLPK5olRA50S_dWnwJaWsSAAHjVSaTH-tDuB3Yvi8HxRWtJG30e=m22
-#EXTINF:https://2.bp.blogspot.com/-d6eMlZUJ9Z0/V8p08NjaxZI/AAAAAAAABd4/s7vTIq2yekQJEv2vA7mcuDjtKnhbLtAKQCLcB/s320/CASA%2BDA%2BMAE%2BJOANA%2B2.jpg,CASADAMAEJOANA2
+
+#EXTINF:https://2.bp.blogspot.com/-d6eMlZUJ9Z0/V8p08NjaxZI/AAAAAAAABd4/s7vTIq2yekQJEv2vA7mcuDjtKnhbLtAKQCLcB/s320/CASA%2BDA%2BMAE%2BJOANA%2B2.jpg",CASA DA MAE JOANA 2
 https://lh3.googleusercontent.com/GXXz2JXvOObm9TsBwcyjrIChK6olYJKE6EdUN7pS5UkZWg0sv7eRfMr630xcBz6xX0xEPhn3nzpq=m22
-#EXTINF:https://3.bp.blogspot.com/-tRaP2cW1ptE/V8p08m7VbLI/AAAAAAAABeA/Ekd6mXyFRt8CddfXTQ2X3rpGBUqHrGOzwCLcB/s1600/CEGOS%252C%2BSURDOS%2BE%2BLOUCOS.jpg,CEGOSSURDOSELOUCOS
+
+#EXTINF:https://3.bp.blogspot.com/-tRaP2cW1ptE/V8p08m7VbLI/AAAAAAAABeA/Ekd6mXyFRt8CddfXTQ2X3rpGBUqHrGOzwCLcB/s1600/CEGOS%252C%2BSURDOS%2BE%2BLOUCOS.jpg",CEGOS SURDOS E LOUCOS
 https://lh3.googleusercontent.com/Ww7xKf_JxVRIFaeI7Bi8feKiBAaFULI2KeOsfd34DSDXw7jtQCeIKHp-hMUguh7P-8zrLYgxkF4c=m22
-#EXTINF:https://1.bp.blogspot.com/-kl8ZaJU-ntk/V8p93Jj89mI/AAAAAAAABe4/GeKv2aVWByYQS7uj2FqNWj8jAAkPN1zLACLcB/s320/cela213.jpg,CELA213:BEMVINDOAOINFERNO
+
+#EXTINF:https://1.bp.blogspot.com/-kl8ZaJU-ntk/V8p93Jj89mI/AAAAAAAABe4/GeKv2aVWByYQS7uj2FqNWj8jAAkPN1zLACLcB/s320/cela213.jpg",CELA 213: BEM VINDO AO INFERNO
 https://lh3.googleusercontent.com/GZyhsPjY4_xvLFmfSnsxyqDWUsxO4PyFBKRWvjPTE1xb6cHjAk2rh6ZWPx1rhPAy7ZIQBEDthLRs=m22
-#EXTINF:https://1.bp.blogspot.com/-eXiln215RaI/V8p08373T6I/AAAAAAAABeE/TLbIkVLaCOwYyTAS73rVJ9CjRQtDAnfeACLcB/s320/CIDADES%2BDE%2BPAPEL.jpg,CIDADESDEPAPEL
+
+#EXTINF:https://1.bp.blogspot.com/-eXiln215RaI/V8p08373T6I/AAAAAAAABeE/TLbIkVLaCOwYyTAS73rVJ9CjRQtDAnfeACLcB/s320/CIDADES%2BDE%2BPAPEL.jpg",CIDADES DE PAPEL
 https://lh3.googleusercontent.com/jZbDJOqv73Z-ino79WrFsA4ZGPhJ5DSqB6TLSALiKPFinrQyHw_XFljTGuZP6jzTvamx4nB5WqFM=m22
-#EXTINF:https://4.bp.blogspot.com/-SwMbQqh49mw/V8p09Crg8LI/AAAAAAAABeI/sBxTmmNAdSUNM_NwPdXcZPhCultaGtoGwCLcB/s1600/CONDADO%2BMACABRO.jpg,CONDADOMACABRO
+
+#EXTINF:https://4.bp.blogspot.com/-SwMbQqh49mw/V8p09Crg8LI/AAAAAAAABeI/sBxTmmNAdSUNM_NwPdXcZPhCultaGtoGwCLcB/s1600/CONDADO%2BMACABRO.jpg",CONDADO MACABRO
 https://lh3.googleusercontent.com/F_FMBvrI8IEse7-RP0FEbLh87tVD6KLy7USPx_lVIBxZJRIRVGNFM8JYG-DxNxGI7Qjq1OGm3HMu=m22
-#EXTINF:https://2.bp.blogspot.com/-ZLv8x_vMLb8/V8p09XGSJfI/AAAAAAAABeM/tyi5GNV5Uaw8plubHLUlAOkgXKXe7zYeACLcB/s320/DEPOIS%2BDA%2BTERRA.jpg,DEPOISDATERRA
+
+#EXTINF:https://2.bp.blogspot.com/-ZLv8x_vMLb8/V8p09XGSJfI/AAAAAAAABeM/tyi5GNV5Uaw8plubHLUlAOkgXKXe7zYeACLcB/s320/DEPOIS%2BDA%2BTERRA.jpg",DEPOIS DA TERRA
 https://lh3.googleusercontent.com/CGGe52-OOn_-0YDaV5seM21m7QypjNWflEUV7gxXgyGUNc6vDz9Sev9Nb3hP9bN9jUqPdzjl9Uqn=m22
-#EXTINF:https://1.bp.blogspot.com/-rphtA5f4OVA/V8p09uC8-gI/AAAAAAAABeQ/CBt0OsKucIwn8vFYePmejGUDjHCLZtfKACLcB/s320/DESAFIANDO%2BOS%2BLIMITES.jpg,DESAFIANDOOSLIMITES
+
+#EXTINF:https://1.bp.blogspot.com/-rphtA5f4OVA/V8p09uC8-gI/AAAAAAAABeQ/CBt0OsKucIwn8vFYePmejGUDjHCLZtfKACLcB/s320/DESAFIANDO%2BOS%2BLIMITES.jpg",DESAFIANDO OS LIMITES
 https://lh3.googleusercontent.com/ngjRkVXYr9_cF_0y80rxVhzelMaqM74qL3IrxKOvImpl6YfEo4mS4so4PzPtVvGU_960P5HH34Wa=m22
-#EXTINF:https://3.bp.blogspot.com/-zg5xxw5-_Po/V8p094mW_XI/AAAAAAAABeU/EzzrkPfZj44fkNQ0yl2Z43rgdUj8rKWRACLcB/s320/DOCE%2BVINGANCA%2B3%2BA%2BVINGANCA%2BE%2BMINHA.jpg,DOCEVINGANCA3AVINGANCAEMINHA
+
+#EXTINF:https://3.bp.blogspot.com/-zg5xxw5-_Po/V8p094mW_XI/AAAAAAAABeU/EzzrkPfZj44fkNQ0yl2Z43rgdUj8rKWRACLcB/s320/DOCE%2BVINGANCA%2B3%2BA%2BVINGANCA%2BE%2BMINHA.jpg",DOCE VINGANCA 3 A VINGANCA E MINHA
 https://lh3.googleusercontent.com/0x0kRfYRmxUKtDj0hm7AwgM9Qd4R7SZsRoOALEcjhTdj4QF0AqUAW0--BkxczOXijFyI2_e3NfV0=m22
-#EXTINF:https://4.bp.blogspot.com/--L7ueGijC-Y/V8p09yX_MeI/AAAAAAAABeY/D9izcadHuZMDTmeLau9XXBqea3DiF6lwwCLcB/s320/ELEKTRA.jpg,ELEKTRA
+
+#EXTINF:https://4.bp.blogspot.com/--L7ueGijC-Y/V8p09yX_MeI/AAAAAAAABeY/D9izcadHuZMDTmeLau9XXBqea3DiF6lwwCLcB/s320/ELEKTRA.jpg",ELEKTRA
 https://lh3.googleusercontent.com/X6vFIsLU2KQ0H14qf1hiQZSuMZauEJxHZs8jAPof1_k9B-2d-cW1hFpujfAmOY_pyjipOCDsM1lt=m22
-#EXTINF:https://2.bp.blogspot.com/-l0hugggvfM4/V8p0-Q_v_OI/AAAAAAAABec/RKMpe1Rh7lURNn4nEOXU51czNmRLtyiZwCLcB/s320/EQUILIBRIUM.jpg,EQUILIBRIUM
+
+#EXTINF:https://2.bp.blogspot.com/-l0hugggvfM4/V8p0-Q_v_OI/AAAAAAAABec/RKMpe1Rh7lURNn4nEOXU51czNmRLtyiZwCLcB/s320/EQUILIBRIUM.jpg",EQUILIBRIUM
 https://lh3.googleusercontent.com/HEeRvFJ9n3ipZFFNpXz0RlC1ojSM8c165Rl6jCBi9NNUCLu3UEjgujgZd7MpKxlA0T9xK9es4-J_=m22
