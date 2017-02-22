@@ -14,9 +14,9 @@ http://158.69.127.12:25461/live/0101/0101/1908.m3u8
 http://158.69.127.12:25461/live/0101/0101/982.m3u8
 #EXTINF:Band News 
 http://158.69.127.12:25461/live/0101/0101/170.m3u8
-#EXTINF:Band Spo.m3u8 
+#EXTINF:Band Sports
 http://158.69.127.12:25461/live/0101/0101/169.m3u8
-#EXTINF:Band Spo.m3u8 HD 
+#EXTINF:Band Sports HD 
 http://158.69.127.12:25461/live/0101/0101/168.m3u8
 #EXTINF:BBB 17 
 http://158.69.127.12:25461/live/0101/0101/1906.m3u8
@@ -111,7 +111,7 @@ http://158.69.127.12:25461/live/0101/0101/138.m3u8
 #EXTINF:ESPN Brasil HD 
 http://158.69.127.12:25461/live/0101/0101/137.m3u8
 #EXTINF:Esporte Interativo 
-http://158.69.127.12:25461/live/0101/0101/133.m3u8
+http://169.57.142.110:25461/live/nNCfg87gFZ/FjyVMkDdpL/48.m3u8
 #EXTINF:Fish TV 
 http://158.69.127.12:25461/live/0101/0101/132.m3u8
 #EXTINF:Food Network 
@@ -128,11 +128,11 @@ http://158.69.127.12:25461/live/0101/0101/1909.m3u8
 http://158.69.127.12:25461/live/0101/0101/128.m3u8
 #EXTINF:Fox Spo.m3u8 
 http://158.69.127.12:25461/live/0101/0101/127.m3u8
-#EXTINF:Fox Spo.m3u8 HD 
+#EXTINF:Fox Sports HD 
 http://158.69.127.12:25461/live/0101/0101/124.m3u8
-#EXTINF:Fox Spo.m3u8 2 
-http://158.69.127.12:25461/live/0101/0101/126.m3u8
-#EXTINF:Fox Spo.m3u8 2 HD 
+#EXTINF:Fox Sports 2 
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u
+#EXTINF:Fox Sports 2 HD 
 http://158.69.127.12:25461/live/0101/0101/125.m3u8
 #EXTINF:FX 
 http://158.69.127.12:25461/live/0101/0101/122.m3u8
@@ -321,7 +321,7 @@ http://158.69.127.12:25461/live/0101/0101/48.m3u8
 #EXTINF:Space HD 
 http://158.69.127.12:25461/live/0101/0101/47.m3u8
 #EXTINF:SporTV 
-http://158.69.127.12:25461/live/0101/0101/46.m3u8
+http://158.69.127.12:25461/live/marcello/marcello/179.m3u8
 #EXTINF:SporTV HD 
 http://158.69.127.12:25461/live/0101/0101/179.m3u8
 #EXTINF:SporTV 2 
