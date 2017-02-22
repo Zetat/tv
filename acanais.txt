@@ -253,7 +253,7 @@ http://158.69.127.12:25461/live/0101/0101/82.m3u8
 #EXTINF:NatGeo Wild HD 
 http://158.69.127.12:25461/live/0101/0101/81.m3u8
 #EXTINF:NBR 
-http://158.69.127.12:25461/live/0101/0101/994.m3u8
+rtmp://prim.ingest.ebcremuxlive-live.adaptive.level3.net/ebcremuxlive-ebctvnbr/stream1
 #EXTINF:Nickelodeon HD 
 http://158.69.127.12:25461/live/0101/0101/77.m3u8
 #EXTINF:Nickelodeon 
@@ -385,7 +385,7 @@ http://158.69.127.12:25461/live/0101/0101/20.m3u8
 #EXTINF:TV Aparecida 
 http://158.69.127.12:25461/live/0101/0101/981.m3u8
 #EXTINF:TV Brasil 
-http://158.69.127.12:25461/live/0101/0101/18.m3u8
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
 #EXTINF:TV Cancao Nova 
 http://158.69.127.12:25461/live/0101/0101/983.m3u8
 #EXTINF:TV Cultura 
