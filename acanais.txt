@@ -1,424 +1,217 @@
 #EXTINF:Animal Planet HD 
-http://158.69.127.12:25461/live/0101/0101/175.m3u8
+
 #EXTINF:Arte 1 
-http://158.69.127.12:25461/live/0101/0101/174.m3u8
+
 #EXTINF:AXN 
-http://158.69.127.12:25461/live/0101/0101/173.m3u8
+
 #EXTINF:AXN HD 
-http://158.69.127.12:25461/live/0101/0101/172.m3u8
+
 #EXTINF:Band 
-http://158.69.127.12:25461/live/0101/0101/171.m3u8
-#EXTINF:Band HD 
-http://158.69.127.12:25461/live/0101/0101/1908.m3u8
-#EXTINF:Band Alternativo 
-http://158.69.127.12:25461/live/0101/0101/982.m3u8
+http://217.23.2.169:8081/look/band/playlist.m3u8
 #EXTINF:Band News 
-http://158.69.127.12:25461/live/0101/0101/170.m3u8
+
 #EXTINF:Band Sports
-http://158.69.127.12:25461/live/0101/0101/169.m3u8
-#EXTINF:Band Sports HD 
-http://158.69.127.12:25461/live/0101/0101/168.m3u8
+
 #EXTINF:BBB 17 
-http://158.69.127.12:25461/live/0101/0101/1906.m3u8
-#EXTINF:Fox News (US)
-http://158.69.127.12:25461/live/0101/0101/1939.m3u8
-#EXTINF:CNN (US)
-http://158.69.127.12:25461/live/0101/0101/1937.m3u8
-#EXTINF:Fuel TV HD (PT)
-http://158.69.127.12:25461/live/0101/0101/1932.m3u8
+http://tv.redecanais.com:1935/redecanaisbbb/myStream/playlist.m3u8
 #EXTINF:BIS 
-http://158.69.127.12:25461/live/0101/0101/167.m3u8
-#EXTINF:BIS HD 
-http://158.69.127.12:25461/live/0101/0101/166.m3u8
+
 #EXTINF:Boomerang 
-http://158.69.127.12:25461/live/0101/0101/165.m3u8
+
 #EXTINF:Canal Brasil 
-http://158.69.127.12:25461/live/0101/0101/164.m3u8
-#EXTINF:Canal Brasil HD 
-http://158.69.127.12:25461/live/0101/0101/163.m3u8
+
 #EXTINF:Canal Sony 
-http://158.69.127.12:25461/live/0101/0101/162.m3u8
-#EXTINF:Canal Sony HD 
-http://158.69.127.12:25461/live/0101/0101/7.m3u8
+
 #EXTINF:Cartoon Network 
-http://158.69.127.12:25461/live/0101/0101/5.m3u8
-#EXTINF:Cartoon HD 
-http://158.69.127.12:25461/live/0101/0101/6.m3u8
+http://217.23.2.169:8081/look/cartoon/playlist.m3u8
 #EXTINF:Cinemax 
-http://158.69.127.12:25461/live/0101/0101/4.m3u8
-#EXTINF:Cinemax HD 
-http://158.69.127.12:25461/live/0101/0101/3.m3u8
+
 #EXTINF:Comedy Central 
-http://158.69.127.12:25461/live/0101/0101/161.m3u8
+
 #EXTINF:Combate 
-http://158.69.127.12:25461/live/0101/0101/2.m3u8
-#EXTINF:Combate HD 
-http://158.69.127.12:25461/live/0101/0101/1.m3u8
+http://149.202.91.73:8081/edge/combate/playlist.m3u8?wmsAuthSign%3Dc2VydmVyX3RpbWU9Mi8yMi8yMDE3IDM6Mjc6NTkgUE0maGFzaF92YWx1ZT1hamJYL0JaU1RCMXZRVkhBMG9UeW1BPT0mdmFsaWRtaW51dGVzPTU%3D
 #EXTINF:Curta! 
-http://158.69.127.12:25461/live/0101/0101/984.m3u8
+
 #EXTINF:Discovery Channel 
-http://158.69.127.12:25461/live/0101/0101/159.m3u8
-#EXTINF:Discovery Channel HD 
-http://158.69.127.12:25461/live/0101/0101/158.m3u8
+
 #EXTINF:Discovery Civilization 
-http://158.69.127.12:25461/live/0101/0101/157.m3u8
+
 #EXTINF:Discovery H&H 
-http://158.69.127.12:25461/live/0101/0101/156.m3u8
+
 #EXTINF:Discovery Home & Health HD 
-http://158.69.127.12:25461/live/0101/0101/160.m3u8
+
 #EXTINF:Discovery Kids 
-http://158.69.127.12:25461/live/0101/0101/155.m3u8
-#EXTINF:Discovery Kids HD 
-http://158.69.127.12:25461/live/0101/0101/154.m3u8
+http://149.202.91.73:8081/edge/discoverykids/playlist.m3u8?wmsAuthSign%3Dc2VydmVyX3RpbWU9Mi8yMi8yMDE3IDM6MzQ6NDggUE0maGFzaF92YWx1ZT02dVgzWXdqMEd3dHozWlJHR0NTbk9RPT0mdmFsaWRtaW51dGVzPTU%3D
 #EXTINF:Discovery Science 
-http://158.69.127.12:25461/live/0101/0101/153.m3u8
+
 #EXTINF:Discovery Turbo 
-http://158.69.127.12:25461/live/0101/0101/152.m3u8
+
 #EXTINF:Discovery Turbo HD 
-http://158.69.127.12:25461/live/0101/0101/151.m3u8
+
 #EXTINF:Discovery World HD 
-http://158.69.127.12:25461/live/0101/0101/150.m3u8
+
 #EXTINF:Disney 
-http://158.69.127.12:25461/live/0101/0101/149.m3u8
+http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/playlist.m3u8
 #EXTINF:Disney XD 
-http://158.69.127.12:25461/live/0101/0101/146.m3u8
-#EXTINF:Disney Channel HD 
-http://158.69.127.12:25461/live/0101/0101/148.m3u8
+
 #EXTINF:Disney Jr 
-http://158.69.127.12:25461/live/0101/0101/147.m3u8
-#EXTINF:E! 
+
+#EXTINF:EI
 http://158.69.127.12:25461/live/0101/0101/145.m3u8
-#EXTINF:E! HD 
-http://158.69.127.12:25461/live/0101/0101/144.m3u8
 #EXTINF:EI Max 1 
-http://158.69.127.12:25461/live/0101/0101/141.m3u8
+
 #EXTINF:EI Max 2 
-http://158.69.127.12:25461/live/0101/0101/140.m3u8
-#EXTINF:EI Maxx HD 
-http://158.69.127.12:25461/live/0101/0101/142.m3u8
-#EXTINF:EI Maxx 2 HD 
-http://158.69.127.12:25461/live/0101/0101/143.m3u8
+
 #EXTINF:ESPN 
-http://158.69.127.12:25461/live/0101/0101/139.m3u8
-#EXTINF:ESPN HD 
-http://158.69.127.12:25461/live/0101/0101/136.m3u8
+
 #EXTINF:ESPN Plus 
-http://158.69.127.12:25461/live/0101/0101/135.m3u8
-#EXTINF:ESPN Plus HD 
-http://158.69.127.12:25461/live/0101/0101/134.m3u8
+
 #EXTINF:ESPN Brasil 
-http://158.69.127.12:25461/live/0101/0101/138.m3u8
-#EXTINF:ESPN Brasil HD 
-http://158.69.127.12:25461/live/0101/0101/137.m3u8
+
 #EXTINF:Esporte Interativo 
-http://169.57.142.110:25461/live/nNCfg87gFZ/FjyVMkDdpL/48.m3u8
+
 #EXTINF:Fish TV 
-http://158.69.127.12:25461/live/0101/0101/132.m3u8
+
 #EXTINF:Food Network 
-http://158.69.127.12:25461/live/0101/0101/985.m3u8
+
 #EXTINF:Fox 
-http://158.69.127.12:25461/live/0101/0101/131.m3u8
-#EXTINF:Fox HD 
-http://158.69.127.12:25461/live/0101/0101/129.m3u8
+
 #EXTINF:Fox 1 HD 
-http://158.69.127.12:25461/live/0101/0101/130.m3u8
+
 #EXTINF:Fox Action HD 
-http://158.69.127.12:25461/live/0101/0101/1909.m3u8
+
 #EXTINF:Fox Life 
-http://158.69.127.12:25461/live/0101/0101/128.m3u8
-#EXTINF:Fox Spo.m3u8 
-http://158.69.127.12:25461/live/0101/0101/127.m3u8
-#EXTINF:Fox Sports HD 
-http://158.69.127.12:25461/live/0101/0101/124.m3u8
+
+#EXTINF:Fox Sports 
+
 #EXTINF:Fox Sports 2 
 http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u
-#EXTINF:Fox Sports 2 HD 
-http://158.69.127.12:25461/live/0101/0101/125.m3u8
 #EXTINF:FX 
-http://158.69.127.12:25461/live/0101/0101/122.m3u8
-#EXTINF:FX HD 
-http://158.69.127.12:25461/live/0101/0101/121.m3u8
+
 #EXTINF:Futura 
-http://158.69.127.12:25461/live/0101/0101/123.m3u8
+
 #EXTINF:Gloob 
-http://158.69.127.12:25461/live/0101/0101/117.m3u8
-#EXTINF:Gloob HD 
-http://158.69.127.12:25461/live/0101/0101/116.m3u8
-#EXTINF:Globo Bahia 
-http://158.69.127.12:25461/live/0101/0101/1006.m3u8
-#EXTINF:Globo Brasilia 
-http://158.69.127.12:25461/live/0101/0101/986.m3u8
-#EXTINF:Globo Fortaleza 
-http://158.69.127.12:25461/live/0101/0101/1008.m3u8
-#EXTINF:Globo Goiania 
-http://158.69.127.12:25461/live/0101/0101/1005.m3u8
-#EXTINF:Globo Minas 
-http://158.69.127.12:25461/live/0101/0101/987.m3u8
-#EXTINF:Globo Nordeste 
-http://158.69.127.12:25461/live/0101/0101/988.m3u8
-#EXTINF:Globo RJ 
-http://158.69.127.12:25461/live/0101/0101/989.m3u8
-#EXTINF:Globo RS 
-http://158.69.127.12:25461/live/0101/0101/998.m3u8
-#EXTINF:Globo HD 
-http://158.69.127.12:25461/live/0101/0101/120.m3u8
-#EXTINF:Globo Premium
-http://158.69.127.12:25461/live/0101/0101/1880.m3u8
+
+#EXTINF:Globo
+http://149.202.91.73:8081/look/globo/playlist.m3u8
 #EXTINF:GloboNews 
-http://158.69.127.12:25461/live/0101/0101/119.m3u8
-#EXTINF:GloboNews HD 
-http://158.69.127.12:25461/live/0101/0101/118.m3u8
+
 #EXTINF:GNT 
-http://158.69.127.12:25461/live/0101/0101/115.m3u8
-#EXTINF:GNT HD 
-http://158.69.127.12:25461/live/0101/0101/114.m3u8
+
 #EXTINF:H2 
-http://158.69.127.12:25461/live/0101/0101/113.m3u8
-#EXTINF:H2 HD 
-http://158.69.127.12:25461/live/0101/0101/112.m3u8
+
 #EXTINF:HBO 
-http://158.69.127.12:25461/live/0101/0101/111.m3u8
-#EXTINF:HBO HD 
-http://158.69.127.12:25461/live/0101/0101/108.m3u8
+
 #EXTINF:HBO2 
-http://158.69.127.12:25461/live/0101/0101/103.m3u8
-#EXTINF:HBO2 HD 
-http://158.69.127.12:25461/live/0101/0101/102.m3u8
+
 #EXTINF:HBO Family 
-http://158.69.127.12:25461/live/0101/0101/110.m3u8
-#EXTINF:HBO Family HD 
-http://158.69.127.12:25461/live/0101/0101/109.m3u8
+
 #EXTINF:HBO Signature 
-http://158.69.127.12:25461/live/0101/0101/105.m3u8
-#EXTINF:HBO Signature HD 
-http://158.69.127.12:25461/live/0101/0101/104.m3u8
+
 #EXTINF:HBO Plus 
-http://158.69.127.12:25461/live/0101/0101/107.m3u8
-#EXTINF:HBO Plus*e 
-http://158.69.127.12:25461/live/0101/0101/990.m3u8
-#EXTINF:HBO Plus HD 
-http://158.69.127.12:25461/live/0101/0101/106.m3u8
-#EXTINF:History Channel HD 
-http://158.69.127.12:25461/live/0101/0101/27.m3u8
+
 #EXTINF:History Channel 
-http://158.69.127.12:25461/live/0101/0101/28.m3u8
+
 #EXTINF:Ideal TV 
 http://158.69.127.12:25461/live/0101/0101/991.m3u8
 #EXTINF:ID – Investigação Discovery 
-http://158.69.127.12:25461/live/0101/0101/100.m3u8
-#EXTINF:ID – Investigação Discovery HD 
-http://158.69.127.12:25461/live/0101/0101/99.m3u8
+
 #EXTINF:I Sat 
-http://158.69.127.12:25461/live/0101/0101/101.m3u8
+
 #EXTINF:Lifetime 
-http://158.69.127.12:25461/live/0101/0101/992.m3u8
-#EXTINF:Lifetime HD 
-http://158.69.127.12:25461/live/0101/0101/98.m3u8
+
 #EXTINF:Mais Globo Sat 
-http://158.69.127.12:25461/live/0101/0101/97.m3u8
-#EXTINF:Mais Globosat HD 
-http://158.69.127.12:25461/live/0101/0101/96.m3u8
+
 #EXTINF:MAX 
-http://158.69.127.12:25461/live/0101/0101/95.m3u8
-#EXTINF:MAX HD 
-http://158.69.127.12:25461/live/0101/0101/94.m3u8
+
 #EXTINF:MAX Prime 
-http://158.69.127.12:25461/live/0101/0101/93.m3u8
-#EXTINF:MAX Prime*e 
-http://158.69.127.12:25461/live/0101/0101/993.m3u8
+
 #EXTINF:MAX Prime Plus 
 http://158.69.127.12:25461/live/0101/0101/92.m3u8
 #EXTINF:MAX UP 
-http://158.69.127.12:25461/live/0101/0101/91.m3u8
-#EXTINF:MAX UP HD 
-http://158.69.127.12:25461/live/0101/0101/90.m3u8
+
 #EXTINF:Megapix 
-http://158.69.127.12:25461/live/0101/0101/89.m3u8
-#EXTINF:Megapix HD 
-http://158.69.127.12:25461/live/0101/0101/88.m3u8
+
 #EXTINF:Music Box Brasil 
-http://158.69.127.12:25461/live/0101/0101/83.m3u8
+
 #EXTINF:Multishow 
-http://158.69.127.12:25461/live/0101/0101/85.m3u8
-#EXTINF:Multishow HD 
-http://158.69.127.12:25461/live/0101/0101/84.m3u8
+
 #EXTINF:MTV 
-http://158.69.127.12:25461/live/0101/0101/87.m3u8
-#EXTINF:MTV HD 
-http://158.69.127.12:25461/live/0101/0101/86.m3u8
+
 #EXTINF:National Geographic 
-http://158.69.127.12:25461/live/0101/0101/80.m3u8
-#EXTINF:NatGeo HD 
-http://158.69.127.12:25461/live/0101/0101/82.m3u8
-#EXTINF:NatGeo Wild HD 
-http://158.69.127.12:25461/live/0101/0101/81.m3u8
+
 #EXTINF:NBR 
 rtmp://prim.ingest.ebcremuxlive-live.adaptive.level3.net/ebcremuxlive-ebctvnbr/stream1
-#EXTINF:Nickelodeon HD 
-http://158.69.127.12:25461/live/0101/0101/77.m3u8
 #EXTINF:Nickelodeon 
-http://158.69.127.12:25461/live/0101/0101/78.m3u8
+http://tv.redecanais.com:1935/redecanaisnick/myStream/playlist.m3u8
 #EXTINF:Nick Jr 
-http://158.69.127.12:25461/live/0101/0101/79.m3u8
+
 #EXTINF:Novo Tempo 
-http://158.69.127.12:25461/live/0101/0101/76.m3u8
+
 #EXTINF:OFF 
-http://158.69.127.12:25461/live/0101/0101/75.m3u8
-#EXTINF:OFF HD 
-http://158.69.127.12:25461/live/0101/0101/74.m3u8
+
 #EXTINF:Paramount 
-http://158.69.127.12:25461/live/0101/0101/73.m3u8
-#EXTINF:Paramount HD 
-http://158.69.127.12:25461/live/0101/0101/72.m3u8
+
 #EXTINF:Play TV 
-http://158.69.127.12:25461/live/0101/0101/995.m3u8
+
 #EXTINF:Premiere Clubes 
-http://158.69.127.12:25461/live/0101/0101/57.m3u8
-#EXTINF:Premiere Clube HD 
-http://158.69.127.12:25461/live/0101/0101/58.m3u8
+
 #EXTINF:Premiere 2 
-http://158.69.127.12:25461/live/0101/0101/70.m3u8
-#EXTINF:Premiere 2 HD 
-http://158.69.127.12:25461/live/0101/0101/69.m3u8
+
 #EXTINF:Premiere 3 
-http://158.69.127.12:25461/live/0101/0101/68.m3u8
-#EXTINF:Premiere 3 HD 
-http://158.69.127.12:25461/live/0101/0101/67.m3u8
+
 #EXTINF:Premiere 4 
-http://158.69.127.12:25461/live/0101/0101/66.m3u8
-#EXTINF:Premiere 4 HD 
-http://158.69.127.12:25461/live/0101/0101/65.m3u8
+
 #EXTINF:Premiere 5 
-http://158.69.127.12:25461/live/0101/0101/64.m3u8
-#EXTINF:Premiere 5 HD 
-http://158.69.127.12:25461/live/0101/0101/63.m3u8
+
 #EXTINF:Premiere 6 
-http://158.69.127.12:25461/live/0101/0101/62.m3u8
+
 #EXTINF:Premiere 7 
-http://158.69.127.12:25461/live/0101/0101/61.m3u8
+
 #EXTINF:Premiere 8 
-http://158.69.127.12:25461/live/0101/0101/60.m3u8
+
 #EXTINF:Premiere 9 
-http://158.69.127.12:25461/live/0101/0101/59.m3u8
+
 #EXTINF:Prime Box Brasil 
-http://158.69.127.12:25461/live/0101/0101/56.m3u8
+
 #EXTINF:Rede Brasil 
-http://158.69.127.12:25461/live/0101/0101/999.m3u8
+
 #EXTINF:Rede Record 
-http://158.69.127.12:25461/live/0101/0101/54.m3u8
-#EXTINF:Rede Record HD 
-http://158.69.127.12:25461/live/0101/0101/1907.m3u8
+http://149.202.91.73:8081/look/record/playlist.m3u8
 #EXTINF:Record News 
-http://158.69.127.12:25461/live/0101/0101/55.m3u8
+http://streaming57.sitehosting.com.br:1935/redesim/redesim/playlist.m3u8
 #EXTINF:Rede TV 
-http://158.69.127.12:25461/live/0101/0101/53.m3u8
+
 #EXTINF:SBT 
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
-#EXTINF:SBT HD 
-http://158.69.127.12:25461/live/0101/0101/1910.m3u8
 #EXTINF:Space 
-http://158.69.127.12:25461/live/0101/0101/48.m3u8
-#EXTINF:Space HD 
-http://158.69.127.12:25461/live/0101/0101/47.m3u8
+
 #EXTINF:SporTV 
 http://158.69.127.12:25461/live/marcello/marcello/179.m3u8
-#EXTINF:SporTV HD 
-http://158.69.127.12:25461/live/0101/0101/179.m3u8
 #EXTINF:SporTV 2 
-http://158.69.127.12:25461/live/0101/0101/45.m3u8
-#EXTINF:SporTV 2 HD 
-http://158.69.127.12:25461/live/0101/0101/180.m3u8
+
 #EXTINF:SporTV 3 
-http://158.69.127.12:25461/live/0101/0101/44.m3u8
-#EXTINF:SporTV 3 HD 
-http://158.69.127.12:25461/live/0101/0101/181.m3u8
-#EXTINF:SporTV Alternativo 
-http://158.69.127.12:25461/live/0101/0101/1003.m3u8
-#EXTINF:SporTV 2 Alternativo 
-http://158.69.127.12:25461/live/0101/0101/1002.m3u8
-#EXTINF:Studio Universal 
-http://158.69.127.12:25461/live/0101/0101/43.m3u8
-#EXTINF:Sic Internacional 
-http://158.69.127.12:25461/live/0101/0101/49.m3u8
-#EXTINF:Syfy 
-http://158.69.127.12:25461/live/0101/0101/42.m3u8
-#EXTINF:TBS 
-http://158.69.127.12:25461/live/0101/0101/41.m3u8
-#EXTINF:TLC 
-http://158.69.127.12:25461/live/0101/0101/26.m3u8
-#EXTINF:TLC HD 
-http://158.69.127.12:25461/live/0101/0101/25.m3u8
-#EXTINF:TNT 
-http://158.69.127.12:25461/live/0101/0101/24.m3u8
-#EXTINF:TNT HD 
-http://158.69.127.12:25461/live/0101/0101/23.m3u8
-#EXTINF:TNT Series 
-http://158.69.127.12:25461/live/0101/0101/21.m3u8
-#EXTINF:TCM 
-http://158.69.127.12:25461/live/0101/0101/40.m3u8
-#EXTINF:Telecine Action 
-http://158.69.127.12:25461/live/0101/0101/39.m3u8
-#EXTINF:Telecine Action HD 
-http://158.69.127.12:25461/live/0101/0101/38.m3u8
-#EXTINF:Telecine Cult 
-http://158.69.127.12:25461/live/0101/0101/37.m3u8
-#EXTINF:Telecine Fun 
-http://158.69.127.12:25461/live/0101/0101/36.m3u8
-#EXTINF:Telecine Fun HD 
-http://158.69.127.12:25461/live/0101/0101/35.m3u8
-#EXTINF:Telecine Pipoca 
-http://158.69.127.12:25461/live/0101/0101/34.m3u8
-#EXTINF:Telecine Pipoca HD 
-http://158.69.127.12:25461/live/0101/0101/33.m3u8
-#EXTINF:Telecine Premium 
-http://158.69.127.12:25461/live/0101/0101/32.m3u8
-#EXTINF:Telecine Premium HD 
-http://158.69.127.12:25461/live/0101/0101/31.m3u8
-#EXTINF:Telecine Touch 
-http://158.69.127.12:25461/live/0101/0101/30.m3u8
-#EXTINF:Telecine Touch HD 
-http://158.69.127.12:25461/live/0101/0101/29.m3u8
+
 #EXTINF:Terra Viva 
-http://158.69.127.12:25461/live/0101/0101/1004.m3u8
-#EXTINF:Tooncast 
-http://158.69.127.12:25461/live/0101/0101/20.m3u8
-#EXTINF:TV Aparecida 
-http://158.69.127.12:25461/live/0101/0101/981.m3u8
+
 #EXTINF:TV Brasil 
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
 #EXTINF:TV Cancao Nova 
-http://158.69.127.12:25461/live/0101/0101/983.m3u8
+
 #EXTINF:TV Cultura 
-http://158.69.127.12:25461/live/0101/0101/17.m3u8
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8
 #EXTINF:TV Prime Box Brazil 
-http://158.69.127.12:25461/live/0101/0101/996.m3u8
+
 #EXTINF:TV Ra-Tim-Bum 
-http://158.69.127.12:25461/live/0101/0101/1007.m3u8
+
 #EXTINF:TV RBI 
-http://158.69.127.12:25461/live/0101/0101/997.m3u8
+
 #EXTINF:TV RIT 
-http://158.69.127.12:25461/live/0101/0101/1001.m3u8
 #EXTINF:TV Rede Vida 
-http://158.69.127.12:25461/live/0101/0101/1000.m3u8
 #EXTINF:TruTV 
-http://158.69.127.12:25461/live/0101/0101/19.m3u8
 #EXTINF:Universal Channel 
-http://158.69.127.12:25461/live/0101/0101/16.m3u8
-#EXTINF:Universal Channel HD 
-http://158.69.127.12:25461/live/0101/0101/15.m3u8
+
 #EXTINF:Viva 
-http://158.69.127.12:25461/live/0101/0101/12.m3u8
-#EXTINF:Shoptime 
-http://158.69.127.12:25461/live/0101/0101/11.m3u8
-#EXTINF:VH1 HD 
-http://158.69.127.12:25461/live/0101/0101/13.m3u8
-#EXTINF:VH1 Mega H.m3u8 
-http://158.69.127.12:25461/live/0101/0101/14.m3u8
-#EXTINF:Warner Channel 
-http://158.69.127.12:25461/live/0101/0101/10.m3u8
-#EXTINF:Warner Channel HD 
-http://158.69.127.12:25461/live/0101/0101/9.m3u8
-#EXTINF:NatGeo Wild HD (PT)
-http://158.69.127.12:25461/live/0101/0101/1948.m3u8
-#EXTINF:Woohoo 
-http://158.69.127.12:25461/live/0101/0101/8.m3u8
+http://169.57.142.110:25461/live/gCvB1pCtMo/MzAMDs5CeZ/79.m3u8
+#EXTINF:Tv Gazeta
+http://livestream-f.akamaihd.net/i/5381476_2395418_lsic3kproh4yrhvqsad_1@408155/master.m3u8?__b__=678&dw=100&hdnea=st=1487776295~exp=1487778095~acl=/i/5381476_2395418_lsic3kproh4yrhvqsad_1@408155/*~hmac=190017fe49eb21d6f0242a14d52443ec251c975f65b124d1fb269b3ee292d79d&__a__=off
