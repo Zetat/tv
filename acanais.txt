@@ -57,7 +57,7 @@ http://tv.redecanais.com:1935/redecanaisdisneychannel/myStream/playlist.m3u8
 #EXTINF:Disney Jr 
 
 #EXTINF:EI
-http://158.69.127.12:25461/live/0101/0101/145.m3u8
+
 #EXTINF:EI Max 1 
 
 #EXTINF:EI Max 2 
@@ -113,7 +113,7 @@ http://149.202.91.73:8081/look/globo/playlist.m3u8
 #EXTINF:History Channel 
 
 #EXTINF:Ideal TV 
-http://158.69.127.12:25461/live/0101/0101/991.m3u8
+
 #EXTINF:ID – Investigação Discovery 
 
 #EXTINF:I Sat 
@@ -127,7 +127,7 @@ http://158.69.127.12:25461/live/0101/0101/991.m3u8
 #EXTINF:MAX Prime 
 
 #EXTINF:MAX Prime Plus 
-http://158.69.127.12:25461/live/0101/0101/92.m3u8
+
 #EXTINF:MAX UP 
 
 #EXTINF:Megapix 
