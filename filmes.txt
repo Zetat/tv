@@ -1,3 +1,172 @@
+
+
+
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:
+
+#EXTINF:,OBLIVION
+https://lh3.googleusercontent.com/fWtq0Muroi6Ujd2uiR-MQQaw9H6OFCoomAOvyRJwO4sbrclaT72Rg4VkqV33xv9mUa3ohqZvvV-vSg=m22
+
+#EXTINF:,A.I INTELIGÊNCIA ARTIFICIAL
+https://lh3.googleusercontent.com/sFcH84pQYQM3-zc0GvsxG1RvstVBgc02WHX6luADcEjZGqlNF84XnsmUQd0t980reunfm2PCwaEBFA=m22
+
+#EXTINF:,CAVALO DE GUERRA
+https://lh3.googleusercontent.com/0iJRl44Ir_O-xYv--PBs1gYOqnL_zdw6BpYyNo4JexjAJf9HRbSOPVg_5PrMTH5_22pk4liPlsOlWQ=m22
+
+#EXTINF:,MATRIX
+https://lh3.googleusercontent.com/ClL-dcozYfPu2uOKZfi1Mgy4t42N5zTM6Fmw_8GDXeXBcdRIBYeoQiBk0L8oictizerneJpkbsz8lQ=m22
+
+#EXTINF:,MATRIX REVOLUTIONS
+https://lh3.googleusercontent.com/AdhCMh4bmUoRwLYUJ6gMCmYlxwGI6AxHdJfdhmXFvRLeUv-7T7edkR0oxj7_XfjABTlgp8yJWB2-ig=m22
+
+#EXTINF:,MATRIX RELOADED
+https://lh3.googleusercontent.com/ObyUFIX7NJbVX2jf8pO7f5P_x-740NgEkNsOz_-Bu6RIGsS2TC-527SR43BYL6GZhHeKkeVg4PLz9A=m22
+
 #EXTINF:https://1.bp.blogspot.com/-dwsc48fNias/VzywMFIXBUI/AAAAAAAAAnE/dkP0TRUsi8c8IfPutDYyhZmGBbaFhp-HgCLcB/s1600/093718.jpg",A COLINA ESCARLATE
 https://lh3.googleusercontent.com/mOcPoxUU4IiiMi-H9GX5LSvynvNU_hEFx4kyuK-uo3EUBGi7PnkKoh72PLnirxyL5fI6Ccy1A3ON=m22
 
@@ -41,25 +210,25 @@ https://lh3.googleusercontent.com/tRhkV4cO4lNolxpeI9RIIPVuohbkTzYNt3O3MtNfkQrVKw
 https://lh3.googleusercontent.com/C6YbVPuY-vySR5hjXPRR30h1mlu08_wMhrfgsFgpqv747RSBCBIRZNjpOsglAHiDw1X9NxmrP_i-hQ=m18
 
 #EXTINF:https://4.bp.blogspot.com/-zgRVC0gLoLE/VzywOUeka3I/AAAAAAAAAnk/V-S35W4T9XQqgMzYMwb4vOlgp0UQxrGHACLcB/s1600/20151120_102035_MOCKINGJAY-1120-01.jpg",JOGOS VORAZES: A ESPERANCA O FINAL LEGENDADO
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!180&authkey=!AANIeWlNAWKRf8s&ithint=file%2cphp
+
 
 #EXTINF:https://2.bp.blogspot.com/-Z2e3fQlEKyw/VzywnccEe_I/AAAAAAAAArE/AE9Z0c1X9xolWZceQ9WGOxFZVr4YWRoGgCLcB/s1600/o_ultimo_cacador_de_bruxas.jpg",O ULTIMO CACADOR DE BRUXAS
 https://dl.dropboxusercontent.com/s/j2jlw67m4zzgtuz/O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29-O%20%C3%9Altimo%20Ca%C3%A7ador%20de%20Bruxas%20%282016%29%205.1%20CH%20Dublado%20720p%20%28By-LuanHarper%29.mp4dl=0
 
 #EXTINF:https://4.bp.blogspot.com/-1lm5IYrDlp0/VzywZuOKJRI/AAAAAAAAApY/mvxnOEGKNLA_BI1ISZQTiZNquTXy25ERgCLcB/s1600/Jarhead-3-The-Siege-2016.jpg",SOLDADO ANONIMO 3 O CERCO
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!174&authkey=!AN9PUQ_QJwPSBxU&ithint=video%2cavi
+
 
 #EXTINF:https://3.bp.blogspot.com/-_lX-prLWwRE/VzywYe7brzI/AAAAAAAAApQ/wSKkxKkYhY8aPxXxeOc5m8HqjcseYeQ6gCLcB/s1600/FJDJFcd.jpg",PAI EM DOSE DUPLA
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!184&authkey=!ALlOYXVjUKFbY5M&ithint=file%2cmkv
+
 
 #EXTINF:https://1.bp.blogspot.com/-vTpcN7b6TGY/Vzywi40TQLI/AAAAAAAAAqo/mKYJsuMGSnM7kWzxDIYMwGJlDaPcHQ3sQCLcB/s1600/hbrxgsM.jpg",O BOM DINOSSAURO
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!186&authkey=!AJy9Cu-PYcnlD3c&ithint=video%2cmp4
+
 
 #EXTINF:https://1.bp.blogspot.com/-gPvNfu-n6ig/VzywSqTw3TI/AAAAAAAAAoY/eFfcrFvH_5wqKzMhu-0xtUB9_8oZG1-twCLcB/s1600/3fg6W4l.jpg",A GRANDE APOSTA
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!187&authkey=!ALZth0oOkfIAhdg&ithint=video%2cmp4
+
 
 #EXTINF:https://2.bp.blogspot.com/-MkLnS6nRPAE/Vzywh7vkHSI/AAAAAAAAAqg/XIWvTrenJhs4q2pNa2HJFcYrvoNxV_FMACLcB/s1600/ceRgWCX.jpg",O BICHO VAI PEGAR 4
-https://onedrive.live.com/downloadresid=6093D5492A97AE77!188&authkey=!AGdqzD2twvbgMco&ithint=file%2cmkv
+
 
 
 #EXTINF:https://2.bp.blogspot.com/-QGH75iyMJ3c/VzywMIbE2nI/AAAAAAAAAnA/3soEG8nVkZUUN21JqOl3EbZpiqXT8q1eACLcB/s1600/090910.jpg",O REGRESSO
