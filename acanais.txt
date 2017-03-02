@@ -93,7 +93,7 @@ http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%2
 #EXTINF:Gloob 
 
 #EXTINF:Globo
-http://149.202.91.73:8081/look/globo/playlist.m3u8
+http://tv.redecanais.com:1935/redecanaisglobo/myStream/chunklist.m3u8
 #EXTINF:GloboNews 
 
 #EXTINF:GNT 
