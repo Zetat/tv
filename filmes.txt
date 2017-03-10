@@ -1,82 +1,131 @@
 
-
-
-
-#EXTINF:,
 #EXTINF:,
 
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
-
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
 
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
 
-#EXTINF:,
-
-#EXTINF:,
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
 
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
 
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
 
-#EXTINF:,
 
 #EXTINF:,
 
 #EXTINF:,
+
+
 #EXTINF:,
 
 #EXTINF:,
-#EXTINF:,
+
 
 #EXTINF:,
-#EXTINF:,
+
 
 #EXTINF:,
+
+
 #EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,
+
+
+#EXTINF:,HONRA E LEALDADE
+https://lh3.googleusercontent.com/F8AAjaL6jWtvkLg2R6Buh-F4ZT5JIS36AITuxRiEnyzsdmBIwjtd7ZgE2Yca7ZZluFMxqKJmgbdWzQ=m22
+
+#EXTINF:,FESTA DA SALSICHA
+https://lh3.googleusercontent.com/DGJYOAKdXzj3xU-dTGoFGHiSNIOElkZ_mtCeSljcB3JvCt_5gD-HGFop_yuHjaLlofBnh0cgcwP5rA=m22
+
+#EXTINF:,5 DIAS DE GUERRA
+https://lh3.googleusercontent.com/2PnJ1SIiovKWrTH8hTTyZvVGQKR_R6ynsla_nKXLvFT5k03remtYJbghFtabe_9ByNBhSdp11H2NTA=m22
+
+#EXTINF:,A ACOMPANHANTE
+https://lh3.googleusercontent.com/INx70ja-IEDATT9wf9II1bB8ABhDGDDBbHmhDfxa-B8F9jUxfq45iqbZKWfCdEQowTg9fC_LW4ZjdA=m22
+
+#EXTINF:,SEM ESCALAS
+https://lh3.googleusercontent.com/szlSvyk0BSGaVGFw3WKQJGTxM23IstSfIezie4mejBoLNTtwZrCTHJZ2y40_QcszezNEX-aqeyeEng=m22
+
+#EXTINF:,UM DIA PERFEITO
+https://lh3.googleusercontent.com/ajOd660cwUAgUfhXb6xEcm75IBXRxnEGPaNm9sINGh1ClHpiPDLkD_koYZK5R5o8ZIdRUh7o1xTWpg=m22
+
+#EXTINF:,VIREI UM GATO
+https://lh3.googleusercontent.com/cFD4VYDZr-H_oDKiIbJhLejaSt_HRRf8qtfitanvukDS3v6ifmdadFwaYZ9ETqXeLHuTo7r8a8VDpQ=m22
+
+#EXTINF:,UMA NOITE COM A FAMÍLIA BLACKS
+https://lh3.googleusercontent.com/32g3vP76azGIZc2xO2eobmG-g97lrqblIrcBPMsFzdLXI6UuKgoFg7Tlz99qoydcm0incFneOjVnUg=m22
+
+#EXTINF:,UM AMOR À ALTURA
+https://lh3.googleusercontent.com/uTjZgXC7wVt7ruJKWss5_PQ11vzgIv629L_9QF746GzUBEvpwg0JSusluBwT1q6gx0492PEKwrT4Ow=m22
+
+#EXTINF:,SULLY O HERÓI DO RIO HUDSON
+https://lh3.googleusercontent.com/wAiu8JkFyaFla0noz7RDjNJ7yJt6Cjzef9psb0ow5sp2Mm66cMlk01rQ1C4i9-POlVNDtqB9ZUOCvg=m22
+
+#EXTINF:,PROGRAMADO PARA VENCER
+https://lh3.googleusercontent.com/xlh218-QXfvMK_CaIq8ncyFpajzaZZt7xeDgVB2unafleVfTwnrkp5Edyup6nOsn-GsjIbuGOWmGcA=m22
+
+#EXTINF:,O UIVO
+https://lh3.googleusercontent.com/OQ_UtDPpKvLKep-VndPXIqBso35DTzXpjWMsPJgFsR7OttWyV5rXq8yUaO4A--KhKJLhNV1KWM-Ong=m22
+
+#EXTINF:,MEU NOME É JEEG ROBOT
+https://lh3.googleusercontent.com/L1zOwcoXalrt1Tu1pY8St56ZDk6LT02iL3pZVC66oj_2fNWxl5j8jiHw3Zuwcl0IDg3xx7Ay8WkU-g=m22
+
+#EXTINF:,OESTE SEM LEI
+https://lh3.googleusercontent.com/JcvpQpEo1e4nzi4fkfXDKEYCyne0HzGscYBUZHFHJKkMI-O8yVdmTm9izVSFbjMRUE4mA8v-4a8Uxg=m22
+
+#EXTINF:,JASON BOURNE
+https://lh3.googleusercontent.com/IjJs_H59zS5kfzS7Ww_W77Jy3Y_27QKoX60PY5Fi-ZxSfCXHFqwAa3zf2UgKv7_4Px60ltMi_8usyg=m22
+
+#EXTINF:,O BOM GIGANTE AMIGO
+https://lh3.googleusercontent.com/bexHBi6b0POB4Dcrt3Vlc2oYpvlHHp7Ly82D3TEMUdNROp9F9_Z-MylnoYAvKEcVeP1G6kLaQpI-3Q=m22
+
+#EXTINF:,NOSSO FIEL TRAIDOR
+https://lh3.googleusercontent.com/QLQiCyskWZlPH1tYRIFXPvXL5yvizu3_3uTBbUzMYBDImxQ61P2ygLqis5bVvIqbKsxxt3pJR0vJTQ=m22
+
+#EXTINF:,MEU AMIGO, O DRAGÃO
+https://lh3.googleusercontent.com/03pW9kVjNXDMYMIJ1stDc3svksjeOuXaxIYdkEzo-mDeUlfIDZf6Yf3ki_hHhbvwYWF3_eCCDPFlaQ=m22
+
+#EXTINF:,DESAFIANDO A ARTE
+https://lh3.googleusercontent.com/6D1Z21LICBRAyBQmm-4_dY2y5a5WAzrO-Kf5dbPvlHlUbMTlRiqA-LeN8Q5a2k4mGwT3JoZW6ZZZcg=m22
 
 #EXTINF:,CÃES DE GUERRA
 https://lh3.googleusercontent.com/m7qLQ5UseQt1frmjHcIhaAVRQ9saQ6-rmdlvjDRx3lwbcO1kduSSPgM8v6_1oNftnwsU2MH5klwzAg=m22
@@ -139,7 +188,7 @@ https://lh3.googleusercontent.com/c0BGT6OGK-3Vgz4Yau9h3wLpD6geENJ3HYWv_cAGeSYlyb
 https://lh3.googleusercontent.com/4YKALqWPGq3PF3H-2HLIx5I613o5D-WUL5Hlw7HU0KfS9Lp_s8jBiwwe5naY9nMCMzbecr0OeWDnPg=m22
 
 #EXTINF:,ESQUADRÃO SUICIDA
-https://lh3.googleusercontent.com/TsyGZz39xhrekvUYCpH8bHwj-fIQvpyng01f8YgCL7s6AMKqYtfl8dRIt1-N1qkQXwohN3gsApzJlA=m22
+https://lh3.googleusercontent.com/AGti9SH388K9y7Cu00tjF8-kEWdNbZYo2kvRov7EMk79Jn83IaISjjmdvMDBzBeMeOIq0DrrltAkSg=m22
 
 #EXTINF:,AGNUS DEI
 https://lh3.googleusercontent.com/Q7sVrTzR1ly7GGbjQhysA7WqSllodLGnZbir3uagFgBRl1Bj0YsPqJRscyc11mrwWNDGGtxYEmN0Ww=m22
