@@ -78,76 +78,128 @@
 #EXTINF:
 #EXTINF:
 
-#EXTINF:
+#EXTINF:CÃES DE GUERRA
+https://lh3.googleusercontent.com/m7qLQ5UseQt1frmjHcIhaAVRQ9saQ6-rmdlvjDRx3lwbcO1kduSSPgM8v6_1oNftnwsU2MH5klwzAg=m22
 
-#EXTINF:
+#EXTINF:CONEXÃO ESCOBAR
+https://lh3.googleusercontent.com/DhjpBXR0NdnreEHSjllhXvSvOkb9AqQVwMCWpSzkjrJhnGg35aKiy1oOQGT-FjVAZPKovvQci8Aq_g=m22
 
-#EXTINF:
+#EXTINF:ARRUME UM EMPREGO
+https://lh3.googleusercontent.com/Ax-ak2JnWk0qLH1hHhe5bOxS8aM3s8B-9z3SwYbHWjSh8DR2KttCSOyIqlABP17pUJuGNKepFE6IpQ=m22
 
-#EXTINF:
+#EXTINF:A HISTÓRIA REAL DE UM ASSASSINO FALSO
+https://lh3.googleusercontent.com/LUvMHj4MvHhKhmdnCb1gAsYCGB3FyB5DsNVjDv-_tpyWkVCHkzyNUsZ8sPRmlwlXzd-eCBuKZnmj6w=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:ÁGUAS RASAS
+https://lh3.googleusercontent.com/AYtc-Yqcw7aJlcgJ65krek4s83Yy5AJ8tT2pCECWwEddZzRRvKovfAo7BAjVOTtUjylK_8HATLjVpg=m22
 
-#EXTINF:
+#EXTINF:O GAROTO DE OURO
+https://lh3.googleusercontent.com/Zr9gLlD3wpzl4NsD7jL7ZN3d6sS8scs_qV1KEwvz06NhIo8xgCHpIpMA65k9CG8cI0CMNBdZPrbFmA=m22
 
-#EXTINF:
+#EXTINF:A BRUXA DO CABELO BRANCO DO REINO LUNAR
+https://lh3.googleusercontent.com/tsXoDYReVPokRj_12GaH9uJ1EXxKbwW0Vwm7xZWlS-ltgdij2x5F1Uv5VkqFfG5X0o7f3yOZ9VrTXQ=m22
 
-#EXTINF:
+#EXTINF:SANTOS E SOLDADOS A ÚLTIMA MISSÃO
+https://lh3.googleusercontent.com/Xmb9TvIqUelNonW9FZCIOJndlIWWL-XDXilZIQ76I3eAgFl8YFjHnl5kZrB0WPkZqPtLyyQDr65HFg=m22
 
-#EXTINF:
+#EXTINF:OS ESQUECIDOS
+https://lh3.googleusercontent.com/1FHEJAZPne0eKVmZg-sfMx9KA8xIkRhTfDWgXwcCzBElaHuTrmILq3Nx0oj8DbXE34O4zFPDJ5IYtQ=m22
 
-#EXTINF:
+#EXTINF:OLHOS DA JUSTIÇA
+https://lh3.googleusercontent.com/1JZ0WVRSMJUsXc5HGVSu8EiO4QYfN7BnggKuMqaygrCRiS4rN64rnP015N5a3juZ3nmbO9qHVogeOg=m22
 
-#EXTINF:
+#EXTINF:MÁXIMA PRECISÃO
+https://lh3.googleusercontent.com/_XvLUtcsBz4xYRe258h2EbMIsVp-1sBf8S0oX9IcxXqkgS7Kad5b9eWSG7WgUzgv-wk-NTlGfzBNPg=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:RATATOUILLE
+https://lh3.googleusercontent.com/PM0xDkqjpbzFNbavbhJdWrj017QBTO7xpOMgdpCdGbdlfoSFsSGGUVzj-0Bgk4QPTzwBiPejWq7aIw=m22
 
-#EXTINF:
+#EXTINF:MASCOTS
+https://lh3.googleusercontent.com/j_ZmuB_4VfsqNx-A4BJeaXQob4NmtVg09TraqWMRQxK1U3yypWQ1Os2mXdpblnV0ImQgpxcbCbWbxg=m22
 
-#EXTINF:
+#EXTINF:FIM DO JOGO
+https://lh3.googleusercontent.com/Ad1POwGTYyW5ijm7A2lF9FPLbblhgSB5GFYQTHhg4PsBro1u9n5IdzVwWMT2g1Y7E5vnib4-J3oALQ=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:APROXIMANDO-SE DO DESCONHECIDO
+https://lh3.googleusercontent.com/3j1n4_44m52S94KJ2zEhMq6whIJ4a2jgTHZD-GkD3a8mypWowTio-XpwzYZILhSTjAWNJ0eScQ8jRA=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:QUANDO AS LUZES SE APAGAM
+https://lh3.googleusercontent.com/5c7yJIpGEsjADXlFT6adE_Sp_OGCoduxXaVIZpAIsOYdl6rKtunAHJrz2i4zmnzhCDE0pStron9LGQ=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:DOIS CARA LEGAIS
+https://lh3.googleusercontent.com/lJ6lhkvvbDKe6ZKUVpk1TTxHlpR1prpwhowx1nTdGFPoJ6dIOregYQwUcsIGYLLALoU40cMCUzD9BQ=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:CAÇA FANTASMAS
+https://lh3.googleusercontent.com/UNPxloGZ0HRJe1NlKlfUwOP5YeSj0tXZwPEyCBKBjUpyjN1r2ZXXy1wT6SsIZaSIeE714VoLiOOGow=m22
 
-#EXTINF:
+#EXTINF:O TRATAMENTO
+https://lh3.googleusercontent.com/c0BGT6OGK-3Vgz4Yau9h3wLpD6geENJ3HYWv_cAGeSYlybZ1jd8KtWBvsztArSBWpjRCcXQwk-rULw=m22
 
-#EXTINF:
+#EXTINF:JADOTVILLE
+https://lh3.googleusercontent.com/4YKALqWPGq3PF3H-2HLIx5I613o5D-WUL5Hlw7HU0KfS9Lp_s8jBiwwe5naY9nMCMzbecr0OeWDnPg=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:ESQUADRÃO SUICIDA
+https://lh3.googleusercontent.com/TsyGZz39xhrekvUYCpH8bHwj-fIQvpyng01f8YgCL7s6AMKqYtfl8dRIt1-N1qkQXwohN3gsApzJlA=m22
 
-#EXTINF:
+#EXTINF:AGNUS DEI
+https://lh3.googleusercontent.com/Q7sVrTzR1ly7GGbjQhysA7WqSllodLGnZbir3uagFgBRl1Bj0YsPqJRscyc11mrwWNDGGtxYEmN0Ww=m22
 
-#EXTINF:
+#EXTINF:PARCEIROS DE JOGO
+https://lh3.googleusercontent.com/aVs79EwykMXjW7LfUSA7Q0cYq0-KAPibjHDbAF3KhDHs9Mtv80wRLKI41bppRw-Mw_89bO9nFhXUuA=m22
 
-#EXTINF:
+#EXTINF:NO MUNDO DA LUA
+https://lh3.googleusercontent.com/2c15v4yjJXqZpdciDe2ZvRY3dXhVkLLDFDHE-8MXGDBvp3-nN_wjklvO24cJh34nWwF5xqzHEgQGtw=m22
 
-#EXTINF:
+#EXTINF:O QUE EU FIZ PARA MERECER ISSO
+https://lh3.googleusercontent.com/YAVwJ4WxNI0kq2lM4KdmFoC1wHp0pk3j0YIa7EpCj-aAMyZdbJRKDxDFa-J_XtVEsPuNqMjuFHz4yA=m22
 
-#EXTINF:
-#EXTINF:
-#EXTINF:
+#EXTINF:LARRY GAYE - O COMISSÁRIO DE BORDO RENEGADO
+https://lh3.googleusercontent.com/qUkKvCDQGwQTKlpxAVSeThw5_yKY7FSFWOOyKB0vVslXSfrMc75P1hgf3rgvWXj1Zlt_rIpX6X0IPA=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:A SACADA
+https://lh3.googleusercontent.com/DF8dWeBRcBKxV67meGVKW2d3iPKyio07vCxTyMzOc4iPf78uk1QI_aDYfdD6xbx5fxYi87cBlpdNhw=m22
 
-#EXTINF:
-#EXTINF:
+#EXTINF:RASTRO DE MALDADE
+https://lh3.googleusercontent.com/ubLxSC3lRQForSzdTEl_9MOdc1IUZD1U264uatNERXimbnBPvFSe92WEAR0J1D9q0bZl6bSBdn2LdQ=m22
 
-#EXTINF:
+#EXTINF:JOGO DO DINHEIRO
+https://lh3.googleusercontent.com/yRI2MAHRQEMy_jc8-FjUdvGu6ogcTbmpHP5n6ybG8OsELz7JRuKMLpLfGd_nIBZaWJ3c8V2jGomYDg=m22
 
-#EXTINF:
+#EXTINF:INVASORES
+https://lh3.googleusercontent.com/VIScI2jo5K5RmjUl8nWiv_gikvuSAj5DMeMVF8sCuX9NCQpjayspuFvd6AHUcqB5GTBTb48gX1zAGQ=m22
+
+#EXTINF:JACKIE & RYAN - AMOR SEM MEDIDAS
+https://lh3.googleusercontent.com/hqIh2oNMZE3lPre_q1YVqv0DDJFXKFuYZ3CWzQrU6PVzj0PisQKcB2nkmcgTbQo208B0lQBUEV_0eA=m22
+
+#EXTINF:MAGGIE - A TRANSFORMAÇÃO
+https://lh3.googleusercontent.com/7o06tQRqHU9oArgKFkmAa4J79mqmJt9u8C4KFiVVVqN-yItmWh1Kf0CtYGaiqufHwxUnNg7ZM52xew=m22
+
+#EXTINF:LINCONL
+https://lh3.googleusercontent.com/WVFehd_PhGmB9S7LtCzzuOtwTzEQ6Nwd2O3YpBVS7EHr5r-puV1VQF4cCqhpwB4RTaY3kBSC1vPs1A=m22
+
+#EXTINF:NASCIDO PARA MORRER - VELOCIDADE MÁXIMA
+https://lh3.googleusercontent.com/Rpxrpx9XJ3dKuIjJN5rNkRKlfjW928K85_fC2S6K35D_i3uJrk5H6bZwX-0HDcf1d9djstziZO86pg=m22
+
+#EXTINF:OS PIRATAS
+https://lh3.googleusercontent.com/1AwnvZaj3cXpQn6HBHU88ZX8exVWlkyPUt5bmsDPWN-p1lkiSXyg0LZuGkn5_elwtmFWRSd1njJbTA=m22
+
+#EXTINF:BUSCA DE VINGANÇA
+https://lh3.googleusercontent.com/GmnqC0MVLv6g79hAE364oYjQ-0-0-RnVEq3HOB_uH-2DYf65jLZc9BsmlAhV1xdpLdjrogWaZMzGTQ=m22
+
+#EXTINF:LILA & EVE
+https://lh3.googleusercontent.com/MkNvETiR-zaxjd_0V0mY2_pHKruwViClVpCFnupyukI9FqV16gt0ajgShQyHkcbwQycL1864IzV2zQ=m22
+
+#EXTINF:TE AMAREI PARA SEMPRE
+https://lh3.googleusercontent.com/Jj1nHh3RVz9DQ7dk5y72kIYBmHU0v2gfBF4SVhzfuzpvq-Y_Vu-OFQJh3jNLpExU4aGiBWwa98ZH7A=m22
+
+#EXTINF:A ESPADA DA VINGANÇA
+https://lh3.googleusercontent.com/mEJzqrWBs5PkjYCfcyBI4oeJRxkILnnCsi-5j-1QJAm2ipmFq8SUeNfmyu9Er7XWCKeu75ahRXkVHg=m22
+
+#EXTINF:CINDERELA
+https://lh3.googleusercontent.com/FGxReHOE8bmNg7VC9tpCJA3JSnXf3J6ksSc4gd2bVz-kqqUEWJSwIsKRW7y7txjBdtoTL-VqyssAog=m22
+
+#EXTINF:CASA COMIGO?
+https://lh3.googleusercontent.com/MSDh6IvgGxBaPejy_-es6k_hWDbYuIpB_n1E7RnCtpayNzor2i0aEWMpZsoOn6KTlUKyDOSS8KinLQ=m22
 
 #EXTINF:,OBLIVION
 https://lh3.googleusercontent.com/fWtq0Muroi6Ujd2uiR-MQQaw9H6OFCoomAOvyRJwO4sbrclaT72Rg4VkqV33xv9mUa3ohqZvvV-vSg=m22
@@ -581,7 +633,7 @@ https://lh3.googleusercontent.com/y3BoDBpcwQCGgBVp8Qxf2EciKCDa23gUaKgQ2Q8f04xA-e
 https://lh3.googleusercontent.com/o9HPzkO8QgOmsIm9VFLRMZ1oBL7EXNm6ptknlrOAD7RWiincTvIHU4F3laWreFxiHbundmc1=m18
 
 #EXTINF:https://1.bp.blogspot.com/-YzfMt70BaBQ/V00gw_lr-RI/AAAAAAAAAzE/YfysfCjlcSI_FhTsu5OQ_IXw4nBxcBHnQCLcB/s1600/1461779416-capitao-america-guerra-civil.jpg",CAPITAO AMERICA GUERRA CIVIL
-https://lh3.googleusercontent.com/wjYIYBL5ZWCduSX399J-vkELPU9HwWgAY4tpUwaqrIBwyoEb8EItyoIYjNDHQqwhzHFLliuY=m18
+https://lh3.googleusercontent.com/-0yUGGWuYShhPvsYkuj4Z5-NjTGq6S3nNFck9QBXWOroopXLNf7Vn_cI7qfg2SwLasslkoqFiaHcuw=m22
 
 #EXTINF:https://3.bp.blogspot.com/-jgNLdIYaPjM/V00gxl60j8I/AAAAAAAAAzI/Kn5OWXaV3N0hTSUxjc3QeEIQSnBJZHgSACLcB/s1600/089984.jpg",COMO SER SOLTEIRA
 https://lh3.googleusercontent.com/KPuv4HUKJbHprZKbVXapbRaopZHiKDDQB7sg38taSA9BSVVP0PdhZe2gdxbLvPKUdx2HPlIM=m18
@@ -644,7 +696,7 @@ https://lh3.googleusercontent.com/0Izit7tf4eqP_8sW5J4rjAPLe971PofMi5KT6owUzumt4G
 https://lh3.googleusercontent.com/I5f3-qqcBudNllq7rvB_3heR4Ji9hKPprIt20mBRnstXDUzQMuwDKYcYlHXdw0OVv_fP3EMZXc4T=m22
 
 #EXTINF:https://3.bp.blogspot.com/-Hj2jqzZorUU/V7_eacTk0cI/AAAAAAAABRs/a-S6Rz38Ec80F424aR2oAs_BQKmpIzUDgCLcB/s320/Angry-Birds.jpg",ANGRY BIRDS: O FILME
-https://lh3.googleusercontent.com/9I57Ci5Rwm4RnWOZ1e42IP7x4v4tcroYynVXJvlh766pf3AYViHlHmhlO_ybWGoT_5ohURBYD-92cA=m22
+https://lh3.googleusercontent.com/j9Qtzqzw3Z4mm1L7yGFJajWjYhYOLkvF2fTy1jMwqTaWR__8oILI7Ywy6n6jVvKAJUY8mEm2WqRVIQ=m22
 
 #EXTINF:https://2.bp.blogspot.com/-FtbAU21ZNK4/V8D0UKUI6bI/AAAAAAAABVU/70j27itRA4kfjxzuppUPNEXJqjB7r1HgACLcB/s1600/r1eulDLp9DGcMpCelA7aaxCUjOM-212x300.jpg",AS TARTARUGAS NINJAS
 https://lh3.googleusercontent.com/J4GjhKkmUlZSu5rUJnaxN2Jp3vqez13DxuUP4KB30yv1FnYQ3oFkBEySgak757PynooB8LoOFbfW3g=m22
